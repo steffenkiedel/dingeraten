@@ -1,22 +1,41 @@
 [
   {
     "id": "tomate",
-    "name": { "de": "Tomate", "en": "Tomato" },
+    "name": {
+      "de": "Tomate",
+      "en": "Tomato"
+    },
     "category": "gemuese",
     "difficulty": 1,
     "facts": {
-      "color": ["rot", "gelb", "orange"],
+      "color": [
+        "rot",
+        "gelb",
+        "orange"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Sommer", "Herbst"],
+      "season": [
+        "Sommer",
+        "Herbst"
+      ],
       "grows_on": "Strauch",
       "common_in_germany": true,
       "taste": "süß-säuerlich"
     },
     "hints": [
-      { "de": "Es ist rot und rund", "en": "It is red and round" },
-      { "de": "Man findet es in fast jeder Soße und jedem Salat", "en": "You find it in almost every sauce and salad" },
-      { "de": "Obwohl es oft als Gemüse gilt, ist es botanisch gesehen eine Frucht", "en": "Although often called a vegetable, it is botanically a fruit" }
+      {
+        "de": "Es ist rot und rund",
+        "en": "It is red and round"
+      },
+      {
+        "de": "Man findet es in fast jeder Soße und jedem Salat",
+        "en": "You find it in almost every sauce and salad"
+      },
+      {
+        "de": "Obwohl es oft als Gemüse gilt, ist es botanisch gesehen eine Frucht",
+        "en": "Although often called a vegetable, it is botanically a fruit"
+      }
     ],
     "description": {
       "de": "Die Tomate ist ursprünglich aus Südamerika und ist heute eines der meistgegessenen Gemüse der Welt. Sie ist rot, saftig und enthält viel Vitamin C. Man isst sie roh oder gekocht in Soßen.",
@@ -32,22 +51,39 @@
   },
   {
     "id": "karotte",
-    "name": { "de": "Karotte", "en": "Carrot" },
+    "name": {
+      "de": "Karotte",
+      "en": "Carrot"
+    },
     "category": "gemuese",
     "difficulty": 1,
     "facts": {
-      "color": ["orange"],
+      "color": [
+        "orange"
+      ],
       "grows_underground": true,
       "edible_raw": true,
-      "season": ["Herbst", "Frühling"],
+      "season": [
+        "Herbst",
+        "Frühling"
+      ],
       "grows_on": "unter der Erde",
       "common_in_germany": true,
       "taste": "süß"
     },
     "hints": [
-      { "de": "Es ist orange und wächst unter der Erde", "en": "It is orange and grows underground" },
-      { "de": "Hasen lieben es besonders", "en": "Rabbits especially love it" },
-      { "de": "Es ist eine Wurzel", "en": "It is a root" }
+      {
+        "de": "Es ist orange und wächst unter der Erde",
+        "en": "It is orange and grows underground"
+      },
+      {
+        "de": "Hasen lieben es besonders",
+        "en": "Rabbits especially love it"
+      },
+      {
+        "de": "Es ist eine Wurzel",
+        "en": "It is a root"
+      }
     ],
     "description": {
       "de": "Die Karotte ist eine orange Wurzel, die im Boden wächst. Sie ist sehr gesund und enthält viel Vitamin A, das gut für die Augen ist. Man kann sie roh essen oder kochen.",
@@ -63,22 +99,39 @@
   },
   {
     "id": "kartoffel",
-    "name": { "de": "Kartoffel", "en": "Potato" },
+    "name": {
+      "de": "Kartoffel",
+      "en": "Potato"
+    },
     "category": "gemuese",
     "difficulty": 1,
     "facts": {
-      "color": ["braun", "gelb"],
+      "color": [
+        "braun",
+        "gelb"
+      ],
       "grows_underground": true,
       "edible_raw": false,
-      "season": ["Herbst"],
+      "season": [
+        "Herbst"
+      ],
       "grows_on": "unter der Erde",
       "common_in_germany": true,
       "taste": "mild, stärkehaltig"
     },
     "hints": [
-      { "de": "Es ist braun außen, gelb innen und wächst im Boden", "en": "It is brown outside, yellow inside and grows in the soil" },
-      { "de": "Man macht Pommes, Chips und Brei daraus", "en": "French fries, chips and mash are made from it" },
-      { "de": "Deutschland und Irland sind dafür besonders bekannt", "en": "Germany and Ireland are especially known for it" }
+      {
+        "de": "Es ist braun außen, gelb innen und wächst im Boden",
+        "en": "It is brown outside, yellow inside and grows in the soil"
+      },
+      {
+        "de": "Man macht Pommes, Chips und Brei daraus",
+        "en": "French fries, chips and mash are made from it"
+      },
+      {
+        "de": "Deutschland und Irland sind dafür besonders bekannt",
+        "en": "Germany and Ireland are especially known for it"
+      }
     ],
     "description": {
       "de": "Die Kartoffel kommt ursprünglich aus Peru und ist heute das wichtigste Nahrungsmittel in Deutschland. Man kann sie kochen, braten oder backen. In Deutschland gibt es über 200 Kartoffelsorten.",
@@ -94,22 +147,38 @@
   },
   {
     "id": "gurke",
-    "name": { "de": "Gurke", "en": "Cucumber" },
+    "name": {
+      "de": "Gurke",
+      "en": "Cucumber"
+    },
     "category": "gemuese",
     "difficulty": 1,
     "facts": {
-      "color": ["grün"],
+      "color": [
+        "grün"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Sommer"],
+      "season": [
+        "Sommer"
+      ],
       "grows_on": "Ranke/Pflanze",
       "common_in_germany": true,
       "taste": "mild, wässrig"
     },
     "hints": [
-      { "de": "Es ist grün, lang und kühl von innen", "en": "It is green, long and cool on the inside" },
-      { "de": "Man macht eingelegte Varianten davon (Pickles)", "en": "Pickled versions are made from it" },
-      { "de": "Es besteht zu 95% aus Wasser", "en": "It is 95% water" }
+      {
+        "de": "Es ist grün, lang und kühl von innen",
+        "en": "It is green, long and cool on the inside"
+      },
+      {
+        "de": "Man macht eingelegte Varianten davon (Pickles)",
+        "en": "Pickled versions are made from it"
+      },
+      {
+        "de": "Es besteht zu 95% aus Wasser",
+        "en": "It is 95% water"
+      }
     ],
     "description": {
       "de": "Die Gurke ist ein wasserreiches Gemüse, das im Sommer wächst. Sie ist grün, lang und kühl. Gurken essen wir im Salat, als Snack oder eingelegt als Gewürzgurken.",
@@ -125,22 +194,39 @@
   },
   {
     "id": "brokkoli",
-    "name": { "de": "Brokkoli", "en": "Broccoli" },
+    "name": {
+      "de": "Brokkoli",
+      "en": "Broccoli"
+    },
     "category": "gemuese",
     "difficulty": 1,
     "facts": {
-      "color": ["grün"],
+      "color": [
+        "grün"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Herbst", "Winter"],
+      "season": [
+        "Herbst",
+        "Winter"
+      ],
       "grows_on": "Pflanze",
       "common_in_germany": true,
       "taste": "mild, leicht bitter"
     },
     "hints": [
-      { "de": "Es ist grün und sieht aus wie ein kleiner Baum", "en": "It is green and looks like a small tree" },
-      { "de": "Viele Kinder mögen es nicht, aber es ist sehr gesund", "en": "Many children don't like it, but it is very healthy" },
-      { "de": "Es kommt ursprünglich aus Italien", "en": "It originally comes from Italy" }
+      {
+        "de": "Es ist grün und sieht aus wie ein kleiner Baum",
+        "en": "It is green and looks like a small tree"
+      },
+      {
+        "de": "Viele Kinder mögen es nicht, aber es ist sehr gesund",
+        "en": "Many children don't like it, but it is very healthy"
+      },
+      {
+        "de": "Es kommt ursprünglich aus Italien",
+        "en": "It originally comes from Italy"
+      }
     ],
     "description": {
       "de": "Brokkoli ist ein grünes Gemüse mit kleinen Röschen, das wie ein Mini-Baum aussieht. Er ist sehr gesund und enthält viele Vitamine. Brokkoli kann man kochen, dämpfen oder roh essen.",
@@ -156,22 +242,41 @@
   },
   {
     "id": "paprika",
-    "name": { "de": "Paprika", "en": "Bell Pepper" },
+    "name": {
+      "de": "Paprika",
+      "en": "Bell Pepper"
+    },
     "category": "gemuese",
     "difficulty": 1,
     "facts": {
-      "color": ["rot", "gelb", "grün", "orange"],
+      "color": [
+        "rot",
+        "gelb",
+        "grün",
+        "orange"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Sommer"],
+      "season": [
+        "Sommer"
+      ],
       "grows_on": "Pflanze",
       "common_in_germany": true,
       "taste": "süß"
     },
     "hints": [
-      { "de": "Es kann rot, gelb, grün oder orange sein", "en": "It can be red, yellow, green or orange" },
-      { "de": "Es hat innen Kerne und eine hohle Form", "en": "It has seeds inside and a hollow shape" },
-      { "de": "Rote Variante ist die süßeste, grüne die bitterste", "en": "The red variety is sweetest, green is most bitter" }
+      {
+        "de": "Es kann rot, gelb, grün oder orange sein",
+        "en": "It can be red, yellow, green or orange"
+      },
+      {
+        "de": "Es hat innen Kerne und eine hohle Form",
+        "en": "It has seeds inside and a hollow shape"
+      },
+      {
+        "de": "Rote Variante ist die süßeste, grüne die bitterste",
+        "en": "The red variety is sweetest, green is most bitter"
+      }
     ],
     "description": {
       "de": "Paprika gibt es in verschiedenen Farben: rot, gelb, grün und orange. Rote Paprika ist die reifste und süßeste. Sie wächst im Sommer und enthält sehr viel Vitamin C.",
@@ -187,22 +292,39 @@
   },
   {
     "id": "zucchini",
-    "name": { "de": "Zucchini", "en": "Zucchini" },
+    "name": {
+      "de": "Zucchini",
+      "en": "Zucchini"
+    },
     "category": "gemuese",
     "difficulty": 2,
     "facts": {
-      "color": ["grün", "gelb"],
+      "color": [
+        "grün",
+        "gelb"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Sommer"],
+      "season": [
+        "Sommer"
+      ],
       "grows_on": "Pflanze",
       "common_in_germany": true,
       "taste": "mild, leicht nussig"
     },
     "hints": [
-      { "de": "Es sieht aus wie eine große Gurke und ist grün", "en": "It looks like a big cucumber and is green" },
-      { "de": "Es wächst rasend schnell im Sommer", "en": "It grows extremely fast in summer" },
-      { "de": "Es kommt aus der Familie der Kürbisse", "en": "It belongs to the squash family" }
+      {
+        "de": "Es sieht aus wie eine große Gurke und ist grün",
+        "en": "It looks like a big cucumber and is green"
+      },
+      {
+        "de": "Es wächst rasend schnell im Sommer",
+        "en": "It grows extremely fast in summer"
+      },
+      {
+        "de": "Es kommt aus der Familie der Kürbisse",
+        "en": "It belongs to the squash family"
+      }
     ],
     "description": {
       "de": "Zucchini ist ein sommerliches Gemüse und sieht aus wie eine große Gurke. Sie gehört zur Familie der Kürbisse. Man kann sie braten, grillen oder als 'Zucchini-Nudeln' essen.",
@@ -218,22 +340,39 @@
   },
   {
     "id": "aubergine",
-    "name": { "de": "Aubergine", "en": "Eggplant" },
+    "name": {
+      "de": "Aubergine",
+      "en": "Eggplant"
+    },
     "category": "gemuese",
     "difficulty": 2,
     "facts": {
-      "color": ["lila", "dunkelviolett"],
+      "color": [
+        "lila",
+        "dunkelviolett"
+      ],
       "grows_underground": false,
       "edible_raw": false,
-      "season": ["Sommer"],
+      "season": [
+        "Sommer"
+      ],
       "grows_on": "Pflanze",
       "common_in_germany": true,
       "taste": "mild, etwas bitter"
     },
     "hints": [
-      { "de": "Es ist dunkelviolett/lila und hat eine glänzende Schale", "en": "It is dark purple/violet and has a shiny skin" },
-      { "de": "Man kennt es aus Ratatouille und Moussaka", "en": "It is known from ratatouille and moussaka" },
-      { "de": "Roh schmeckt es bitter — man muss es immer kochen", "en": "It tastes bitter raw — it must always be cooked" }
+      {
+        "de": "Es ist dunkelviolett/lila und hat eine glänzende Schale",
+        "en": "It is dark purple/violet and has a shiny skin"
+      },
+      {
+        "de": "Man kennt es aus Ratatouille und Moussaka",
+        "en": "It is known from ratatouille and moussaka"
+      },
+      {
+        "de": "Roh schmeckt es bitter — man muss es immer kochen",
+        "en": "It tastes bitter raw — it must always be cooked"
+      }
     ],
     "description": {
       "de": "Die Aubergine ist ein lila-schwarzes Gemüse aus dem Mittelmeerraum. Sie hat eine glänzende Schale und muss immer gekocht werden. Sie ist Hauptzutat in Ratatouille (Frankreich) und Moussaka (Griechenland).",
@@ -249,22 +388,40 @@
   },
   {
     "id": "lauch",
-    "name": { "de": "Lauch", "en": "Leek" },
+    "name": {
+      "de": "Lauch",
+      "en": "Leek"
+    },
     "category": "gemuese",
     "difficulty": 2,
     "facts": {
-      "color": ["grün", "weiß"],
+      "color": [
+        "grün",
+        "weiß"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Herbst", "Winter"],
+      "season": [
+        "Herbst",
+        "Winter"
+      ],
       "grows_on": "Pflanze",
       "common_in_germany": true,
       "taste": "mild-zwiebelartig"
     },
     "hints": [
-      { "de": "Es ist grün-weiß und sieht aus wie eine riesige Frühlingszwiebel", "en": "It is green-white and looks like a giant spring onion" },
-      { "de": "Es riecht und schmeckt mild nach Zwiebel", "en": "It smells and tastes mildly of onion" },
-      { "de": "Es ist das Nationalsymbol von Wales", "en": "It is the national symbol of Wales" }
+      {
+        "de": "Es ist grün-weiß und sieht aus wie eine riesige Frühlingszwiebel",
+        "en": "It is green-white and looks like a giant spring onion"
+      },
+      {
+        "de": "Es riecht und schmeckt mild nach Zwiebel",
+        "en": "It smells and tastes mildly of onion"
+      },
+      {
+        "de": "Es ist das Nationalsymbol von Wales",
+        "en": "It is the national symbol of Wales"
+      }
     ],
     "description": {
       "de": "Lauch ist ein winterliches Gemüse, das wie eine riesige Frühlingszwiebel aussieht. Er schmeckt mild nach Zwiebel und ist gut für Suppen und Eintöpfe. Lauch ist das Nationalsymbol von Wales.",
@@ -280,22 +437,40 @@
   },
   {
     "id": "pak_choi",
-    "name": { "de": "Pak Choi", "en": "Bok Choy" },
+    "name": {
+      "de": "Pak Choi",
+      "en": "Bok Choy"
+    },
     "category": "gemuese",
     "difficulty": 3,
     "facts": {
-      "color": ["grün", "weiß"],
+      "color": [
+        "grün",
+        "weiß"
+      ],
       "grows_underground": false,
       "edible_raw": true,
-      "season": ["Herbst", "Frühling"],
+      "season": [
+        "Herbst",
+        "Frühling"
+      ],
       "grows_on": "Pflanze",
       "common_in_germany": false,
       "taste": "mild, leicht senfartig"
     },
     "hints": [
-      { "de": "Es ist ein asiatisches Blattgemüse", "en": "It is an Asian leafy vegetable" },
-      { "de": "Es ist eng mit Kohl verwandt und wird viel in der chinesischen Küche verwendet", "en": "It is closely related to cabbage and widely used in Chinese cuisine" },
-      { "de": "Es hat weiße Stiele und grüne Blätter", "en": "It has white stalks and green leaves" }
+      {
+        "de": "Es ist ein asiatisches Blattgemüse",
+        "en": "It is an Asian leafy vegetable"
+      },
+      {
+        "de": "Es ist eng mit Kohl verwandt und wird viel in der chinesischen Küche verwendet",
+        "en": "It is closely related to cabbage and widely used in Chinese cuisine"
+      },
+      {
+        "de": "Es hat weiße Stiele und grüne Blätter",
+        "en": "It has white stalks and green leaves"
+      }
     ],
     "description": {
       "de": "Pak Choi ist ein asiatisches Blattgemüse mit weißen Stielen und dunkelgrünen Blättern. Es ist eng mit Kohl verwandt und wird viel in der asiatischen Küche, besonders in China, verwendet.",
@@ -311,22 +486,40 @@
   },
   {
     "id": "topinambur",
-    "name": { "de": "Topinambur", "en": "Jerusalem Artichoke" },
+    "name": {
+      "de": "Topinambur",
+      "en": "Jerusalem Artichoke"
+    },
     "category": "gemuese",
     "difficulty": 3,
     "facts": {
-      "color": ["braun", "lila"],
+      "color": [
+        "braun",
+        "lila"
+      ],
       "grows_underground": true,
       "edible_raw": true,
-      "season": ["Herbst", "Winter"],
+      "season": [
+        "Herbst",
+        "Winter"
+      ],
       "grows_on": "unter der Erde",
       "common_in_germany": false,
       "taste": "nussig, süßlich"
     },
     "hints": [
-      { "de": "Es sieht aus wie eine unregelmäßig geformte Kartoffel", "en": "It looks like an irregularly shaped potato" },
-      { "de": "Es ist mit der Sonnenblume verwandt, nicht mit der Artischocke", "en": "It is related to the sunflower, not the artichoke" },
-      { "de": "Es wächst als Knolle unter der Erde und schmeckt nussig", "en": "It grows as a tuber underground and tastes nutty" }
+      {
+        "de": "Es sieht aus wie eine unregelmäßig geformte Kartoffel",
+        "en": "It looks like an irregularly shaped potato"
+      },
+      {
+        "de": "Es ist mit der Sonnenblume verwandt, nicht mit der Artischocke",
+        "en": "It is related to the sunflower, not the artichoke"
+      },
+      {
+        "de": "Es wächst als Knolle unter der Erde und schmeckt nussig",
+        "en": "It grows as a tuber underground and tastes nutty"
+      }
     ],
     "description": {
       "de": "Topinambur ist eine Knolle, die wie eine unregelmäßige Kartoffel aussieht. Sie ist mit der Sonnenblume verwandt (trotz des Namens nicht mit der Artischocke) und schmeckt nussig-süßlich.",
@@ -342,22 +535,40 @@
   },
   {
     "id": "schwarzwurzel",
-    "name": { "de": "Schwarzwurzel", "en": "Salsify" },
+    "name": {
+      "de": "Schwarzwurzel",
+      "en": "Salsify"
+    },
     "category": "gemuese",
     "difficulty": 3,
     "facts": {
-      "color": ["schwarz", "weiß (innen)"],
+      "color": [
+        "schwarz",
+        "weiß (innen)"
+      ],
       "grows_underground": true,
       "edible_raw": false,
-      "season": ["Winter", "Frühjahr"],
+      "season": [
+        "Winter",
+        "Frühjahr"
+      ],
       "grows_on": "unter der Erde",
       "common_in_germany": false,
       "taste": "mild, leicht bitter, artischockenartig"
     },
     "hints": [
-      { "de": "Es ist eine lange, schwarze Wurzel, die als 'Spargel des kleinen Mannes' bekannt ist", "en": "It is a long, black root known as the 'asparagus of the poor'" },
-      { "de": "Innen ist es weiß und enthält einen klebrigen Milchsaft", "en": "Inside it is white and contains a sticky milky sap" },
-      { "de": "Es war früher in Deutschland sehr beliebt, ist heute aber selten", "en": "It was once very popular in Germany but is now rare" }
+      {
+        "de": "Es ist eine lange, schwarze Wurzel, die als 'Spargel des kleinen Mannes' bekannt ist",
+        "en": "It is a long, black root known as the 'asparagus of the poor'"
+      },
+      {
+        "de": "Innen ist es weiß und enthält einen klebrigen Milchsaft",
+        "en": "Inside it is white and contains a sticky milky sap"
+      },
+      {
+        "de": "Es war früher in Deutschland sehr beliebt, ist heute aber selten",
+        "en": "It was once very popular in Germany but is now rare"
+      }
     ],
     "description": {
       "de": "Die Schwarzwurzel ist eine lange, schwarze Wurzel mit weißem Fleisch. Sie wird 'Spargel des kleinen Mannes' genannt, weil sie früher sehr preiswert war. Sie enthält einen klebrigen Milchsaft.",
@@ -370,5 +581,359 @@
     "flag_url": null,
     "emoji": "🌿",
     "qa_context": "Schwarzwurzel, Haferwurzel, Spargel des kleinen Mannes, schwarze Wurzel (weiß innen), wächst unter der Erde, Winter/Frühjahr, mild/leicht bitter, nicht roh essen, sehr selten heute, enthält Inulin, klebriger Milchsaft"
+  },
+  {
+    "id": "blumenkohl",
+    "name": {
+      "de": "Blumenkohl",
+      "en": "Cauliflower"
+    },
+    "category": "gemuese",
+    "difficulty": 1,
+    "facts": {
+      "color": "weiß",
+      "type": "Kreuzblütler",
+      "edible_part": "Blütenstand",
+      "origin": "Mittelmeer"
+    },
+    "hints": [
+      {
+        "de": "Es ist weißes Gemüse, das wie eine Wolke aussieht",
+        "en": "It is white vegetable that looks like a cloud"
+      },
+      {
+        "de": "Es ist eng mit Brokkoli verwandt, aber weiß statt grün",
+        "en": "It is closely related to broccoli but white instead of green"
+      },
+      {
+        "de": "Man kann es zu Pizza-Boden oder Reis verarbeiten",
+        "en": "It can be processed into pizza base or rice"
+      }
+    ],
+    "description": {
+      "de": "Blumenkohl ist ein weißes Gemüse aus der Kohlfamilie. Er ist sehr vielseitig: Er kann als Gemüsebeilage, als Suppe oder sogar als glutenfreier Pizza-Boden verwendet werden.",
+      "en": "Cauliflower is a white vegetable from the cabbage family. It is very versatile: it can be used as a vegetable side dish, as soup or even as a gluten-free pizza base."
+    },
+    "fun_fact": {
+      "de": "Blumenkohl ist eigentlich ein riesiger Haufen von Blüten, die nie aufgeblüht sind! Was wir essen, heißt 'Quark' oder 'Curd' — Tausende kleiner Blütenknospen, die kompakt zusammengewachsen sind.",
+      "en": "Cauliflower is actually a huge bunch of flowers that never bloomed! What we eat is called 'curd' — thousands of tiny flower buds that grew together compactly."
+    },
+    "emoji": "🥦",
+    "qa_context": "Blumenkohl, Karfiol, weiß, wie Wolke aussehen, Kohlfamilie, Kreuzblütler, gesund, roh oder gekocht, Pizza-Boden, Blütenstand, Mittelmeer"
+  },
+  {
+    "id": "erbse",
+    "name": {
+      "de": "Erbse",
+      "en": "Pea"
+    },
+    "category": "gemuese",
+    "difficulty": 1,
+    "facts": {
+      "color": "grün",
+      "type": "Hülsenfrüchte",
+      "edible_part": "Samen",
+      "protein": "hoch"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein kleines, rundes, grünes Gemüse",
+        "en": "It is a small, round, green vegetable"
+      },
+      {
+        "de": "Es wächst in einer Schote und wird roh oder gekocht gegessen",
+        "en": "It grows in a pod and is eaten raw or cooked"
+      },
+      {
+        "de": "Es ist für das Märchen 'Prinzessin auf der Erbse' bekannt",
+        "en": "It is known from the fairy tale 'The Princess and the Pea'"
+      }
+    ],
+    "description": {
+      "de": "Erbsen sind kleine, runde, grüne Hülsenfrüchte. Sie wachsen in einer Schote und sind reich an Proteinen und Vitaminen. Erbsen können roh als Snack oder gekocht als Beilage gegessen werden.",
+      "en": "Peas are small, round, green legumes. They grow in a pod and are rich in proteins and vitamins. Peas can be eaten raw as a snack or cooked as a side dish."
+    },
+    "fun_fact": {
+      "de": "Gregor Mendel entdeckte die Gesetze der Vererbung — also warum Kinder ihren Eltern ähneln — durch Experimente mit Erbsen! Er kreuzte über 10.000 Erbsenpflanzen und entdeckte dabei die Grundlagen der modernen Genetik.",
+      "en": "Gregor Mendel discovered the laws of heredity — why children resemble their parents — through experiments with peas! He crossed over 10,000 pea plants and discovered the foundations of modern genetics."
+    },
+    "emoji": "🫛",
+    "qa_context": "Erbse, Schote, grün, rund, klein, Hülsenfrucht, Protein, tiefgefroren oder frisch, Mendel (Genetik), Märchen Prinzessin auf der Erbse, roh oder gekocht"
+  },
+  {
+    "id": "spinat",
+    "name": {
+      "de": "Spinat",
+      "en": "Spinach"
+    },
+    "category": "gemuese",
+    "difficulty": 1,
+    "facts": {
+      "color": "grün",
+      "type": "Blattgemüse",
+      "edible_part": "Blätter",
+      "origin": "Persien",
+      "iron": "hoch"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein grünes Blattgemüse, bekannt aus dem Popeye-Cartoon",
+        "en": "It is a green leafy vegetable, known from the Popeye cartoon"
+      },
+      {
+        "de": "Es macht angeblich stark, weil es viel Eisen enthält",
+        "en": "It supposedly makes you strong because it contains lots of iron"
+      },
+      {
+        "de": "Es kann roh als Salat oder gekocht gegessen werden",
+        "en": "It can be eaten raw as salad or cooked"
+      }
+    ],
+    "description": {
+      "de": "Spinat ist ein grünes Blattgemüse aus Persien. Er ist reich an Eisen, Vitaminen und Mineralien. Durch den Cartoon-Seemann Popeye wurde Spinat als Symbol für Kraft berühmt.",
+      "en": "Spinach is a green leafy vegetable from Persia. It is rich in iron, vitamins and minerals. Through the cartoon sailor Popeye, spinach became famous as a symbol of strength."
+    },
+    "fun_fact": {
+      "de": "Der Eisengehalt von Spinat wurde im 19. Jahrhundert irrtümlich um das Zehnfache überschätzt! Ein Wissenschaftler setzte ein Komma falsch. Der Mythos 'Spinat ist super-eisenreich' blieb — und inspirierte sogar Popeye.",
+      "en": "The iron content of spinach was mistakenly overestimated tenfold in the 19th century! A scientist put a decimal point in the wrong place. The myth 'spinach is super iron-rich' remained — and even inspired Popeye."
+    },
+    "emoji": "🥬",
+    "qa_context": "Spinat, grünes Blattgemüse, Eisen, Popeye, stark machen, Persien, roh oder gekocht, Blattsalat, Smoothie, Babyspinat"
+  },
+  {
+    "id": "spargel",
+    "name": {
+      "de": "Spargel",
+      "en": "Asparagus"
+    },
+    "category": "gemuese",
+    "difficulty": 2,
+    "facts": {
+      "color": "weiß oder grün",
+      "type": "Spargelgewächs",
+      "edible_part": "Triebe",
+      "season": "April-Juni"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein stängelförmiges Gemüse, das im Frühjahr geerntet wird",
+        "en": "It is a stem-shaped vegetable harvested in spring"
+      },
+      {
+        "de": "Es ist weiß oder grün und kommt aus der Erde",
+        "en": "It is white or green and comes from the ground"
+      },
+      {
+        "de": "In Deutschland wird es 'König der Gemüse' genannt und besonders gefeiert",
+        "en": "In Germany it is called 'King of Vegetables' and especially celebrated"
+      }
+    ],
+    "description": {
+      "de": "Spargel ist ein Frühlingsgemüse, das nur von April bis Juni geerntet wird. In Deutschland ist er besonders beliebt — die Spargelsaison ist ein kulinarisches Ereignis. Weißer Spargel wächst unter der Erde.",
+      "en": "Asparagus is a spring vegetable harvested only from April to June. It is especially popular in Germany — asparagus season is a culinary event. White asparagus grows underground."
+    },
+    "fun_fact": {
+      "de": "Weißer und grüner Spargel sind exakt die gleiche Pflanze! Weißer Spargel wächst abgedeckt ohne Licht (kein Chlorophyll = keine grüne Farbe). Sobald er Sonnenlicht bekommt, wird er grün.",
+      "en": "White and green asparagus are exactly the same plant! White asparagus grows covered without light (no chlorophyll = no green color). As soon as it gets sunlight, it turns green."
+    },
+    "emoji": "🌿",
+    "qa_context": "Spargel, weiß oder grün, Frühjahr, April-Juni, König der Gemüse, Deutschland, aus der Erde, Stangen, Spargelsuppe, König der Gemüse"
+  },
+  {
+    "id": "rote_bete",
+    "name": {
+      "de": "Rote Bete",
+      "en": "Beetroot"
+    },
+    "category": "gemuese",
+    "difficulty": 2,
+    "facts": {
+      "color": "dunkelrot",
+      "type": "Rübengewächs",
+      "edible_part": "Knolle",
+      "betain": true
+    },
+    "hints": [
+      {
+        "de": "Es ist ein dunkelrotes, rundes Gemüse",
+        "en": "It is a dark red, round vegetable"
+      },
+      {
+        "de": "Es färbt beim Kochen alles, was es berührt, tief rot",
+        "en": "It dyes everything it touches deep red when cooking"
+      },
+      {
+        "de": "Es schmeckt leicht erdig und süßlich",
+        "en": "It tastes slightly earthy and sweet"
+      }
+    ],
+    "description": {
+      "de": "Rote Bete ist eine dunkelrote Rübe mit einem erdigen, leicht süßlichen Geschmack. Sie ist sehr reich an Folsäure und Eisen. Sie wird roh, gekocht oder eingelegt gegessen.",
+      "en": "Beetroot is a dark red root vegetable with an earthy, slightly sweet taste. It is very rich in folic acid and iron. It is eaten raw, cooked or pickled."
+    },
+    "fun_fact": {
+      "de": "Rote Bete färbt den Urin rot — das ist vollkommen harmlos und normal! Trotzdem erschrecken sich viele Menschen, wenn das passiert. Der Farbstoff Betain ist der Grund und sogar ein natürlicher Lebensmittelfarbstoff.",
+      "en": "Beetroot turns urine red — this is completely harmless and normal! Still, many people are startled when this happens. The pigment betanin is the reason and is even a natural food dye."
+    },
+    "emoji": "🫚",
+    "qa_context": "Rote Bete, Rübe, dunkelrot, färbt alles rot, rund, erdig-süß, Folsäure, Eisen, roh oder gekocht, eingelegt, Salat, Saft"
+  },
+  {
+    "id": "sellerie",
+    "name": {
+      "de": "Sellerie",
+      "en": "Celery"
+    },
+    "category": "gemuese",
+    "difficulty": 2,
+    "facts": {
+      "color": "hellgrün/weiß",
+      "type": "Doldenblütler",
+      "edible_part": "Stiel oder Knolle",
+      "calories": "sehr niedrig"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein Gemüse mit sehr knackigem Stiel oder runder Knolle",
+        "en": "It is a vegetable with a very crunchy stalk or round bulb"
+      },
+      {
+        "de": "Es hat einen starken, charakteristischen Geruch",
+        "en": "It has a strong, characteristic smell"
+      },
+      {
+        "de": "Es ist eines der kalorienärmsten Gemüse überhaupt",
+        "en": "It is one of the lowest-calorie vegetables of all"
+      }
+    ],
+    "description": {
+      "de": "Sellerie gibt es als Staudensellerie (grüne Stängel) und Knollensellerie (weiße Knolle). Er hat einen intensiven Geschmack und Geruch und ist sehr kalorienarm. Er wird roh, gekocht oder als Suppe gegessen.",
+      "en": "Celery comes as stalk celery (green stems) and celeriac (white bulb). It has an intense taste and smell and is very low in calories. It is eaten raw, cooked or as soup."
+    },
+    "fun_fact": {
+      "de": "Sellerie hat so wenige Kalorien, dass man beim Kauen fast genauso viele verbrennt wie man aufnimmt! 100g Staudensellerie haben nur 14 Kalorien. Daher gilt er als 'Null-Kalorien-Lebensmittel' (obwohl das nicht ganz stimmt).",
+      "en": "Celery has so few calories that you burn almost as many chewing as you take in! 100g of stalk celery has only 14 calories. Hence it is considered a 'zero-calorie food' (although that's not quite right)."
+    },
+    "emoji": "🥬",
+    "qa_context": "Sellerie, Staudensellerie, Knollensellerie, hellgrün, weißliche Knolle, starker Geruch, kalorienarm, Suppe (Suppenkraut), roh oder gekocht, knackig"
+  },
+  {
+    "id": "artischocke",
+    "name": {
+      "de": "Artischocke",
+      "en": "Artichoke"
+    },
+    "category": "gemuese",
+    "difficulty": 3,
+    "facts": {
+      "color": "grün/violett",
+      "type": "Korbblütler",
+      "edible_part": "Blütenböden und Blattbasen",
+      "origin": "Mittelmeer"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein Gemüse, das wie eine geschlossene Blume aussieht",
+        "en": "It is a vegetable that looks like a closed flower"
+      },
+      {
+        "de": "Man zieht die Blätter heraus und tunkt sie in Soße",
+        "en": "You pull out the leaves and dip them in sauce"
+      },
+      {
+        "de": "Nur der Boden und das Innere der Blätter sind essbar",
+        "en": "Only the base and the inside of the leaves are edible"
+      }
+    ],
+    "description": {
+      "de": "Die Artischocke ist die essbare Blütenknospe einer Distelart. Man isst den Boden (Artischockenboden) und den Fleischanteil der Blätter. Sie ist reich an Ballaststoffen und Antioxidantien.",
+      "en": "The artichoke is the edible flower bud of a thistle species. You eat the base (artichoke heart) and the meaty part of the leaves. It is rich in fiber and antioxidants."
+    },
+    "fun_fact": {
+      "de": "Was wir 'Artischockenherz' nennen, ist eigentlich gar kein Herz — es ist der Boden der Blütenknospe! Echter Artischockenboden ist so wertvoll, dass er oft in teuren Restaurants serviert wird. Außerdem macht Artischocke Wasser süß, wenn man danach trinkt.",
+      "en": "What we call 'artichoke heart' is not actually a heart — it's the base of the flower bud! The true artichoke bottom is so valuable it's often served in expensive restaurants. Also, artichoke makes water taste sweet if you drink after eating it."
+    },
+    "emoji": "🥦",
+    "qa_context": "Artischocke, Blütenknospe, Distel, grün oder violett, Mittelmeer, Blätter abzupfen, Artischockenboden/-herz, reich an Ballaststoffen, mediterrane Küche"
+  },
+  {
+    "id": "fenchel",
+    "name": {
+      "de": "Fenchel",
+      "en": "Fennel"
+    },
+    "category": "gemuese",
+    "difficulty": 3,
+    "facts": {
+      "color": "grün/weiß",
+      "type": "Doldenblütler",
+      "taste": "Anis-ähnlich",
+      "edible_part": "Knolle, Stiel und Blätter",
+      "origin": "Mittelmeer"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein Gemüse mit Anis-Geschmack",
+        "en": "It is a vegetable with an anise flavor"
+      },
+      {
+        "de": "Es hat eine weiße Knolle und grüne, fedrige Blätter",
+        "en": "It has a white bulb and green, feathery leaves"
+      },
+      {
+        "de": "Es wird auch als Verdauungsmittel oder Tee verwendet",
+        "en": "It is also used as a digestive aid or tea"
+      }
+    ],
+    "description": {
+      "de": "Fenchel hat einen charakteristischen Anis-Geschmack. Die weiße Knolle wird als Gemüse gegessen, die Samen als Gewürz. Fenchelltee hilft gegen Bauchweh — Eltern geben ihn oft Babys.",
+      "en": "Fennel has a characteristic anise flavor. The white bulb is eaten as a vegetable, the seeds as a spice. Fennel tea helps with stomach aches — parents often give it to babies."
+    },
+    "fun_fact": {
+      "de": "Fenchel ist eines der ältesten Heilmittel der Menschheit! Im antiken Griechenland wurde Fenchel als Wunderpflanze verehrt: Er sollte Mut geben, Gewicht reduzieren und sogar das Sehvermögen verbessern. Das Wort 'Marathon' kommt möglicherweise vom griechischen Wort für Fenchel.",
+      "en": "Fennel is one of humanity's oldest medicines! In ancient Greece, fennel was revered as a miracle plant: it was said to give courage, reduce weight and even improve eyesight. The word 'Marathon' may come from the Greek word for fennel."
+    },
+    "emoji": "🌿",
+    "qa_context": "Fenchel, Anis-Geschmack, weiße Knolle, grüne Blätter, Tee, Heilpflanze, Mittelmeer, Bauch, Samen als Gewürz, mediterrane Küche"
+  },
+  {
+    "id": "rosenkohl",
+    "name": {
+      "de": "Rosenkohl",
+      "en": "Brussels Sprouts"
+    },
+    "category": "gemuese",
+    "difficulty": 2,
+    "facts": {
+      "color": "grün",
+      "type": "Kreuzblütler",
+      "edible_part": "Knospen",
+      "origin": "Belgien",
+      "season": "Herbst/Winter"
+    },
+    "hints": [
+      {
+        "de": "Es sind kleine, runde, grüne Kügelchen, die wie Miniatur-Kohlköpfe aussehen",
+        "en": "They are small, round, green balls that look like miniature cabbages"
+      },
+      {
+        "de": "Viele Kinder mögen es nicht — es hat einen starken Geschmack",
+        "en": "Many children don't like it — it has a strong flavor"
+      },
+      {
+        "de": "Es kommt ursprünglich aus Belgien",
+        "en": "It originally comes from Belgium"
+      }
+    ],
+    "description": {
+      "de": "Rosenkohl sind kleine, grüne Kohlköpfchen, die an einem langen Stiel wachsen. Sie sind reich an Vitamin C und K. Der starke Geruch beim Kochen macht sie bei Kindern unbeliebt.",
+      "en": "Brussels sprouts are small, green cabbage heads that grow on a long stalk. They are rich in vitamin C and K. The strong smell when cooking makes them unpopular with children."
+    },
+    "fun_fact": {
+      "de": "Rosenkohl wurde ursprünglich in Belgien (nahe Brüssel) gezüchtet — daher der Name 'Brussels Sprouts'! Außerdem kann man ihn in den meisten deutschen Gärten noch nach dem ersten Frost ernten: Frost macht ihn sogar süßer.",
+      "en": "Brussels sprouts were originally cultivated in Belgium (near Brussels) — hence the name 'Brussels Sprouts'! Also, you can harvest them in most German gardens even after the first frost: frost actually makes them sweeter."
+    },
+    "emoji": "🥦",
+    "qa_context": "Rosenkohl, Brüsseler Kohl, kleine Kohlköpfchen, grün, rund, Belgien, Herbst/Winter, Vitamin C, starker Geruch, bei Kindern unbeliebt, am Stiel wachsend"
   }
 ]

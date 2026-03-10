@@ -1,7 +1,10 @@
 [
   {
     "id": "hund",
-    "name": { "de": "Hund", "en": "Dog" },
+    "name": {
+      "de": "Hund",
+      "en": "Dog"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -12,13 +15,24 @@
       "legs": 4,
       "has_fur": true,
       "domestic": true,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein sehr beliebtes Haustier", "en": "It is a very popular pet" },
-      { "de": "Es bellt", "en": "It barks" },
-      { "de": "Es ist der beste Freund des Menschen", "en": "It is man's best friend" }
+      {
+        "de": "Es ist ein sehr beliebtes Haustier",
+        "en": "It is a very popular pet"
+      },
+      {
+        "de": "Es bellt",
+        "en": "It barks"
+      },
+      {
+        "de": "Es ist der beste Freund des Menschen",
+        "en": "It is man's best friend"
+      }
     ],
     "description": {
       "de": "Der Hund ist das älteste Haustier der Welt und lebt seit über 15.000 Jahren mit Menschen zusammen. Er kann bellen, schnüffeln und ist sehr treu.",
@@ -34,7 +48,10 @@
   },
   {
     "id": "katze",
-    "name": { "de": "Katze", "en": "Cat" },
+    "name": {
+      "de": "Katze",
+      "en": "Cat"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -45,13 +62,24 @@
       "legs": 4,
       "has_fur": true,
       "domestic": true,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es miaut und schnurrt", "en": "It meows and purrs" },
-      { "de": "Es ist ein beliebtes Haustier und sehr unabhängig", "en": "It is a popular pet and very independent" },
-      { "de": "Es ist nachtaktiv und klettert gerne", "en": "It is nocturnal and loves to climb" }
+      {
+        "de": "Es miaut und schnurrt",
+        "en": "It meows and purrs"
+      },
+      {
+        "de": "Es ist ein beliebtes Haustier und sehr unabhängig",
+        "en": "It is a popular pet and very independent"
+      },
+      {
+        "de": "Es ist nachtaktiv und klettert gerne",
+        "en": "It is nocturnal and loves to climb"
+      }
     ],
     "description": {
       "de": "Die Katze ist nach dem Hund das beliebteste Haustier der Welt. Sie schnurrt wenn sie glücklich ist, miaut und ist nachtaktiv. Katzen sind sehr unabhängig.",
@@ -67,7 +95,10 @@
   },
   {
     "id": "loewe",
-    "name": { "de": "Löwe", "en": "Lion" },
+    "name": {
+      "de": "Löwe",
+      "en": "Lion"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -78,13 +109,25 @@
       "legs": 4,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Afrika", "Asien"],
+      "continent": [
+        "Afrika",
+        "Asien"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es wird der 'König der Tiere' genannt", "en": "It is called the 'King of Animals'" },
-      { "de": "Das Männchen hat eine Mähne", "en": "The male has a mane" },
-      { "de": "Es lebt in der afrikanischen Savanne", "en": "It lives in the African savanna" }
+      {
+        "de": "Es wird der 'König der Tiere' genannt",
+        "en": "It is called the 'King of Animals'"
+      },
+      {
+        "de": "Das Männchen hat eine Mähne",
+        "en": "The male has a mane"
+      },
+      {
+        "de": "Es lebt in der afrikanischen Savanne",
+        "en": "It lives in the African savanna"
+      }
     ],
     "description": {
       "de": "Der Löwe ist ein großes Raubtier aus der Familie der Katzen und lebt in der Savanne Afrikas. Das Männchen hat eine eindrucksvolle Mähne. Löwen leben in Gruppen, die man Rudel nennt.",
@@ -100,7 +143,10 @@
   },
   {
     "id": "elefant",
-    "name": { "de": "Elefant", "en": "Elephant" },
+    "name": {
+      "de": "Elefant",
+      "en": "Elephant"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -111,13 +157,25 @@
       "legs": 4,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Afrika", "Asien"],
+      "continent": [
+        "Afrika",
+        "Asien"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es ist das größte Landtier der Welt", "en": "It is the largest land animal in the world" },
-      { "de": "Es hat einen langen Rüssel", "en": "It has a long trunk" },
-      { "de": "Es hat große Ohren und Stoßzähne", "en": "It has large ears and tusks" }
+      {
+        "de": "Es ist das größte Landtier der Welt",
+        "en": "It is the largest land animal in the world"
+      },
+      {
+        "de": "Es hat einen langen Rüssel",
+        "en": "It has a long trunk"
+      },
+      {
+        "de": "Es hat große Ohren und Stoßzähne",
+        "en": "It has large ears and tusks"
+      }
     ],
     "description": {
       "de": "Der Elefant ist das größte Landtier der Welt. Er hat einen langen Rüssel, den er zum Trinken, Fressen und zur Kommunikation nutzt. Elefanten leben in Herden und haben ein sehr gutes Gedächtnis.",
@@ -133,7 +191,10 @@
   },
   {
     "id": "delfin",
-    "name": { "de": "Delfin", "en": "Dolphin" },
+    "name": {
+      "de": "Delfin",
+      "en": "Dolphin"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -144,13 +205,24 @@
       "legs": 0,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es lebt im Wasser, ist aber kein Fisch", "en": "It lives in water but is not a fish" },
-      { "de": "Es ist sehr intelligent und springt gerne", "en": "It is very intelligent and loves to jump" },
-      { "de": "Es macht Klicklaute zur Kommunikation", "en": "It makes clicking sounds to communicate" }
+      {
+        "de": "Es lebt im Wasser, ist aber kein Fisch",
+        "en": "It lives in water but is not a fish"
+      },
+      {
+        "de": "Es ist sehr intelligent und springt gerne",
+        "en": "It is very intelligent and loves to jump"
+      },
+      {
+        "de": "Es macht Klicklaute zur Kommunikation",
+        "en": "It makes clicking sounds to communicate"
+      }
     ],
     "description": {
       "de": "Der Delfin ist ein Meeressäugetier und gehört zur Familie der Wale. Er muss regelmäßig an die Oberfläche zum Atmen. Delfine sind sehr intelligent und leben in Gruppen.",
@@ -166,7 +238,10 @@
   },
   {
     "id": "pinguin",
-    "name": { "de": "Pinguin", "en": "Penguin" },
+    "name": {
+      "de": "Pinguin",
+      "en": "Penguin"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -177,13 +252,26 @@
       "legs": 2,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Antarktis", "Südamerika", "Afrika"],
+      "continent": [
+        "Antarktis",
+        "Südamerika",
+        "Afrika"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein Vogel, aber kann nicht fliegen", "en": "It is a bird but cannot fly" },
-      { "de": "Es schwimmt sehr gut und isst Fische", "en": "It swims very well and eats fish" },
-      { "de": "Es sieht aus wie jemand im Smoking", "en": "It looks like someone in a tuxedo" }
+      {
+        "de": "Es ist ein Vogel, aber kann nicht fliegen",
+        "en": "It is a bird but cannot fly"
+      },
+      {
+        "de": "Es schwimmt sehr gut und isst Fische",
+        "en": "It swims very well and eats fish"
+      },
+      {
+        "de": "Es sieht aus wie jemand im Smoking",
+        "en": "It looks like someone in a tuxedo"
+      }
     ],
     "description": {
       "de": "Der Pinguin ist ein Vogel, der nicht fliegen kann, aber sehr gut schwimmt. Die meisten Pinguine leben in der Antarktis oder an Küsten der Südhalbkugel. Sie haben Schwarz-Weiß-Gefieder.",
@@ -199,7 +287,10 @@
   },
   {
     "id": "giraffe",
-    "name": { "de": "Giraffe", "en": "Giraffe" },
+    "name": {
+      "de": "Giraffe",
+      "en": "Giraffe"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -210,13 +301,24 @@
       "legs": 4,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Afrika"],
+      "continent": [
+        "Afrika"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist das größte lebende Landtier nach dem Elefanten", "en": "It is the tallest living land animal" },
-      { "de": "Es hat einen sehr langen Hals", "en": "It has a very long neck" },
-      { "de": "Es lebt in der afrikanischen Savanne und frisst Blätter von Bäumen", "en": "It lives in the African savanna and eats leaves from trees" }
+      {
+        "de": "Es ist das größte lebende Landtier nach dem Elefanten",
+        "en": "It is the tallest living land animal"
+      },
+      {
+        "de": "Es hat einen sehr langen Hals",
+        "en": "It has a very long neck"
+      },
+      {
+        "de": "Es lebt in der afrikanischen Savanne und frisst Blätter von Bäumen",
+        "en": "It lives in the African savanna and eats leaves from trees"
+      }
     ],
     "description": {
       "de": "Die Giraffe ist das höchste Tier der Welt — bis zu 6 Meter! Mit ihrem langen Hals kommt sie an Blätter von Bäumen, die andere Tiere nicht erreichen. Giraffen haben ein fleckiges Muster.",
@@ -232,7 +334,10 @@
   },
   {
     "id": "hai",
-    "name": { "de": "Hai", "en": "Shark" },
+    "name": {
+      "de": "Hai",
+      "en": "Shark"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -243,13 +348,24 @@
       "legs": 0,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein großer Raubfisch im Ozean", "en": "It is a large predatory fish in the ocean" },
-      { "de": "Es hat viele Reihen von Zähnen", "en": "It has many rows of teeth" },
-      { "de": "Es hat eine Rückenflosse, die aus dem Wasser ragt", "en": "It has a dorsal fin that sticks out of the water" }
+      {
+        "de": "Es ist ein großer Raubfisch im Ozean",
+        "en": "It is a large predatory fish in the ocean"
+      },
+      {
+        "de": "Es hat viele Reihen von Zähnen",
+        "en": "It has many rows of teeth"
+      },
+      {
+        "de": "Es hat eine Rückenflosse, die aus dem Wasser ragt",
+        "en": "It has a dorsal fin that sticks out of the water"
+      }
     ],
     "description": {
       "de": "Der Hai ist ein großer Raubfisch und einer der ältesten Fische der Welt. Er hat keine Knochen, sondern ein Knorpelskelett. Haie haben mehrere Reihen von Zähnen, die sich immer wieder erneuern.",
@@ -265,7 +381,10 @@
   },
   {
     "id": "biene",
-    "name": { "de": "Biene", "en": "Bee" },
+    "name": {
+      "de": "Biene",
+      "en": "Bee"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -276,13 +395,24 @@
       "legs": 6,
       "has_fur": false,
       "domestic": true,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es macht Honig", "en": "It makes honey" },
-      { "de": "Es kann stechen", "en": "It can sting" },
-      { "de": "Es hat 6 Beine und 4 Flügel", "en": "It has 6 legs and 4 wings" }
+      {
+        "de": "Es macht Honig",
+        "en": "It makes honey"
+      },
+      {
+        "de": "Es kann stechen",
+        "en": "It can sting"
+      },
+      {
+        "de": "Es hat 6 Beine und 4 Flügel",
+        "en": "It has 6 legs and 4 wings"
+      }
     ],
     "description": {
       "de": "Die Biene ist ein kleines Insekt, das in Kolonien lebt. Sie sammelt Nektar von Blüten und produziert daraus Honig. Bienen sind sehr wichtig für die Bestäubung von Pflanzen.",
@@ -298,7 +428,10 @@
   },
   {
     "id": "adler",
-    "name": { "de": "Adler", "en": "Eagle" },
+    "name": {
+      "de": "Adler",
+      "en": "Eagle"
+    },
     "category": "tiere",
     "difficulty": 1,
     "facts": {
@@ -309,13 +442,24 @@
       "legs": 2,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein großer Raubvogel", "en": "It is a large bird of prey" },
-      { "de": "Es sieht extrem gut und fliegt sehr hoch", "en": "It has excellent eyesight and flies very high" },
-      { "de": "Es ist das Wappentier vieler Länder", "en": "It is the heraldic animal of many countries" }
+      {
+        "de": "Es ist ein großer Raubvogel",
+        "en": "It is a large bird of prey"
+      },
+      {
+        "de": "Es sieht extrem gut und fliegt sehr hoch",
+        "en": "It has excellent eyesight and flies very high"
+      },
+      {
+        "de": "Es ist das Wappentier vieler Länder",
+        "en": "It is the heraldic animal of many countries"
+      }
     ],
     "description": {
       "de": "Der Adler ist ein großer Greifvogel mit scharfen Krallen und einem Hakenschnabel. Er kann sehr hoch fliegen und sieht dabei Beute aus mehreren Kilometern Entfernung. Adler sind Symbole der Stärke.",
@@ -331,7 +475,10 @@
   },
   {
     "id": "tiger",
-    "name": { "de": "Tiger", "en": "Tiger" },
+    "name": {
+      "de": "Tiger",
+      "en": "Tiger"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -342,13 +489,24 @@
       "legs": 4,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Asien"],
+      "continent": [
+        "Asien"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es ist das größte Raubtier der Katzenfamilie", "en": "It is the largest predator in the cat family" },
-      { "de": "Es hat orange-schwarz gestreifte Muster", "en": "It has orange and black striped patterns" },
-      { "de": "Es lebt in Asien und kann schwimmen", "en": "It lives in Asia and can swim" }
+      {
+        "de": "Es ist das größte Raubtier der Katzenfamilie",
+        "en": "It is the largest predator in the cat family"
+      },
+      {
+        "de": "Es hat orange-schwarz gestreifte Muster",
+        "en": "It has orange and black striped patterns"
+      },
+      {
+        "de": "Es lebt in Asien und kann schwimmen",
+        "en": "It lives in Asia and can swim"
+      }
     ],
     "description": {
       "de": "Der Tiger ist das größte Raubtier der Welt aus der Katzenfamilie. Er lebt in Asien in Dschungeln und ist ein ausgezeichneter Schwimmer. Sein gestreiftes Fell tarnt ihn im Dickicht.",
@@ -364,7 +522,10 @@
   },
   {
     "id": "kaenguru",
-    "name": { "de": "Känguru", "en": "Kangaroo" },
+    "name": {
+      "de": "Känguru",
+      "en": "Kangaroo"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -375,13 +536,24 @@
       "legs": 2,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Australien/Ozeanien"],
+      "continent": [
+        "Australien/Ozeanien"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es hüpft auf zwei Beinen", "en": "It hops on two legs" },
-      { "de": "Das Weibchen trägt seine Jungen im Beutel", "en": "The female carries her young in a pouch" },
-      { "de": "Es lebt nur in Australien", "en": "It only lives in Australia" }
+      {
+        "de": "Es hüpft auf zwei Beinen",
+        "en": "It hops on two legs"
+      },
+      {
+        "de": "Das Weibchen trägt seine Jungen im Beutel",
+        "en": "The female carries her young in a pouch"
+      },
+      {
+        "de": "Es lebt nur in Australien",
+        "en": "It only lives in Australia"
+      }
     ],
     "description": {
       "de": "Das Känguru ist ein Beuteltier und lebt ausschließlich in Australien. Es hüpft auf seinen kräftigen Hinterbeinen und trägt seine Jungen (Joey) in einem Beutel. Der Schwanz hilft beim Gleichgewicht.",
@@ -397,7 +569,10 @@
   },
   {
     "id": "krokodil",
-    "name": { "de": "Krokodil", "en": "Crocodile" },
+    "name": {
+      "de": "Krokodil",
+      "en": "Crocodile"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -408,13 +583,27 @@
       "legs": 4,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Afrika", "Asien", "Australien/Ozeanien", "Amerika"],
+      "continent": [
+        "Afrika",
+        "Asien",
+        "Australien/Ozeanien",
+        "Amerika"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein Reptil mit Schuppen und scharfen Zähnen", "en": "It is a reptile with scales and sharp teeth" },
-      { "de": "Es lebt im Wasser und an Land", "en": "It lives both in water and on land" },
-      { "de": "Es ist eines der ältesten Reptilien — ähnliche Tiere lebten schon zu Dinosaurierzeiten", "en": "It is one of the oldest reptiles — similar animals lived in the time of the dinosaurs" }
+      {
+        "de": "Es ist ein Reptil mit Schuppen und scharfen Zähnen",
+        "en": "It is a reptile with scales and sharp teeth"
+      },
+      {
+        "de": "Es lebt im Wasser und an Land",
+        "en": "It lives both in water and on land"
+      },
+      {
+        "de": "Es ist eines der ältesten Reptilien — ähnliche Tiere lebten schon zu Dinosaurierzeiten",
+        "en": "It is one of the oldest reptiles — similar animals lived in the time of the dinosaurs"
+      }
     ],
     "description": {
       "de": "Das Krokodil ist ein großes Reptil, das in tropischen Flüssen und Sümpfen lebt. Es hat eine harte Schuppenrüstung und scharfe Zähne. Krokodile sind seit der Zeit der Dinosaurier kaum verändert.",
@@ -430,7 +619,10 @@
   },
   {
     "id": "eule",
-    "name": { "de": "Eule", "en": "Owl" },
+    "name": {
+      "de": "Eule",
+      "en": "Owl"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -441,13 +633,24 @@
       "legs": 2,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein nachtaktiver Raubvogel", "en": "It is a nocturnal bird of prey" },
-      { "de": "Es kann seinen Kopf fast 270 Grad drehen", "en": "It can rotate its head almost 270 degrees" },
-      { "de": "Sein Ruf klingt wie 'Uhu'", "en": "Its call sounds like 'hoo hoo'" }
+      {
+        "de": "Es ist ein nachtaktiver Raubvogel",
+        "en": "It is a nocturnal bird of prey"
+      },
+      {
+        "de": "Es kann seinen Kopf fast 270 Grad drehen",
+        "en": "It can rotate its head almost 270 degrees"
+      },
+      {
+        "de": "Sein Ruf klingt wie 'Uhu'",
+        "en": "Its call sounds like 'hoo hoo'"
+      }
     ],
     "description": {
       "de": "Die Eule ist ein nachtaktiver Raubvogel mit großen Augen und einem runden Gesicht. Sie kann fast lautlos fliegen und hört sehr gut. Eulen sind Symbole der Weisheit.",
@@ -463,7 +666,10 @@
   },
   {
     "id": "gorilla",
-    "name": { "de": "Gorilla", "en": "Gorilla" },
+    "name": {
+      "de": "Gorilla",
+      "en": "Gorilla"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -474,13 +680,24 @@
       "legs": 2,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Afrika"],
+      "continent": [
+        "Afrika"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es ist der größte Primat der Welt", "en": "It is the largest primate in the world" },
-      { "de": "Es lebt im Regenwald Afrikas", "en": "It lives in the rainforests of Africa" },
-      { "de": "Es ist eng mit dem Menschen verwandt", "en": "It is closely related to humans" }
+      {
+        "de": "Es ist der größte Primat der Welt",
+        "en": "It is the largest primate in the world"
+      },
+      {
+        "de": "Es lebt im Regenwald Afrikas",
+        "en": "It lives in the rainforests of Africa"
+      },
+      {
+        "de": "Es ist eng mit dem Menschen verwandt",
+        "en": "It is closely related to humans"
+      }
     ],
     "description": {
       "de": "Der Gorilla ist der größte lebende Primat und lebt im Regenwald Zentralafrikas. Er ist trotz seiner Größe ein Pflanzenfresser. Gorillas teilen 98,3% ihrer DNA mit Menschen.",
@@ -496,7 +713,10 @@
   },
   {
     "id": "flamingo",
-    "name": { "de": "Flamingo", "en": "Flamingo" },
+    "name": {
+      "de": "Flamingo",
+      "en": "Flamingo"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -507,13 +727,27 @@
       "legs": 2,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Afrika", "Amerika", "Asien", "Europa"],
+      "continent": [
+        "Afrika",
+        "Amerika",
+        "Asien",
+        "Europa"
+      ],
       "endangered": false
     },
     "hints": [
-      { "de": "Es ist ein großer, rosafarbener Vogel", "en": "It is a large, pink-colored bird" },
-      { "de": "Es steht oft auf einem Bein", "en": "It often stands on one leg" },
-      { "de": "Es frisst mit dem Kopf nach unten im Wasser", "en": "It feeds with its head upside down in water" }
+      {
+        "de": "Es ist ein großer, rosafarbener Vogel",
+        "en": "It is a large, pink-colored bird"
+      },
+      {
+        "de": "Es steht oft auf einem Bein",
+        "en": "It often stands on one leg"
+      },
+      {
+        "de": "Es frisst mit dem Kopf nach unten im Wasser",
+        "en": "It feeds with its head upside down in water"
+      }
     ],
     "description": {
       "de": "Der Flamingo ist ein großer Vogel mit auffälligem rosa Gefieder. Er lebt an Salzseen und Lagunen und frisst Algen und Krebstiere, die sein Gefieder rosa färben. Flamingos stehen oft auf einem Bein.",
@@ -529,7 +763,10 @@
   },
   {
     "id": "nilpferd",
-    "name": { "de": "Nilpferd", "en": "Hippopotamus" },
+    "name": {
+      "de": "Nilpferd",
+      "en": "Hippopotamus"
+    },
     "category": "tiere",
     "difficulty": 2,
     "facts": {
@@ -540,13 +777,24 @@
       "legs": 4,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Afrika"],
+      "continent": [
+        "Afrika"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es ist das drittgrößte Landtier nach Elefant und Nashorn", "en": "It is the third largest land animal after elephants and rhinos" },
-      { "de": "Es verbringt viel Zeit im Wasser", "en": "It spends a lot of time in the water" },
-      { "de": "Sein Name bedeutet 'Nilpferd' auf Griechisch", "en": "Its name means 'river horse' in Greek" }
+      {
+        "de": "Es ist das drittgrößte Landtier nach Elefant und Nashorn",
+        "en": "It is the third largest land animal after elephants and rhinos"
+      },
+      {
+        "de": "Es verbringt viel Zeit im Wasser",
+        "en": "It spends a lot of time in the water"
+      },
+      {
+        "de": "Sein Name bedeutet 'Nilpferd' auf Griechisch",
+        "en": "Its name means 'river horse' in Greek"
+      }
     ],
     "description": {
       "de": "Das Nilpferd ist ein großes Säugetier, das in Flüssen und Seen Afrikas lebt. Obwohl es massig ist, kann es überraschend schnell laufen. Nilpferde sind gefährlicher als die meisten Menschen denken.",
@@ -562,7 +810,10 @@
   },
   {
     "id": "axolotl",
-    "name": { "de": "Axolotl", "en": "Axolotl" },
+    "name": {
+      "de": "Axolotl",
+      "en": "Axolotl"
+    },
     "category": "tiere",
     "difficulty": 3,
     "facts": {
@@ -573,13 +824,24 @@
       "legs": 4,
       "has_fur": false,
       "domestic": true,
-      "continent": ["Amerika"],
+      "continent": [
+        "Amerika"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es ist eine Amphibie, die nie erwachsen wird (äußerlich)", "en": "It is an amphibian that never grows up (externally)" },
-      { "de": "Es hat auffällige Kiemen-Büsche auf dem Kopf", "en": "It has striking gill tufts on its head" },
-      { "de": "Es kann verlorene Körperteile nachwachsen lassen", "en": "It can regrow lost body parts" }
+      {
+        "de": "Es ist eine Amphibie, die nie erwachsen wird (äußerlich)",
+        "en": "It is an amphibian that never grows up (externally)"
+      },
+      {
+        "de": "Es hat auffällige Kiemen-Büsche auf dem Kopf",
+        "en": "It has striking gill tufts on its head"
+      },
+      {
+        "de": "Es kann verlorene Körperteile nachwachsen lassen",
+        "en": "It can regrow lost body parts"
+      }
     ],
     "description": {
       "de": "Der Axolotl ist eine Amphibie aus Mexiko, die ihr Leben als Larve verbringt und sich nie vollständig verwandelt. Er kann abgetrennte Körperteile, sogar Teile des Gehirns, nachwachsen lassen.",
@@ -595,7 +857,10 @@
   },
   {
     "id": "tapir",
-    "name": { "de": "Tapir", "en": "Tapir" },
+    "name": {
+      "de": "Tapir",
+      "en": "Tapir"
+    },
     "category": "tiere",
     "difficulty": 3,
     "facts": {
@@ -606,13 +871,25 @@
       "legs": 4,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Amerika", "Asien"],
+      "continent": [
+        "Amerika",
+        "Asien"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es hat eine kurze, bewegliche Rüsselnase", "en": "It has a short, flexible trunk-like nose" },
-      { "de": "Es ist mit Pferden und Nashörnern verwandt", "en": "It is related to horses and rhinos" },
-      { "de": "Es lebt im Regenwald und ist ein sehr guter Schwimmer", "en": "It lives in the rainforest and is an excellent swimmer" }
+      {
+        "de": "Es hat eine kurze, bewegliche Rüsselnase",
+        "en": "It has a short, flexible trunk-like nose"
+      },
+      {
+        "de": "Es ist mit Pferden und Nashörnern verwandt",
+        "en": "It is related to horses and rhinos"
+      },
+      {
+        "de": "Es lebt im Regenwald und ist ein sehr guter Schwimmer",
+        "en": "It lives in the rainforest and is an excellent swimmer"
+      }
     ],
     "description": {
       "de": "Der Tapir ist ein großes, scheues Säugetier mit einer kurzen Rüsselnase. Es ist eng mit Pferden und Nashörnern verwandt und lebt in Regenwäldern Süd- und Mittelamerikas sowie Südostasiens.",
@@ -628,7 +905,10 @@
   },
   {
     "id": "okapi",
-    "name": { "de": "Okapi", "en": "Okapi" },
+    "name": {
+      "de": "Okapi",
+      "en": "Okapi"
+    },
     "category": "tiere",
     "difficulty": 3,
     "facts": {
@@ -639,13 +919,24 @@
       "legs": 4,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Afrika"],
+      "continent": [
+        "Afrika"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es sieht aus wie eine Kreuzung aus Zebra und Giraffe", "en": "It looks like a cross between a zebra and a giraffe" },
-      { "de": "Es ist der einzige lebende Verwandte der Giraffe", "en": "It is the only living relative of the giraffe" },
-      { "de": "Es lebt im Regenwald des Kongos", "en": "It lives in the rainforest of the Congo" }
+      {
+        "de": "Es sieht aus wie eine Kreuzung aus Zebra und Giraffe",
+        "en": "It looks like a cross between a zebra and a giraffe"
+      },
+      {
+        "de": "Es ist der einzige lebende Verwandte der Giraffe",
+        "en": "It is the only living relative of the giraffe"
+      },
+      {
+        "de": "Es lebt im Regenwald des Kongos",
+        "en": "It lives in the rainforest of the Congo"
+      }
     ],
     "description": {
       "de": "Das Okapi sieht aus wie eine Mischung aus Zebra und Giraffe, ist aber tatsächlich der einzige lebende Verwandte der Giraffe. Es lebt im dichten Regenwald des Kongobeckens in Afrika.",
@@ -661,7 +952,10 @@
   },
   {
     "id": "manta",
-    "name": { "de": "Mantarochen", "en": "Manta Ray" },
+    "name": {
+      "de": "Mantarochen",
+      "en": "Manta Ray"
+    },
     "category": "tiere",
     "difficulty": 3,
     "facts": {
@@ -672,13 +966,24 @@
       "legs": 0,
       "has_fur": false,
       "domestic": false,
-      "continent": ["Überall"],
+      "continent": [
+        "Überall"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es ist ein sehr großer, flacher Meeresbewohner", "en": "It is a very large, flat sea creature" },
-      { "de": "Es fliegt regelrecht durchs Wasser mit seinen Flossen", "en": "It practically flies through the water with its fins" },
-      { "de": "Es ist trotz seiner Größe harmlos und frisst nur Plankton", "en": "Despite its size, it is harmless and only eats plankton" }
+      {
+        "de": "Es ist ein sehr großer, flacher Meeresbewohner",
+        "en": "It is a very large, flat sea creature"
+      },
+      {
+        "de": "Es fliegt regelrecht durchs Wasser mit seinen Flossen",
+        "en": "It practically flies through the water with its fins"
+      },
+      {
+        "de": "Es ist trotz seiner Größe harmlos und frisst nur Plankton",
+        "en": "Despite its size, it is harmless and only eats plankton"
+      }
     ],
     "description": {
       "de": "Der Mantarochen ist ein riesiger, scheibenförmiger Fisch, der durch das Meer 'fliegt'. Trotz seiner Flügelspannweite von bis zu 9 Metern frisst er nur winziges Plankton.",
@@ -694,7 +999,10 @@
   },
   {
     "id": "quokka",
-    "name": { "de": "Quokka", "en": "Quokka" },
+    "name": {
+      "de": "Quokka",
+      "en": "Quokka"
+    },
     "category": "tiere",
     "difficulty": 3,
     "facts": {
@@ -705,13 +1013,24 @@
       "legs": 2,
       "has_fur": true,
       "domestic": false,
-      "continent": ["Australien/Ozeanien"],
+      "continent": [
+        "Australien/Ozeanien"
+      ],
       "endangered": true
     },
     "hints": [
-      { "de": "Es wird das 'glücklichste Tier der Welt' genannt, weil es immer zu lächeln scheint", "en": "It is called the 'happiest animal in the world' because it always seems to smile" },
-      { "de": "Es ist ein kleines Beuteltier aus Australien", "en": "It is a small marsupial from Australia" },
-      { "de": "Es lebt hauptsächlich auf einer kleinen Insel bei Perth", "en": "It lives mainly on a small island near Perth" }
+      {
+        "de": "Es wird das 'glücklichste Tier der Welt' genannt, weil es immer zu lächeln scheint",
+        "en": "It is called the 'happiest animal in the world' because it always seems to smile"
+      },
+      {
+        "de": "Es ist ein kleines Beuteltier aus Australien",
+        "en": "It is a small marsupial from Australia"
+      },
+      {
+        "de": "Es lebt hauptsächlich auf einer kleinen Insel bei Perth",
+        "en": "It lives mainly on a small island near Perth"
+      }
     ],
     "description": {
       "de": "Der Quokka ist ein kleines Beuteltier aus Australien, das wie ein kleines Känguru aussieht. Er lebt hauptsächlich auf Rottnest Island bei Perth und ist für sein ständiges 'Lächeln' bekannt.",
@@ -724,5 +1043,424 @@
     "flag_url": null,
     "emoji": "🦘",
     "qa_context": "Quokka, kleines Beuteltier, Rottnest Island/Westaustralien, Säugetier, Pflanzenfresser, klein (Katzengroß), 2 Hinterbeine (hüpft), braunes Fell, 'lächelt' durch Mundform, glücklichstes Tier der Welt genannt, gefährdet"
+  },
+  {
+    "id": "pferd",
+    "name": {
+      "de": "Pferd",
+      "en": "Horse"
+    },
+    "category": "tiere",
+    "difficulty": 1,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Wiesen und Weiden",
+      "diet": "Pflanzenfresser",
+      "size_cm": 150,
+      "legs": 4,
+      "speed_kmh": 70,
+      "domestic": true
+    },
+    "hints": [
+      {
+        "de": "Es ist ein großes Haustier mit vier Beinen",
+        "en": "It is a large pet with four legs"
+      },
+      {
+        "de": "Menschen reiten darauf",
+        "en": "Humans ride on it"
+      },
+      {
+        "de": "Es kann sehr schnell laufen und galoppieren",
+        "en": "It can run very fast and gallop"
+      }
+    ],
+    "description": {
+      "de": "Das Pferd ist eines der ältesten Haustiere des Menschen. Jahrhundertelang half es bei der Arbeit, im Krieg und als Transportmittel. Heute werden Pferde vor allem zum Reiten gehalten.",
+      "en": "The horse is one of humanity's oldest domestic animals. For centuries it helped with work, in war and as transportation. Today horses are kept mainly for riding."
+    },
+    "fun_fact": {
+      "de": "Pferde können fast 360 Grad sehen — nur direkt vor ihrer Nase und hinter dem Schwanz haben sie einen blinden Fleck! Außerdem schlafen sie im Stehen, weil Aufstehen für sie viel Kraft kostet.",
+      "en": "Horses can see almost 360 degrees — only directly in front of their nose and behind their tail do they have a blind spot! Also, they sleep standing up because getting up requires a lot of effort for them."
+    },
+    "emoji": "🐴",
+    "qa_context": "Pferd, Hengst, Stute, Fohlen, Haustier, Säugetier, 4 Beine, Pflanzenfresser, Gras, Wiese, reiten, galoppieren, traben, Hufe, Mähne, Schwanz, bis 70 km/h schnell, schlafen stehend"
+  },
+  {
+    "id": "schwein",
+    "name": {
+      "de": "Schwein",
+      "en": "Pig"
+    },
+    "category": "tiere",
+    "difficulty": 1,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Bauernhof",
+      "diet": "Allesfresser",
+      "size_cm": 90,
+      "legs": 4,
+      "domestic": true,
+      "sound": "Grunzen"
+    },
+    "hints": [
+      {
+        "de": "Es lebt auf dem Bauernhof",
+        "en": "It lives on the farm"
+      },
+      {
+        "de": "Es macht Grunzgeräusche",
+        "en": "It makes grunting sounds"
+      },
+      {
+        "de": "Es wälzt sich gerne im Schlamm, um sich abzukühlen",
+        "en": "It loves to roll in mud to cool down"
+      }
+    ],
+    "description": {
+      "de": "Das Schwein ist eines der am häufigsten gehaltenen Nutztiere der Welt. Schweine sind sehr intelligent — sogar intelligenter als Hunde! Sie wälzen sich im Schlamm, weil sie nicht schwitzen können.",
+      "en": "The pig is one of the most commonly kept farm animals in the world. Pigs are very intelligent — even smarter than dogs! They roll in mud because they cannot sweat."
+    },
+    "fun_fact": {
+      "de": "Schweine sind klüger als Hunde und können sogar Videospiele spielen! In Versuchen lernten Schweine, mit einer Spielkonsole umzugehen. Außerdem können sie keinen Sonnenbrand bekommen — nein, warten: Sie KÖNNEN Sonnenbrand bekommen, deshalb brauchen sie den Schlamm!",
+      "en": "Pigs are smarter than dogs and can even play video games! In experiments, pigs learned to operate a game console. Also, they CAN get sunburned — that's exactly why they need the mud!"
+    },
+    "emoji": "🐷",
+    "qa_context": "Schwein, Ferkel, Sau, Eber, Bauernhof, Säugetier, 4 Beine, Allesfresser, Schlamm wälzen, Grunzen, rosa, Rüssel, Ringelschwanz, sehr intelligent, klüger als Hunde, Haustier/Nutztier"
+  },
+  {
+    "id": "kuh",
+    "name": {
+      "de": "Kuh",
+      "en": "Cow"
+    },
+    "category": "tiere",
+    "difficulty": 1,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Wiesen und Bauernhöfe",
+      "diet": "Pflanzenfresser",
+      "size_cm": 140,
+      "legs": 4,
+      "domestic": true,
+      "sound": "Muhen"
+    },
+    "hints": [
+      {
+        "de": "Es lebt auf der Weide und gibt uns Milch",
+        "en": "It lives in the meadow and gives us milk"
+      },
+      {
+        "de": "Es macht 'Muh'",
+        "en": "It says 'moo'"
+      },
+      {
+        "de": "Es hat vier Mägen",
+        "en": "It has four stomachs"
+      }
+    ],
+    "description": {
+      "de": "Die Kuh ist das wichtigste Nutztier für Milch weltweit. Sie verbringt fast 8 Stunden täglich mit Fressen und kaut ihr Futter mehrmals wieder (Wiederkäuer). Sie hat 4 Mägen.",
+      "en": "The cow is the most important dairy animal worldwide. It spends almost 8 hours a day eating and chews its food multiple times (ruminant). It has 4 stomachs."
+    },
+    "fun_fact": {
+      "de": "Kühe haben beste Freunde! Untersuchungen zeigen, dass Kühe, die mit ihrer besten Freundin zusammen sind, weniger Stress haben und mehr Milch geben. Sie können ihre Freundin an der Stimme erkennen.",
+      "en": "Cows have best friends! Studies show that cows with their best friend nearby have less stress and produce more milk. They can recognize their friend by their voice."
+    },
+    "emoji": "🐮",
+    "qa_context": "Kuh, Rind, Kalb, Stier, Bulle, Bauernhof, Weide, Säugetier, 4 Beine, Pflanzenfresser, Gras, Milch, Muhen, schwarz-weiß oder braun, 4 Mägen, Wiederkäuer, Hörner"
+  },
+  {
+    "id": "schaf",
+    "name": {
+      "de": "Schaf",
+      "en": "Sheep"
+    },
+    "category": "tiere",
+    "difficulty": 1,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Wiesen und Berge",
+      "diet": "Pflanzenfresser",
+      "size_cm": 75,
+      "legs": 4,
+      "domestic": true,
+      "sound": "Blöken"
+    },
+    "hints": [
+      {
+        "de": "Es hat eine dicke Wollschicht und wird geschoren",
+        "en": "It has a thick wool coat and is sheared"
+      },
+      {
+        "de": "Es blökt und lebt in Herden",
+        "en": "It bleats and lives in herds"
+      },
+      {
+        "de": "Aus seiner Wolle wird Kleidung gemacht",
+        "en": "Its wool is made into clothing"
+      }
+    ],
+    "description": {
+      "de": "Das Schaf ist eines der ältesten Haustiere. Seine Wolle wird zu Kleidung, Teppichen und Decken verarbeitet. Schafe leben in Herden und folgen einander — daher der Begriff 'Herdentier'.",
+      "en": "The sheep is one of the oldest domestic animals. Its wool is processed into clothing, carpets and blankets. Sheep live in herds and follow each other — hence the term 'herd animal'."
+    },
+    "fun_fact": {
+      "de": "Schafe können sich bis zu 50 Gesichter von anderen Schafen über 2 Jahre lang merken! Sie haben auch ein gutes Gedächtnis für Orte, wo sie gutes Futter gefunden haben. Das macht sie klüger als ihr Ruf.",
+      "en": "Sheep can remember up to 50 faces of other sheep for over 2 years! They also have good memory for places where they found good food. This makes them smarter than their reputation suggests."
+    },
+    "emoji": "🐑",
+    "qa_context": "Schaf, Lamm, Widder, Wolle, Blöken, Bauernhof, Wiese, Säugetier, 4 Beine, Pflanzenfresser, Herde, Herdentier, weiß, geschoren, Wolle für Kleidung, Berge"
+  },
+  {
+    "id": "huhn",
+    "name": {
+      "de": "Huhn",
+      "en": "Chicken"
+    },
+    "category": "tiere",
+    "difficulty": 1,
+    "facts": {
+      "type": "Vogel",
+      "habitat": "Bauernhof",
+      "diet": "Allesfresser",
+      "legs": 2,
+      "domestic": true,
+      "sound": "Gackern",
+      "lays_eggs": true
+    },
+    "hints": [
+      {
+        "de": "Es ist ein Vogel, der auf dem Bauernhof lebt",
+        "en": "It is a bird that lives on the farm"
+      },
+      {
+        "de": "Es legt Eier, die wir essen",
+        "en": "It lays eggs that we eat"
+      },
+      {
+        "de": "Es gackert und flattert, kann aber kaum fliegen",
+        "en": "It clucks and flutters but can barely fly"
+      }
+    ],
+    "description": {
+      "de": "Das Huhn ist das häufigste Haustier der Welt — es gibt mehr Hühner als Menschen! Es legt Eier und sein Fleisch wird weltweit gegessen. Hühner können kaum fliegen.",
+      "en": "The chicken is the world's most common domestic animal — there are more chickens than humans! It lays eggs and its meat is eaten worldwide. Chickens can barely fly."
+    },
+    "fun_fact": {
+      "de": "Es gibt mehr Hühner als Menschen auf der Erde! Ca. 33 Milliarden Hühner stehen 8 Milliarden Menschen gegenüber. Ein Huhn legt im Jahr ca. 250-300 Eier — fast jeden Tag eines!",
+      "en": "There are more chickens than humans on Earth! About 33 billion chickens compare to 8 billion humans. A chicken lays about 250-300 eggs per year — almost one every day!"
+    },
+    "emoji": "🐔",
+    "qa_context": "Huhn, Henne, Hahn, Küken, Vogel, Bauernhof, Eier legen, gackern, krähen (Hahn), Federn, Flügel, kaum fliegen können, weiß/braun/bunt, Allesfresser, meistgehaltenes Haustier der Welt"
+  },
+  {
+    "id": "fuchs",
+    "name": {
+      "de": "Fuchs",
+      "en": "Fox"
+    },
+    "category": "tiere",
+    "difficulty": 2,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Wälder und Städte",
+      "diet": "Allesfresser",
+      "size_cm": 70,
+      "legs": 4,
+      "domestic": false
+    },
+    "hints": [
+      {
+        "de": "Es ist ein schlaues Wildtier mit rotem Fell",
+        "en": "It is a clever wild animal with red fur"
+      },
+      {
+        "de": "Es lebt im Wald, aber auch in Städten",
+        "en": "It lives in forests but also in cities"
+      },
+      {
+        "de": "Es ist bekannt aus Märchen als listiges Tier",
+        "en": "It is known from fairy tales as a cunning animal"
+      }
+    ],
+    "description": {
+      "de": "Der Fuchs ist ein anpassungsfähiges Wildtier, das in Wäldern, aber auch in Städten lebt. Er ist bekannt für seine Schlauheit und sein rotes Fell. In Märchen ist er oft der listige Trickster.",
+      "en": "The fox is an adaptable wild animal that lives in forests but also in cities. It is known for its cleverness and red fur. In fairy tales it is often the cunning trickster."
+    },
+    "fun_fact": {
+      "de": "Füchse nutzen das Erdmagnetfeld zur Jagd! Wenn ein Fuchs auf eine Maus zuläuft, springt er fast immer aus nordöstlicher Richtung — weil er so am genauesten trifft. Das wurde von Wissenschaftlern untersucht.",
+      "en": "Foxes use Earth's magnetic field for hunting! When a fox runs at a mouse, it almost always jumps from the northeast — because it's most accurate this way. This was studied by scientists."
+    },
+    "emoji": "🦊",
+    "qa_context": "Fuchs, rotes Fell, Wildtier, Wald, Städte, Säugetier, 4 Beine, Allesfresser, schlau/listig, Märchen, buschiger Schwanz, Fuchsbau, nachtaktiv, Mäuse fressen"
+  },
+  {
+    "id": "wolf",
+    "name": {
+      "de": "Wolf",
+      "en": "Wolf"
+    },
+    "category": "tiere",
+    "difficulty": 2,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Wälder und Gebirge",
+      "diet": "Fleischfresser",
+      "size_cm": 80,
+      "legs": 4,
+      "domestic": false,
+      "pack_animal": true
+    },
+    "hints": [
+      {
+        "de": "Es ist der Vorfahre des Haushundes",
+        "en": "It is the ancestor of the domestic dog"
+      },
+      {
+        "de": "Es lebt in Rudeln und heult",
+        "en": "It lives in packs and howls"
+      },
+      {
+        "de": "Es ist seit Jahren nach Deutschland zurückgekehrt",
+        "en": "It has returned to Germany in recent years"
+      }
+    ],
+    "description": {
+      "de": "Der Wolf ist der wilde Vorfahre aller Haushunde. Er lebt in Rudeln und kommuniziert durch Heulen. Nach langer Abwesenheit sind Wölfe in den letzten Jahrzehnten nach Deutschland zurückgekehrt.",
+      "en": "The wolf is the wild ancestor of all domestic dogs. It lives in packs and communicates by howling. After a long absence, wolves have returned to Germany in recent decades."
+    },
+    "fun_fact": {
+      "de": "Der Haushund und der Wolf sind so eng verwandt, dass sie sich kreuzen können — ihre Jungtiere sind fruchtbar! DNA-Analysen zeigen: Alle Hunde der Welt, vom Chihuahua bis zur Dogge, stammen vom Wolf ab.",
+      "en": "The domestic dog and the wolf are so closely related that they can interbreed — their offspring are fertile! DNA analyses show: all dogs in the world, from Chihuahua to Great Dane, are descended from the wolf."
+    },
+    "emoji": "🐺",
+    "qa_context": "Wolf, Wölfin, Welpen, Rudel, Heulen, Wald, Gebirge, Säugetier, 4 Beine, Fleischfresser, Vorfahre des Hundes, Deutschland (zurückgekehrt), grau/weiß, Märchen (böser Wolf)"
+  },
+  {
+    "id": "oktopus",
+    "name": {
+      "de": "Oktopus",
+      "en": "Octopus"
+    },
+    "category": "tiere",
+    "difficulty": 3,
+    "facts": {
+      "type": "Weichtier",
+      "habitat": "Meere weltweit",
+      "diet": "Fleischfresser",
+      "arms": 8,
+      "legs": 0,
+      "domestic": false,
+      "hearts": 3
+    },
+    "hints": [
+      {
+        "de": "Es lebt im Meer und hat 8 Arme",
+        "en": "It lives in the sea and has 8 arms"
+      },
+      {
+        "de": "Es kann seine Farbe und Form blitzschnell ändern",
+        "en": "It can change its color and shape instantly"
+      },
+      {
+        "de": "Es hat 3 Herzen und blaues Blut",
+        "en": "It has 3 hearts and blue blood"
+      }
+    ],
+    "description": {
+      "de": "Der Oktopus ist eines der intelligentesten Tiere im Meer. Er hat 8 Arme mit Saugnäpfen, kann seine Farbe ändern und Tinte spritzen. Er hat 3 Herzen und blaues Blut.",
+      "en": "The octopus is one of the most intelligent animals in the sea. It has 8 arms with suckers, can change color and squirt ink. It has 3 hearts and blue blood."
+    },
+    "fun_fact": {
+      "de": "Oktopusse haben 3 Herzen — zwei pumpen Blut durch die Kiemen, eines durch den Körper. Ihr Blut ist blau, weil es Kupfer statt Eisen enthält! Und wenn sie schwimmen, hört das Hauptherz auf zu schlagen.",
+      "en": "Octopuses have 3 hearts — two pump blood through the gills, one through the body. Their blood is blue because it contains copper instead of iron! And when they swim, the main heart stops beating."
+    },
+    "emoji": "🐙",
+    "qa_context": "Oktopus, Tintenfisch, Meerestier, 8 Arme, Saugnäpfe, Meer/Ozean, Fleischfresser, Tinte spritzen, Farbe wechseln, 3 Herzen, blaues Blut, sehr intelligent, keine Knochen, Weichtier"
+  },
+  {
+    "id": "fledermaus",
+    "name": {
+      "de": "Fledermaus",
+      "en": "Bat"
+    },
+    "category": "tiere",
+    "difficulty": 3,
+    "facts": {
+      "type": "Säugetier",
+      "habitat": "Höhlen, Dachböden, Wälder",
+      "diet": "Insekten (meist)",
+      "legs": 2,
+      "wings": 2,
+      "can_fly": true,
+      "nocturnal": true
+    },
+    "hints": [
+      {
+        "de": "Es ist das einzige Säugetier, das wirklich fliegen kann",
+        "en": "It is the only mammal that can truly fly"
+      },
+      {
+        "de": "Es ist nachtaktiv und schläft kopfüber hängend",
+        "en": "It is nocturnal and sleeps hanging upside down"
+      },
+      {
+        "de": "Es findet sich mit Ultraschall zurecht",
+        "en": "It navigates using ultrasound"
+      }
+    ],
+    "description": {
+      "de": "Die Fledermaus ist das einzige fliegende Säugetier. Sie ist nachtaktiv und orientiert sich durch Echolokation (Ultraschall). Fledermäuse fressen enorme Mengen Insekten und sind wichtig für das Ökosystem.",
+      "en": "The bat is the only truly flying mammal. It is nocturnal and navigates through echolocation (ultrasound). Bats eat enormous amounts of insects and are important for the ecosystem."
+    },
+    "fun_fact": {
+      "de": "Eine einzige Fledermaus kann in einer Nacht bis zu 1.000 Mücken fressen! Sie sind natürliche Insektizide. Ohne Fledermäuse würden Insekten sich unkontrolliert vermehren und Ernten zerstören.",
+      "en": "A single bat can eat up to 1,000 mosquitoes in one night! They are natural insecticides. Without bats, insects would multiply uncontrollably and destroy crops."
+    },
+    "emoji": "🦇",
+    "qa_context": "Fledermaus, Säugetier, einziges fliegendes Säugetier, nachtaktiv, Ultraschall/Echolokation, Höhlen, Dachböden, kopfüber schlafen, Insekten fressen, kein schlechtes Sehen (Augen funktionieren!), Halloween-Symbol"
+  },
+  {
+    "id": "koalabear",
+    "name": {
+      "de": "Koala",
+      "en": "Koala"
+    },
+    "category": "tiere",
+    "difficulty": 3,
+    "facts": {
+      "type": "Beuteltier",
+      "habitat": "Australien",
+      "diet": "Eukalyptus-Blätter",
+      "size_cm": 70,
+      "legs": 4,
+      "domestic": false,
+      "sleep_hours": 22
+    },
+    "hints": [
+      {
+        "de": "Es kommt aus Australien und sieht aus wie ein kleiner Bär",
+        "en": "It comes from Australia and looks like a small bear"
+      },
+      {
+        "de": "Es schläft fast 22 Stunden pro Tag",
+        "en": "It sleeps almost 22 hours per day"
+      },
+      {
+        "de": "Es frisst fast nur Eukalyptus-Blätter",
+        "en": "It eats almost only eucalyptus leaves"
+      }
+    ],
+    "description": {
+      "de": "Der Koala ist ein Beuteltier aus Australien, kein Bär. Er schläft bis zu 22 Stunden täglich, weil Eukalyptusblätter wenig Energie liefern und sogar giftig für andere Tiere sind. Koalas haben einzigartige Fingerabdrücke wie Menschen.",
+      "en": "The koala is a marsupial from Australia, not a bear. It sleeps up to 22 hours daily because eucalyptus leaves provide little energy and are even toxic to other animals. Koalas have unique fingerprints like humans."
+    },
+    "fun_fact": {
+      "de": "Koalas haben Fingerabdrücke, die denen von Menschen so ähnlich sind, dass sie Spurensicherungsexperten schon verwirrt haben! Sogar unter dem Mikroskop sind sie kaum von menschlichen Fingerabdrücken zu unterscheiden.",
+      "en": "Koalas have fingerprints so similar to human ones that they've confused forensic experts! Even under a microscope they are barely distinguishable from human fingerprints."
+    },
+    "emoji": "🐨",
+    "qa_context": "Koala, Koalabär (kein echter Bär!), Beuteltier, Australien, Eukalyptus fressen, bis 22 Stunden schlafen, grau, Klettern, Beutel (Jungtiere), einzigartige Fingerabdrücke"
   }
 ]

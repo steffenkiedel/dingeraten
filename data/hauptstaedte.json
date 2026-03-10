@@ -1,7 +1,10 @@
 [
   {
     "id": "berlin",
-    "name": { "de": "Berlin", "en": "Berlin" },
+    "name": {
+      "de": "Berlin",
+      "en": "Berlin"
+    },
     "category": "hauptstaedte",
     "difficulty": 1,
     "facts": {
@@ -9,14 +12,28 @@
       "country_en": "Germany",
       "continent": "Europa",
       "population_million": 3.7,
-      "known_for": ["Brandenburger Tor", "Berliner Mauer", "Reichstag", "East Side Gallery"],
+      "known_for": [
+        "Brandenburger Tor",
+        "Berliner Mauer",
+        "Reichstag",
+        "East Side Gallery"
+      ],
       "language": "Deutsch",
       "flag_url_country": "https://flagcdn.com/w320/de.png"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Deutschland", "en": "It is the capital of Germany" },
-      { "de": "Das Brandenburger Tor ist hier", "en": "The Brandenburg Gate is here" },
-      { "de": "Früher war die Stadt geteilt durch eine berühmte Mauer", "en": "The city was once divided by a famous wall" }
+      {
+        "de": "Es ist die Hauptstadt von Deutschland",
+        "en": "It is the capital of Germany"
+      },
+      {
+        "de": "Das Brandenburger Tor ist hier",
+        "en": "The Brandenburg Gate is here"
+      },
+      {
+        "de": "Früher war die Stadt geteilt durch eine berühmte Mauer",
+        "en": "The city was once divided by a famous wall"
+      }
     ],
     "description": {
       "de": "Berlin ist die Hauptstadt Deutschlands und die größte Stadt des Landes mit 3,7 Millionen Einwohnern. Sie ist bekannt für das Brandenburger Tor, die Berliner Mauer und ihre vielfältige Kulturszene.",
@@ -32,7 +49,10 @@
   },
   {
     "id": "paris",
-    "name": { "de": "Paris", "en": "Paris" },
+    "name": {
+      "de": "Paris",
+      "en": "Paris"
+    },
     "category": "hauptstaedte",
     "difficulty": 1,
     "facts": {
@@ -40,13 +60,27 @@
       "country_en": "France",
       "continent": "Europa",
       "population_million": 2.1,
-      "known_for": ["Eiffelturm", "Louvre", "Notre-Dame", "Champs-Élysées"],
+      "known_for": [
+        "Eiffelturm",
+        "Louvre",
+        "Notre-Dame",
+        "Champs-Élysées"
+      ],
       "language": "Französisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Frankreich", "en": "It is the capital of France" },
-      { "de": "Der Eiffelturm steht hier", "en": "The Eiffel Tower is here" },
-      { "de": "Es ist bekannt als Stadt der Liebe", "en": "It is known as the City of Love" }
+      {
+        "de": "Es ist die Hauptstadt von Frankreich",
+        "en": "It is the capital of France"
+      },
+      {
+        "de": "Der Eiffelturm steht hier",
+        "en": "The Eiffel Tower is here"
+      },
+      {
+        "de": "Es ist bekannt als Stadt der Liebe",
+        "en": "It is known as the City of Love"
+      }
     ],
     "description": {
       "de": "Paris ist die Hauptstadt Frankreichs und weltberühmt als 'Stadt der Liebe'. Der Eiffelturm, der Louvre und Notre-Dame sind weltbekannte Wahrzeichen. Paris ist eines der meistbesuchten Städte der Welt.",
@@ -62,7 +96,10 @@
   },
   {
     "id": "london",
-    "name": { "de": "London", "en": "London" },
+    "name": {
+      "de": "London",
+      "en": "London"
+    },
     "category": "hauptstaedte",
     "difficulty": 1,
     "facts": {
@@ -70,13 +107,27 @@
       "country_en": "United Kingdom",
       "continent": "Europa",
       "population_million": 9,
-      "known_for": ["Big Ben", "Tower Bridge", "Buckingham Palace", "Underground"],
+      "known_for": [
+        "Big Ben",
+        "Tower Bridge",
+        "Buckingham Palace",
+        "Underground"
+      ],
       "language": "Englisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Großbritannien", "en": "It is the capital of the United Kingdom" },
-      { "de": "Big Ben und die Tower Bridge befinden sich hier", "en": "Big Ben and Tower Bridge are here" },
-      { "de": "Hier wohnt die britische Königsfamilie", "en": "The British Royal Family lives here" }
+      {
+        "de": "Es ist die Hauptstadt von Großbritannien",
+        "en": "It is the capital of the United Kingdom"
+      },
+      {
+        "de": "Big Ben und die Tower Bridge befinden sich hier",
+        "en": "Big Ben and Tower Bridge are here"
+      },
+      {
+        "de": "Hier wohnt die britische Königsfamilie",
+        "en": "The British Royal Family lives here"
+      }
     ],
     "description": {
       "de": "London ist die Hauptstadt des Vereinigten Königreichs und eine der größten Städte Europas. Es ist bekannt für Big Ben, die Tower Bridge, den Buckingham Palace und die Londoner U-Bahn (Tube).",
@@ -92,7 +143,10 @@
   },
   {
     "id": "rom",
-    "name": { "de": "Rom", "en": "Rome" },
+    "name": {
+      "de": "Rom",
+      "en": "Rome"
+    },
     "category": "hauptstaedte",
     "difficulty": 1,
     "facts": {
@@ -100,13 +154,27 @@
       "country_en": "Italy",
       "continent": "Europa",
       "population_million": 2.8,
-      "known_for": ["Kolosseum", "Vatikan", "Trevi-Brunnen", "Forum Romanum"],
+      "known_for": [
+        "Kolosseum",
+        "Vatikan",
+        "Trevi-Brunnen",
+        "Forum Romanum"
+      ],
       "language": "Italienisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Italien", "en": "It is the capital of Italy" },
-      { "de": "Das Kolosseum steht hier", "en": "The Colosseum is here" },
-      { "de": "In dieser Stadt liegt ein eigener Staat (Vatikan)", "en": "Within this city lies its own state (Vatican)" }
+      {
+        "de": "Es ist die Hauptstadt von Italien",
+        "en": "It is the capital of Italy"
+      },
+      {
+        "de": "Das Kolosseum steht hier",
+        "en": "The Colosseum is here"
+      },
+      {
+        "de": "In dieser Stadt liegt ein eigener Staat (Vatikan)",
+        "en": "Within this city lies its own state (Vatican)"
+      }
     ],
     "description": {
       "de": "Rom ist die Hauptstadt Italiens und eine der ältesten Städte der Welt. Es war das Zentrum des Römischen Reiches. Sehenswürdigkeiten sind das Kolosseum, der Vatikan und der Trevi-Brunnen.",
@@ -122,7 +190,10 @@
   },
   {
     "id": "madrid",
-    "name": { "de": "Madrid", "en": "Madrid" },
+    "name": {
+      "de": "Madrid",
+      "en": "Madrid"
+    },
     "category": "hauptstaedte",
     "difficulty": 1,
     "facts": {
@@ -130,13 +201,27 @@
       "country_en": "Spain",
       "continent": "Europa",
       "population_million": 3.4,
-      "known_for": ["Real Madrid", "Prado-Museum", "Puerta del Sol", "Retiro-Park"],
+      "known_for": [
+        "Real Madrid",
+        "Prado-Museum",
+        "Puerta del Sol",
+        "Retiro-Park"
+      ],
       "language": "Spanisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Spanien", "en": "It is the capital of Spain" },
-      { "de": "Hier spielt Real Madrid Fußball", "en": "Real Madrid plays football here" },
-      { "de": "Es ist die höchstgelegene Hauptstadt der EU", "en": "It is the highest capital city in the EU" }
+      {
+        "de": "Es ist die Hauptstadt von Spanien",
+        "en": "It is the capital of Spain"
+      },
+      {
+        "de": "Hier spielt Real Madrid Fußball",
+        "en": "Real Madrid plays football here"
+      },
+      {
+        "de": "Es ist die höchstgelegene Hauptstadt der EU",
+        "en": "It is the highest capital city in the EU"
+      }
     ],
     "description": {
       "de": "Madrid ist die Hauptstadt Spaniens und liegt auf einem Plateau auf 667 Metern Höhe — die höchste Hauptstadt der EU. Es ist bekannt für den Fußballklub Real Madrid und das Prado-Museum.",
@@ -152,7 +237,10 @@
   },
   {
     "id": "tokio",
-    "name": { "de": "Tokio", "en": "Tokyo" },
+    "name": {
+      "de": "Tokio",
+      "en": "Tokyo"
+    },
     "category": "hauptstaedte",
     "difficulty": 2,
     "facts": {
@@ -160,13 +248,27 @@
       "country_en": "Japan",
       "continent": "Asien",
       "population_million": 14,
-      "known_for": ["Tokyo Tower", "Shibuya Crossing", "Sumo", "Manga/Anime"],
+      "known_for": [
+        "Tokyo Tower",
+        "Shibuya Crossing",
+        "Sumo",
+        "Manga/Anime"
+      ],
       "language": "Japanisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Japan", "en": "It is the capital of Japan" },
-      { "de": "Es ist die bevölkerungsreichste Metropolregion der Welt", "en": "It is the most populous metropolitan area in the world" },
-      { "de": "Die berühmteste Fußgängerkreuzung der Welt liegt hier", "en": "The world's most famous pedestrian crossing is here" }
+      {
+        "de": "Es ist die Hauptstadt von Japan",
+        "en": "It is the capital of Japan"
+      },
+      {
+        "de": "Es ist die bevölkerungsreichste Metropolregion der Welt",
+        "en": "It is the most populous metropolitan area in the world"
+      },
+      {
+        "de": "Die berühmteste Fußgängerkreuzung der Welt liegt hier",
+        "en": "The world's most famous pedestrian crossing is here"
+      }
     ],
     "description": {
       "de": "Tokio ist die Hauptstadt Japans und die bevölkerungsreichste Metropolregion der Welt mit ca. 37 Millionen Menschen. Es kombiniert ultramoderne Technologie mit jahrhundertealter Tradition.",
@@ -182,7 +284,10 @@
   },
   {
     "id": "washington",
-    "name": { "de": "Washington D.C.", "en": "Washington D.C." },
+    "name": {
+      "de": "Washington D.C.",
+      "en": "Washington D.C."
+    },
     "category": "hauptstaedte",
     "difficulty": 2,
     "facts": {
@@ -190,13 +295,27 @@
       "country_en": "USA",
       "continent": "Nordamerika",
       "population_million": 0.7,
-      "known_for": ["Weißes Haus", "Capitol", "Smithsonian", "Lincoln Memorial"],
+      "known_for": [
+        "Weißes Haus",
+        "Capitol",
+        "Smithsonian",
+        "Lincoln Memorial"
+      ],
       "language": "Englisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt der USA", "en": "It is the capital of the USA" },
-      { "de": "Das Weiße Haus, Wohnsitz des US-Präsidenten, steht hier", "en": "The White House, the US President's residence, is here" },
-      { "de": "Es ist nach dem ersten US-Präsidenten benannt", "en": "It is named after the first US president" }
+      {
+        "de": "Es ist die Hauptstadt der USA",
+        "en": "It is the capital of the USA"
+      },
+      {
+        "de": "Das Weiße Haus, Wohnsitz des US-Präsidenten, steht hier",
+        "en": "The White House, the US President's residence, is here"
+      },
+      {
+        "de": "Es ist nach dem ersten US-Präsidenten benannt",
+        "en": "It is named after the first US president"
+      }
     ],
     "description": {
       "de": "Washington D.C. ist die Hauptstadt der USA. Hier befinden sich das Weiße Haus, der Kongress und der Oberste Gerichtshof. Die Stadt ist nach dem ersten US-Präsidenten George Washington benannt.",
@@ -212,7 +331,10 @@
   },
   {
     "id": "ottawa",
-    "name": { "de": "Ottawa", "en": "Ottawa" },
+    "name": {
+      "de": "Ottawa",
+      "en": "Ottawa"
+    },
     "category": "hauptstaedte",
     "difficulty": 2,
     "facts": {
@@ -220,13 +342,26 @@
       "country_en": "Canada",
       "continent": "Nordamerika",
       "population_million": 1,
-      "known_for": ["Parliament Hill", "Rideau Canal", "National Gallery"],
+      "known_for": [
+        "Parliament Hill",
+        "Rideau Canal",
+        "National Gallery"
+      ],
       "language": "Englisch, Französisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Kanada", "en": "It is the capital of Canada" },
-      { "de": "Es liegt an der Grenze zwischen englisch- und französischsprachigem Kanada", "en": "It lies on the border between English- and French-speaking Canada" },
-      { "de": "Viele denken, Toronto sei die Hauptstadt — aber das ist falsch!", "en": "Many people think Toronto is the capital — but that's wrong!" }
+      {
+        "de": "Es ist die Hauptstadt von Kanada",
+        "en": "It is the capital of Canada"
+      },
+      {
+        "de": "Es liegt an der Grenze zwischen englisch- und französischsprachigem Kanada",
+        "en": "It lies on the border between English- and French-speaking Canada"
+      },
+      {
+        "de": "Viele denken, Toronto sei die Hauptstadt — aber das ist falsch!",
+        "en": "Many people think Toronto is the capital — but that's wrong!"
+      }
     ],
     "description": {
       "de": "Ottawa ist die Hauptstadt Kanadas und liegt in der Provinz Ontario. Viele verwechseln Toronto oder Vancouver mit der Hauptstadt. Ottawa liegt direkt an der Grenze zur Provinz Québec.",
@@ -242,7 +377,10 @@
   },
   {
     "id": "canberra",
-    "name": { "de": "Canberra", "en": "Canberra" },
+    "name": {
+      "de": "Canberra",
+      "en": "Canberra"
+    },
     "category": "hauptstaedte",
     "difficulty": 3,
     "facts": {
@@ -250,13 +388,26 @@
       "country_en": "Australia",
       "continent": "Australien/Ozeanien",
       "population_million": 0.5,
-      "known_for": ["Parliament House", "National Museum", "Lake Burley Griffin"],
+      "known_for": [
+        "Parliament House",
+        "National Museum",
+        "Lake Burley Griffin"
+      ],
       "language": "Englisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Australien — nicht Sydney!", "en": "It is the capital of Australia — not Sydney!" },
-      { "de": "Es liegt zwischen Sydney und Melbourne", "en": "It lies between Sydney and Melbourne" },
-      { "de": "Es wurde als Kompromiss zwischen zwei rivalisierenden Städten gebaut", "en": "It was built as a compromise between two rival cities" }
+      {
+        "de": "Es ist die Hauptstadt von Australien — nicht Sydney!",
+        "en": "It is the capital of Australia — not Sydney!"
+      },
+      {
+        "de": "Es liegt zwischen Sydney und Melbourne",
+        "en": "It lies between Sydney and Melbourne"
+      },
+      {
+        "de": "Es wurde als Kompromiss zwischen zwei rivalisierenden Städten gebaut",
+        "en": "It was built as a compromise between two rival cities"
+      }
     ],
     "description": {
       "de": "Canberra ist die Hauptstadt Australiens, nicht Sydney oder Melbourne! Die Stadt wurde Anfang des 20. Jahrhunderts als Kompromiss zwischen Sydney und Melbourne als Hauptstadt gebaut.",
@@ -272,7 +423,10 @@
   },
   {
     "id": "nairobi",
-    "name": { "de": "Nairobi", "en": "Nairobi" },
+    "name": {
+      "de": "Nairobi",
+      "en": "Nairobi"
+    },
     "category": "hauptstaedte",
     "difficulty": 3,
     "facts": {
@@ -280,13 +434,26 @@
       "country_en": "Kenya",
       "continent": "Afrika",
       "population_million": 4.7,
-      "known_for": ["Nairobi National Park", "UN-Hauptsitz", "Safari-Gateway"],
+      "known_for": [
+        "Nairobi National Park",
+        "UN-Hauptsitz",
+        "Safari-Gateway"
+      ],
       "language": "Swahili, Englisch"
     },
     "hints": [
-      { "de": "Es ist die Hauptstadt von Kenia in Ostafrika", "en": "It is the capital of Kenya in East Africa" },
-      { "de": "Es gibt hier einen Nationalpark direkt neben der Stadt", "en": "There is a national park right next to the city" },
-      { "de": "Es ist ein großes UN-Zentrum in Afrika", "en": "It is a major UN center in Africa" }
+      {
+        "de": "Es ist die Hauptstadt von Kenia in Ostafrika",
+        "en": "It is the capital of Kenya in East Africa"
+      },
+      {
+        "de": "Es gibt hier einen Nationalpark direkt neben der Stadt",
+        "en": "There is a national park right next to the city"
+      },
+      {
+        "de": "Es ist ein großes UN-Zentrum in Afrika",
+        "en": "It is a major UN center in Africa"
+      }
     ],
     "description": {
       "de": "Nairobi ist die Hauptstadt Kenias in Ostafrika. Einzigartig ist der Nairobi National Park, wo Löwen und Giraffen mit der Skyline der Stadt im Hintergrund zu sehen sind. Nairobi ist ein wichtiges UN-Zentrum.",
@@ -299,5 +466,567 @@
     "flag_url": "https://flagcdn.com/w320/ke.png",
     "emoji": "🇰🇪",
     "qa_context": "Nairobi, Hauptstadt Kenia, 4,7 Mio. Einwohner, Ostafrika, Sprache Swahili/Englisch, bekannt für Nairobi National Park (Löwen in der Stadt!), UN-Hauptsitz Afrika, Safari-Ausgangspunkt, Giraffe Centre"
+  },
+  {
+    "id": "wien",
+    "name": {
+      "de": "Wien",
+      "en": "Vienna"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "facts": {
+      "country": "Österreich",
+      "country_en": "Austria",
+      "continent": "Europa",
+      "population_million": 1.9,
+      "known_for": [
+        "Stephansdom",
+        "Schönbrunn",
+        "Wiener Philharmoniker",
+        "Sachertorte"
+      ],
+      "language": "Deutsch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Österreich",
+        "en": "It is the capital of Austria"
+      },
+      {
+        "de": "Der Stephansdom ist das Wahrzeichen dieser Stadt",
+        "en": "St. Stephen's Cathedral is the landmark of this city"
+      },
+      {
+        "de": "Es ist bekannt für klassische Musik und Mozart",
+        "en": "It is famous for classical music and Mozart"
+      }
+    ],
+    "description": {
+      "de": "Wien ist die Hauptstadt Österreichs und war einst das Zentrum des Habsburger Reiches. Die Stadt ist weltberühmt für ihre Musik, ihre Kaffeehäuser und den Stephansdom.",
+      "en": "Vienna is the capital of Austria and was once the center of the Habsburg Empire. The city is world-famous for its music, coffee houses and St. Stephen's Cathedral."
+    },
+    "fun_fact": {
+      "de": "Wien wurde mehrmals zur lebenswertesten Stadt der Welt gewählt! Außerdem ist Wien die einzige Hauptstadt, die zugleich ein eigenes Bundesland ist und Wein innerhalb der Stadtgrenzen anbaut.",
+      "en": "Vienna has been voted the world's most liveable city multiple times! Also, Vienna is the only capital that is simultaneously its own federal state and grows wine within city limits."
+    },
+    "flag_url": "https://flagcdn.com/w320/at.png",
+    "emoji": "🇦🇹",
+    "qa_context": "Wien, Vienna, Hauptstadt Österreich, 1,9 Mio. Einwohner, Europa, bekannt für Stephansdom, Schönbrunn, Wiener Philharmoniker, Mozart, Sachertorte, Kaffeehäuser, Habsburger Reich, lebenswerteste Stadt der Welt"
+  },
+  {
+    "id": "amsterdam",
+    "name": {
+      "de": "Amsterdam",
+      "en": "Amsterdam"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "facts": {
+      "country": "Niederlande",
+      "country_en": "Netherlands",
+      "continent": "Europa",
+      "population_million": 0.9,
+      "known_for": [
+        "Grachten",
+        "Anne-Frank-Haus",
+        "Rijksmuseum",
+        "Fahrräder"
+      ],
+      "language": "Niederländisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt der Niederlande",
+        "en": "It is the capital of the Netherlands"
+      },
+      {
+        "de": "Es ist bekannt für seine vielen Grachten (Kanäle)",
+        "en": "It is known for its many canals"
+      },
+      {
+        "de": "Hier lebte Anne Frank und versteckte sich vor den Nazis",
+        "en": "Anne Frank lived and hid from the Nazis here"
+      }
+    ],
+    "description": {
+      "de": "Amsterdam ist die Hauptstadt der Niederlande und bekannt für seine Grachten, Tulpen und Fahrräder. Das Anne-Frank-Haus und das Rijksmuseum sind wichtige Sehenswürdigkeiten.",
+      "en": "Amsterdam is the capital of the Netherlands and known for its canals, tulips and bicycles. The Anne Frank House and Rijksmuseum are important sights."
+    },
+    "fun_fact": {
+      "de": "In Amsterdam gibt es mehr Fahrräder als Einwohner! Mit über 880.000 Fahrrädern auf knapp 900.000 Einwohner ist Amsterdam die Fahrradhauptstadt der Welt.",
+      "en": "Amsterdam has more bicycles than residents! With over 880,000 bikes for about 900,000 residents, Amsterdam is the bicycle capital of the world."
+    },
+    "flag_url": "https://flagcdn.com/w320/nl.png",
+    "emoji": "🇳🇱",
+    "qa_context": "Amsterdam, Hauptstadt Niederlande/Holland, 900.000 Einwohner, Europa, bekannt für Grachten (Kanäle), Anne-Frank-Haus, Rijksmuseum, Tulpen, Fahrräder (mehr Fahrräder als Menschen), Van Gogh Museum"
+  },
+  {
+    "id": "stockholm",
+    "name": {
+      "de": "Stockholm",
+      "en": "Stockholm"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "facts": {
+      "country": "Schweden",
+      "country_en": "Sweden",
+      "continent": "Europa",
+      "population_million": 1.0,
+      "known_for": [
+        "ABBA",
+        "Nobelpreis",
+        "Vasa-Museum",
+        "IKEA"
+      ],
+      "language": "Schwedisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Schweden",
+        "en": "It is the capital of Sweden"
+      },
+      {
+        "de": "Hier wird jedes Jahr der Nobelpreis verliehen",
+        "en": "The Nobel Prize is awarded here every year"
+      },
+      {
+        "de": "Es liegt auf 14 Inseln",
+        "en": "It is built on 14 islands"
+      }
+    ],
+    "description": {
+      "de": "Stockholm ist die Hauptstadt Schwedens und liegt auf 14 Inseln. Hier wird jährlich der Nobelpreis verliehen. ABBA, IKEA und Spotify stammen alle aus Schweden.",
+      "en": "Stockholm is the capital of Sweden and lies on 14 islands. The Nobel Prize is awarded here annually. ABBA, IKEA and Spotify all come from Sweden."
+    },
+    "fun_fact": {
+      "de": "Stockholm ist die Geburtsstadt des ABBA-Museums und der App Spotify! Außerdem kommt IKEA aus Schweden — der Gründer Ingvar Kamprad benannte die Firma nach seinen Initialen und seinem Bauernhof.",
+      "en": "Stockholm is the birthplace of the ABBA Museum and the app Spotify! Also, IKEA comes from Sweden — founder Ingvar Kamprad named the company after his initials and his farm."
+    },
+    "flag_url": "https://flagcdn.com/w320/se.png",
+    "emoji": "🇸🇪",
+    "qa_context": "Stockholm, Hauptstadt Schweden, 1 Mio. Einwohner, Nordeuropa, Europa, auf 14 Inseln, bekannt für Nobelpreis, ABBA, IKEA, Spotify, Vasa-Museum, Gamla Stan (Altstadt)"
+  },
+  {
+    "id": "bern",
+    "name": {
+      "de": "Bern",
+      "en": "Bern"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "facts": {
+      "country": "Schweiz",
+      "country_en": "Switzerland",
+      "continent": "Europa",
+      "population_million": 0.14,
+      "known_for": [
+        "Bärengraben",
+        "Zytglogge",
+        "UNESCO Altstadt"
+      ],
+      "language": "Deutsch, Französisch, Italienisch, Rätoromanisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt der Schweiz",
+        "en": "It is the capital of Switzerland"
+      },
+      {
+        "de": "Viele denken, Zürich oder Genf ist die Hauptstadt — aber das stimmt nicht",
+        "en": "Many think Zurich or Geneva is the capital — but that's wrong"
+      },
+      {
+        "de": "Die Stadt hat ihren Namen vom Bären und hält echte Bären",
+        "en": "The city got its name from bears and keeps real bears"
+      }
+    ],
+    "description": {
+      "de": "Bern ist die Hauptstadt der Schweiz, obwohl viele Zürich oder Genf vermuten. Die mittelalterliche Altstadt steht auf der UNESCO-Welterbeliste. Die Stadt hält echte Bären im Bärenpark.",
+      "en": "Bern is the capital of Switzerland, although many guess Zurich or Geneva. The medieval old town is on the UNESCO World Heritage List. The city keeps real bears in Bear Park."
+    },
+    "fun_fact": {
+      "de": "Bern ist nur die 4. größte Stadt der Schweiz, aber die Hauptstadt! Und tatsächlich hält die Stadt im Bärenpark echte Bären — denn das Wort 'Bern' soll vom altdeutschen Wort für Bär kommen.",
+      "en": "Bern is only Switzerland's 4th largest city, but the capital! And the city actually keeps real bears in Bear Park — because the word 'Bern' is said to come from the old German word for bear."
+    },
+    "flag_url": "https://flagcdn.com/w320/ch.png",
+    "emoji": "🇨🇭",
+    "qa_context": "Bern, Hauptstadt Schweiz, 140.000 Einwohner, Europa, 4 Landessprachen (Deutsch/Französisch/Italienisch/Rätoromanisch), bekannt für Bärengraben, UNESCO Altstadt, oft mit Zürich verwechselt"
+  },
+  {
+    "id": "athen",
+    "name": {
+      "de": "Athen",
+      "en": "Athens"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "facts": {
+      "country": "Griechenland",
+      "country_en": "Greece",
+      "continent": "Europa",
+      "population_million": 3.1,
+      "known_for": [
+        "Akropolis",
+        "Parthenon",
+        "Olympische Spiele",
+        "Demokratie"
+      ],
+      "language": "Griechisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Griechenland",
+        "en": "It is the capital of Greece"
+      },
+      {
+        "de": "Die Akropolis mit dem Parthenon-Tempel steht hier",
+        "en": "The Acropolis with the Parthenon temple is here"
+      },
+      {
+        "de": "Hier wurden die ersten Olympischen Spiele der Neuzeit abgehalten",
+        "en": "The first modern Olympic Games were held here"
+      }
+    ],
+    "description": {
+      "de": "Athen ist die Hauptstadt Griechenlands und eine der ältesten Städte der Welt. Die Akropolis mit dem Parthenon ist das bekannteste Symbol der Antike. Athen gilt als Wiege der Demokratie.",
+      "en": "Athens is the capital of Greece and one of the oldest cities in the world. The Acropolis with the Parthenon is the most famous symbol of antiquity. Athens is considered the cradle of democracy."
+    },
+    "fun_fact": {
+      "de": "Athen ist eine der ältesten bewohnten Städte der Welt — über 3.400 Jahre Geschichte! Die modernen Olympischen Spiele wurden 1896 in Athen wiederbelebt, genau dort, wo die antiken Spiele ihren Ursprung hatten.",
+      "en": "Athens is one of the oldest inhabited cities in the world — over 3,400 years of history! The modern Olympic Games were revived in Athens in 1896, exactly where the ancient games originated."
+    },
+    "flag_url": "https://flagcdn.com/w320/gr.png",
+    "emoji": "🇬🇷",
+    "qa_context": "Athen, Athens, Hauptstadt Griechenland, 3,1 Mio. Einwohner, Europa, Mittelmeer, bekannt für Akropolis, Parthenon, Wiege der Demokratie, erste moderne Olympische Spiele 1896, sehr alte Stadt"
+  },
+  {
+    "id": "peking",
+    "name": {
+      "de": "Peking",
+      "en": "Beijing"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "facts": {
+      "country": "China",
+      "country_en": "China",
+      "continent": "Asien",
+      "population_million": 21,
+      "known_for": [
+        "Verbotene Stadt",
+        "Chinesische Mauer",
+        "Tiananmen-Platz",
+        "Peking-Oper"
+      ],
+      "language": "Chinesisch (Mandarin)"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von China",
+        "en": "It is the capital of China"
+      },
+      {
+        "de": "Die Verbotene Stadt und der Tiananmen-Platz befinden sich hier",
+        "en": "The Forbidden City and Tiananmen Square are here"
+      },
+      {
+        "de": "Von hier aus beginnt der bekannteste Teil der Chinesischen Mauer",
+        "en": "The most famous section of the Great Wall of China starts near here"
+      }
+    ],
+    "description": {
+      "de": "Peking (Beijing) ist die Hauptstadt Chinas mit 21 Millionen Einwohnern. Die Verbotene Stadt war über 500 Jahre kaiserlicher Palast. Die Chinesische Mauer ist in der Nähe.",
+      "en": "Beijing is the capital of China with 21 million inhabitants. The Forbidden City was the imperial palace for over 500 years. The Great Wall of China is nearby."
+    },
+    "fun_fact": {
+      "de": "Die Verbotene Stadt in Peking hat 9.999 Räume! Der Kaiser durfte als einziger dort wohnen — Besucher ohne Erlaubnis wurden mit dem Tod bestraft. Heute ist es das meistbesuchte Museum der Welt.",
+      "en": "The Forbidden City in Beijing has 9,999 rooms! The emperor was the only one allowed to live there — visitors without permission were punished with death. Today it's the world's most visited museum."
+    },
+    "flag_url": "https://flagcdn.com/w320/cn.png",
+    "emoji": "🇨🇳",
+    "qa_context": "Peking, Beijing, Hauptstadt China, 21 Mio. Einwohner, Asien, Chinesisch/Mandarin, bekannt für Verbotene Stadt, Tiananmen-Platz, Chinesische Mauer in der Nähe, Peking-Ente, Peking-Oper"
+  },
+  {
+    "id": "moskau",
+    "name": {
+      "de": "Moskau",
+      "en": "Moscow"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "facts": {
+      "country": "Russland",
+      "country_en": "Russia",
+      "continent": "Europa/Asien",
+      "population_million": 12,
+      "known_for": [
+        "Roter Platz",
+        "Kreml",
+        "Basilius-Kathedrale",
+        "Metro"
+      ],
+      "language": "Russisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Russland",
+        "en": "It is the capital of Russia"
+      },
+      {
+        "de": "Der Rote Platz und der Kreml befinden sich hier",
+        "en": "Red Square and the Kremlin are here"
+      },
+      {
+        "de": "Es ist die größte Stadt Europas",
+        "en": "It is the largest city in Europe"
+      }
+    ],
+    "description": {
+      "de": "Moskau ist die Hauptstadt Russlands und die größte Stadt Europas mit 12 Millionen Einwohnern. Der Kreml ist der Regierungssitz. Die bunten Zwiebeltürme der Basilius-Kathedrale prägen das Bild.",
+      "en": "Moscow is the capital of Russia and the largest city in Europe with 12 million inhabitants. The Kremlin is the seat of government. The colorful onion domes of St. Basil's Cathedral define the image."
+    },
+    "fun_fact": {
+      "de": "Die Moskauer Metro ist eine der schönsten und tiefsten der Welt! Viele Stationen sehen aus wie Museen — mit Marmor, Kronleuchtern und Mosaiken. Täglich fahren über 9 Millionen Menschen damit.",
+      "en": "The Moscow Metro is one of the most beautiful and deepest in the world! Many stations look like museums — with marble, chandeliers and mosaics. Over 9 million people use it daily."
+    },
+    "flag_url": "https://flagcdn.com/w320/ru.png",
+    "emoji": "🇷🇺",
+    "qa_context": "Moskau, Moscow, Hauptstadt Russland, 12 Mio. Einwohner, größte Stadt Europas, Europa/Asien, Russisch, bekannt für Kreml, Roter Platz, Basilius-Kathedrale (bunte Zwiebeltürme), prächtige Metro"
+  },
+  {
+    "id": "kairo",
+    "name": {
+      "de": "Kairo",
+      "en": "Cairo"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "facts": {
+      "country": "Ägypten",
+      "country_en": "Egypt",
+      "continent": "Afrika",
+      "population_million": 21,
+      "known_for": [
+        "Pyramiden von Gizeh",
+        "Sphinx",
+        "Nil",
+        "Ägyptisches Museum"
+      ],
+      "language": "Arabisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Ägypten",
+        "en": "It is the capital of Egypt"
+      },
+      {
+        "de": "Die Pyramiden von Gizeh sind in der Nähe dieser Stadt",
+        "en": "The Pyramids of Giza are near this city"
+      },
+      {
+        "de": "Der Nil fließt durch diese Stadt",
+        "en": "The Nile flows through this city"
+      }
+    ],
+    "description": {
+      "de": "Kairo ist die Hauptstadt Ägyptens und die größte Stadt Afrikas. Die Pyramiden von Gizeh und die Sphinx befinden sich am Rand der Stadt. Der Nil fließt durch Kairo.",
+      "en": "Cairo is the capital of Egypt and the largest city in Africa. The Pyramids of Giza and the Sphinx are on the edge of the city. The Nile flows through Cairo."
+    },
+    "fun_fact": {
+      "de": "Die Pyramide von Gizeh ist das einzige noch erhaltene Weltwunder der Antike! Sie wurde vor über 4.500 Jahren gebaut und war fast 4.000 Jahre lang das höchste Bauwerk der Welt.",
+      "en": "The Great Pyramid of Giza is the only surviving wonder of the ancient world! It was built over 4,500 years ago and was the world's tallest structure for almost 4,000 years."
+    },
+    "flag_url": "https://flagcdn.com/w320/eg.png",
+    "emoji": "🇪🇬",
+    "qa_context": "Kairo, Cairo, Hauptstadt Ägypten, 21 Mio. Einwohner, größte Stadt Afrikas, Nordafrika, Arabisch, bekannt für Pyramiden von Gizeh, Sphinx, Nil, Ägyptisches Museum, sehr alte Zivilisation"
+  },
+  {
+    "id": "brasilia",
+    "name": {
+      "de": "Brasília",
+      "en": "Brasília"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "facts": {
+      "country": "Brasilien",
+      "country_en": "Brazil",
+      "continent": "Südamerika",
+      "population_million": 3.1,
+      "known_for": [
+        "futuristische Architektur",
+        "Nationalkathedrale",
+        "neu gebaut 1960"
+      ],
+      "language": "Portugiesisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Brasilien",
+        "en": "It is the capital of Brazil"
+      },
+      {
+        "de": "Viele denken, Rio de Janeiro oder São Paulo ist die Hauptstadt — aber das ist falsch!",
+        "en": "Many think Rio de Janeiro or São Paulo is the capital — but that's wrong!"
+      },
+      {
+        "de": "Diese Stadt wurde mitten im Dschungel aus dem Nichts gebaut",
+        "en": "This city was built from scratch in the middle of the jungle"
+      }
+    ],
+    "description": {
+      "de": "Brasília ist die Hauptstadt Brasiliens — nicht Rio de Janeiro! Die futuristische Stadt wurde von 1956 bis 1960 komplett neu im Landesinneren gebaut und ist UNESCO-Welterbe.",
+      "en": "Brasília is the capital of Brazil — not Rio de Janeiro! The futuristic city was completely newly built inland from 1956 to 1960 and is a UNESCO World Heritage Site."
+    },
+    "fun_fact": {
+      "de": "Brasília ist eine der wenigen Hauptstädte der Welt, die komplett neu gebaut wurden! In nur 4 Jahren (1956-1960) entstand eine ganze Stadt — von Null. Das Stadtbild hat die Form eines Flugzeugs, wenn man es von oben sieht.",
+      "en": "Brasília is one of the few capitals in the world that was completely built from scratch! In just 4 years (1956-1960) an entire city emerged — from zero. The city layout has the shape of an airplane when seen from above."
+    },
+    "flag_url": "https://flagcdn.com/w320/br.png",
+    "emoji": "🇧🇷",
+    "qa_context": "Brasília, Brasilia, Hauptstadt Brasilien, 3,1 Mio. Einwohner, Südamerika, Portugiesisch, futuristische Architektur, neu gebaut 1960, oft mit Rio de Janeiro verwechselt, UNESCO Welterbe, Stadtform wie Flugzeug"
+  },
+  {
+    "id": "buenos_aires",
+    "name": {
+      "de": "Buenos Aires",
+      "en": "Buenos Aires"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "facts": {
+      "country": "Argentinien",
+      "country_en": "Argentina",
+      "continent": "Südamerika",
+      "population_million": 3.1,
+      "known_for": [
+        "Tango",
+        "La Boca",
+        "Pampas",
+        "Steak"
+      ],
+      "language": "Spanisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Argentinien",
+        "en": "It is the capital of Argentina"
+      },
+      {
+        "de": "Der Tango wurde hier erfunden",
+        "en": "The Tango was invented here"
+      },
+      {
+        "de": "Es wird manchmal 'Paris Südamerikas' genannt",
+        "en": "It is sometimes called 'the Paris of South America'"
+      }
+    ],
+    "description": {
+      "de": "Buenos Aires ist die Hauptstadt Argentiniens und das kulturelle Zentrum Südamerikas. Der Tango wurde hier geboren. Die Stadt hat eine stark europäisch geprägte Architektur.",
+      "en": "Buenos Aires is the capital of Argentina and the cultural center of South America. The Tango was born here. The city has a strongly European-influenced architecture."
+    },
+    "fun_fact": {
+      "de": "Buenos Aires hat mehr Psychotherapeuten pro Einwohner als jede andere Stadt der Welt! Argentinien ist weltweit bekannt für seine Therapie-Kultur — sogar Kinder gehen regelmäßig zum Therapeuten.",
+      "en": "Buenos Aires has more psychotherapists per capita than any other city in the world! Argentina is internationally known for its therapy culture — even children regularly see therapists."
+    },
+    "flag_url": "https://flagcdn.com/w320/ar.png",
+    "emoji": "🇦🇷",
+    "qa_context": "Buenos Aires, Hauptstadt Argentinien, 3,1 Mio. Einwohner (15 Mio. Großraum), Südamerika, Spanisch, bekannt für Tango (Erfindungsort), La Boca, europäische Architektur, Paris Südamerikas genannt, Steak"
+  },
+  {
+    "id": "seoul",
+    "name": {
+      "de": "Seoul",
+      "en": "Seoul"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "facts": {
+      "country": "Südkorea",
+      "country_en": "South Korea",
+      "continent": "Asien",
+      "population_million": 10,
+      "known_for": [
+        "K-Pop",
+        "Samsung/Hyundai",
+        "Palast Gyeongbokgung",
+        "schnellstes Internet der Welt"
+      ],
+      "language": "Koreanisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Südkorea",
+        "en": "It is the capital of South Korea"
+      },
+      {
+        "de": "K-Pop und Hallyu (Korean Wave) kommen von hier",
+        "en": "K-Pop and Hallyu (Korean Wave) come from here"
+      },
+      {
+        "de": "Es hat das schnellste Internet der Welt",
+        "en": "It has the world's fastest internet"
+      }
+    ],
+    "description": {
+      "de": "Seoul ist die Hauptstadt Südkoreas mit 10 Millionen Einwohnern. K-Pop, K-Drama und Samsung sind von hier. Die Stadt verbindet alte Königspaläste mit ultramoderner Technologie.",
+      "en": "Seoul is the capital of South Korea with 10 million inhabitants. K-Pop, K-Drama and Samsung originate here. The city combines ancient royal palaces with ultra-modern technology."
+    },
+    "fun_fact": {
+      "de": "Seoul hat das schnellste Internet der Welt und mehr öffentliches WLAN als fast jede andere Stadt! K-Pop-Stars wie BTS und BLACKPINK machen Südkorea zu einem globalen Kulturexporteur.",
+      "en": "Seoul has the world's fastest internet and more public WiFi than almost any other city! K-Pop stars like BTS and BLACKPINK make South Korea a global cultural exporter."
+    },
+    "flag_url": "https://flagcdn.com/w320/kr.png",
+    "emoji": "🇰🇷",
+    "qa_context": "Seoul, Hauptstadt Südkorea, 10 Mio. Einwohner, Asien, Koreanisch, bekannt für K-Pop, BTS, Samsung, Hyundai, schnellstes Internet, Palast Gyeongbokgung, Kimchi, Han-Fluss"
+  },
+  {
+    "id": "reykjavik",
+    "name": {
+      "de": "Reykjavík",
+      "en": "Reykjavik"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "facts": {
+      "country": "Island",
+      "country_en": "Iceland",
+      "continent": "Europa",
+      "population_million": 0.13,
+      "known_for": [
+        "Nordlichter",
+        "Geysire",
+        "Mitternachtssonne",
+        "Björk"
+      ],
+      "language": "Isländisch"
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Island",
+        "en": "It is the capital of Iceland"
+      },
+      {
+        "de": "Es ist die nördlichste Hauptstadt der Welt",
+        "en": "It is the northernmost capital in the world"
+      },
+      {
+        "de": "Man kann hier Nordlichter sehen",
+        "en": "You can see the Northern Lights here"
+      }
+    ],
+    "description": {
+      "de": "Reykjavík ist die Hauptstadt Islands und die nördlichste Hauptstadt der Welt. Die Stadt liegt auf einer Vulkaninsel und nutzt Geothermie für fast 100% ihrer Energie. Nordlichter sind hier zu sehen.",
+      "en": "Reykjavik is the capital of Iceland and the northernmost capital in the world. The city sits on a volcanic island and uses geothermal energy for almost 100% of its energy. Northern lights can be seen here."
+    },
+    "fun_fact": {
+      "de": "Island hat fast keine Kriminalität — Reykjavík gilt als eine der sichersten Hauptstädte der Welt. Außerdem haben alle Isländer keinen Familiennamen: Der Nachname ist immer 'Vorname des Vaters + son/dóttir'.",
+      "en": "Iceland has almost no crime — Reykjavik is one of the world's safest capitals. Also, all Icelanders have no family name: the last name is always 'father's first name + son/dóttir'."
+    },
+    "flag_url": "https://flagcdn.com/w320/is.png",
+    "emoji": "🇮🇸",
+    "qa_context": "Reykjavík, Reykjavik, Hauptstadt Island, 130.000 Einwohner, nördlichste Hauptstadt der Welt, Nordatlantik, Europa, Isländisch, bekannt für Nordlichter, Geysire, Geothermie, Vulkane, Mitternachtssonne, sicherste Stadt der Welt"
   }
 ]
