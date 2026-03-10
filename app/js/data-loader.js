@@ -8,7 +8,10 @@ const DataLoader = {
     if (this._cache[category]) return this._cache[category];
     if (this._loading[category]) return this._loading[category];
 
-    this._loading[category] = fetch(`../data/${category}.json`)
+    // Pfad relativ zur index.html (funktioniert lokal und auf GitHub Pages)
+    const base = document.baseURI.endsWith('/') ? document.baseURI : document.baseURI.replace(/\/[^/]*$/, '/');
+    const dataPath = new URL(`data/${category}.json`, base).href;
+    this._loading[category] = fetch(dataPath)
       .then(r => {
         if (!r.ok) throw new Error(`Failed to load ${category}.json`);
         return r.json();
