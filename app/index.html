@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#6C3082">
+  <title>Dingeraten</title>
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+
+<!-- ===== START-SCREEN ===== -->
+<div id="screen-start" class="screen active">
+  <div class="start-logo">🎯</div>
+  <h1 class="start-title" data-i18n="appName">Dingeraten</h1>
+  <p class="start-tagline" data-i18n="tagline">Das Rätselspiel für Kinder</p>
+  <div class="lang-switcher">
+    <button class="lang-btn active" data-lang="de">🇩🇪 Deutsch</button>
+    <button class="lang-btn" data-lang="en">🇬🇧 English</button>
+  </div>
+  <button id="btn-play" class="btn-play" data-i18n="play">Spielen</button>
+</div>
+
+<!-- ===== SETUP-SCREEN ===== -->
+<div id="screen-setup" class="screen">
+  <div class="setup-header">
+    <button id="btn-back-start" class="btn-icon" aria-label="Zurück">←</button>
+    <h2 data-i18n="appName">Dingeraten</h2>
+    <button id="btn-settings" class="btn-icon" aria-label="Einstellungen">⚙️</button>
+  </div>
+
+  <div class="setup-body">
+    <!-- Kategorie -->
+    <div>
+      <p class="setup-section-label" data-i18n="setup.chooseCategory">Wähle eine Kategorie</p>
+      <div class="category-grid">
+        <button class="category-card" data-category="laender">
+          <span class="emoji">🌍</span>
+          <span class="label" data-i18n="setup.categories.laender">Länder</span>
+        </button>
+        <button class="category-card" data-category="hauptstaedte">
+          <span class="emoji">🏛️</span>
+          <span class="label" data-i18n="setup.categories.hauptstaedte">Hauptstädte</span>
+        </button>
+        <button class="category-card" data-category="gemuese">
+          <span class="emoji">🥦</span>
+          <span class="label" data-i18n="setup.categories.gemuese">Gemüse</span>
+        </button>
+        <button class="category-card" data-category="obst">
+          <span class="emoji">🍎</span>
+          <span class="label" data-i18n="setup.categories.obst">Obst</span>
+        </button>
+        <button class="category-card" data-category="tiere">
+          <span class="emoji">🦁</span>
+          <span class="label" data-i18n="setup.categories.tiere">Tiere</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Schwierigkeit -->
+    <div>
+      <p class="setup-section-label" data-i18n="setup.chooseDifficulty">Wähle die Schwierigkeit</p>
+      <div class="difficulty-grid">
+        <button class="difficulty-btn" data-difficulty="1">
+          <div class="diff-name">⭐ <span data-i18n="setup.difficulties.1">Einfach</span></div>
+          <div class="diff-desc" data-i18n="setup.difficultyDesc.1">Bekannte Dinge</div>
+        </button>
+        <button class="difficulty-btn" data-difficulty="2">
+          <div class="diff-name">⭐⭐ <span data-i18n="setup.difficulties.2">Mittel</span></div>
+          <div class="diff-desc" data-i18n="setup.difficultyDesc.2">Etwas schwieriger</div>
+        </button>
+        <button class="difficulty-btn" data-difficulty="3">
+          <div class="diff-name">⭐⭐⭐ <span data-i18n="setup.difficulties.3">Schwer</span></div>
+          <div class="diff-desc" data-i18n="setup.difficultyDesc.3">Für Profis</div>
+        </button>
+        <button class="difficulty-btn" data-difficulty="4">
+          <div class="diff-name">📈 <span data-i18n="setup.difficulties.4">Steigend</span></div>
+          <div class="diff-desc" data-i18n="setup.difficultyDesc.4">Wird immer schwerer</div>
+        </button>
+      </div>
+    </div>
+
+    <button id="btn-start-game" class="btn-start" disabled data-i18n="setup.start">Los geht's!</button>
+  </div>
+</div>
+
+<!-- ===== GAME-SCREEN ===== -->
+<div id="screen-game" class="screen">
+  <div class="game-header">
+    <button id="btn-back-setup" class="btn-icon" aria-label="Zurück">←</button>
+    <span id="game-category-badge" class="game-category-badge"></span>
+    <span id="game-question-counter" class="game-question-counter">0 / 20</span>
+  </div>
+
+  <div id="qa-history" class="qa-history">
+    <div id="qa-empty" class="qa-empty">
+      <span class="emoji">🤔</span>
+      <p id="qa-empty-text">Stell eine Ja/Nein-Frage!</p>
+    </div>
+  </div>
+
+  <div class="game-actions">
+    <button id="btn-hint" class="btn-hint">
+      💡 <span data-i18n="game.hint">Tipp</span>
+    </button>
+    <button id="btn-know" class="btn-know" data-i18n="game.iKnowIt">Ich weiß es!</button>
+    <button id="btn-give-up" class="btn-give-up" data-i18n="game.giveUp">Lösung</button>
+  </div>
+
+  <div class="game-input-area">
+    <input id="game-input" class="game-input" type="text"
+           data-i18n-placeholder="game.inputPlaceholder"
+           placeholder="Stelle eine Ja/Nein-Frage ...">
+    <button id="btn-mic" class="btn-mic" title="Mikrofon">🎤</button>
+    <button id="btn-send" class="btn-send" disabled>➤</button>
+  </div>
+</div>
+
+<!-- ===== RESULT-SCREEN ===== -->
+<div id="screen-result" class="screen">
+  <div class="result-hero">
+    <p id="result-status" class="result-status"></p>
+    <div id="result-image" class="result-image"></div>
+    <img id="result-flag" class="result-flag hidden" alt="Flagge">
+    <h2 id="result-name" class="result-name"></h2>
+  </div>
+
+  <!-- Weltkarte für Länder und Hauptstädte -->
+  <div id="result-map" class="result-map hidden">
+    <p class="map-label" data-i18n="result.mapLabel">Wo liegt es auf der Welt?</p>
+    <div class="map-wrapper">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/800px-World_map_-_low_resolution.svg.png"
+           class="world-map-img" alt="Weltkarte" loading="lazy">
+      <div id="map-marker" class="map-marker">📍</div>
+    </div>
+  </div>
+
+  <div class="result-body">
+    <p id="result-description" class="result-description"></p>
+
+    <div class="fun-fact-box">
+      <p class="fun-fact-label" data-i18n="result.funFact">Wusstest du schon?</p>
+      <p id="result-fun-fact" class="fun-fact-text"></p>
+    </div>
+
+    <p id="result-stats" class="result-stats"></p>
+  </div>
+
+  <div class="result-actions">
+    <button id="btn-play-again" class="btn-again" data-i18n="result.playAgain">Nochmal</button>
+    <button id="btn-new-category" class="btn-new-category" data-i18n="result.newCategory">Neue Kategorie</button>
+  </div>
+</div>
+
+<!-- ===== GUESS DIALOG ===== -->
+<div id="overlay-guess" class="overlay">
+  <div class="dialog">
+    <h3 id="guess-prompt" data-i18n="game.guessPrompt">Was ist es?</h3>
+    <input id="guess-input" class="dialog-input" type="text"
+           data-i18n-placeholder="game.guessPlaceholder"
+           placeholder="Deine Antwort ...">
+    <div class="dialog-actions">
+      <button id="btn-guess-cancel" class="btn-dialog-cancel" data-i18n="cancel">Abbrechen</button>
+      <button id="btn-guess-submit" class="btn-dialog-submit" data-i18n="game.guessButton">Prüfen</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SETTINGS OVERLAY ===== -->
+<div id="overlay-settings" class="settings-overlay">
+  <div class="settings-sheet">
+    <h3 data-i18n="settings.title">Einstellungen</h3>
+
+    <div class="settings-group">
+      <label data-i18n="settings.language">Sprache</label>
+      <div class="lang-setting">
+        <button data-settings-lang="de" class="active">🇩🇪 Deutsch</button>
+        <button data-settings-lang="en">🇬🇧 English</button>
+      </div>
+    </div>
+
+    <div class="settings-group">
+      <label data-i18n="settings.apiKeyLabel">OpenAI API-Key</label>
+      <div class="api-key-row">
+        <input id="settings-api-key" type="password"
+               data-i18n-placeholder="settings.apiKeyPlaceholder"
+               placeholder="sk-..." autocomplete="off">
+        <button id="btn-test-key" class="btn-test" data-i18n="settings.apiKeyTest">Testen</button>
+      </div>
+      <p id="key-status" class="key-status"></p>
+      <p class="settings-hint" data-i18n="settings.apiKeyHint">Optional. Ohne Key werden einfachere Offline-Antworten gegeben.</p>
+    </div>
+
+    <button id="btn-settings-save" class="btn-settings-save" data-i18n="save">Speichern</button>
+  </div>
+</div>
+
+<!-- ===== SCRIPTS ===== -->
+<script src="./js/state.js"></script>
+<script src="./js/i18n.js"></script>
+<script src="./js/data-loader.js"></script>
+<script src="./js/game-engine.js"></script>
+<script src="./js/openai-client.js"></script>
+<script src="./js/qa-engine.js"></script>
+<script src="./js/speech.js"></script>
+<script src="./js/app.js"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js').catch(console.warn);
+  }
+</script>
+</body>
+</html>

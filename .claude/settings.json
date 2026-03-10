@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(''Pages URL:'', d.get\\(''html_url'',''?''\\)\\)\")",
+      "Bash(gh repo list steffenkiedel --visibility public --json name --jq '.[].name')",
+      "Read(//Users/steffenkiedel/**)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://steffenkiedel.github.io/dingeraten/data/laender.json\")",
+      "Bash(git -C \"/Users/steffenkiedel/My Drive \\(steffen.kiedel@gmail.com\\)/_Automation and AI/Dingeraten\" show gh-pages:js/data-loader.js)",
+      "Bash(git -C \"/Users/steffenkiedel/My Drive \\(steffen.kiedel@gmail.com\\)/_Automation and AI/Dingeraten\" checkout gh-pages)",
+      "Bash(git -C \"/Users/steffenkiedel/My Drive \\(steffen.kiedel@gmail.com\\)/_Automation and AI/Dingeraten\" status --short)",
+      "Bash(git -C \"/Users/steffenkiedel/My Drive \\(steffen.kiedel@gmail.com\\)/_Automation and AI/Dingeraten\" push origin gh-pages)",
+      "Bash(git -C \"/Users/steffenkiedel/My Drive \\(steffen.kiedel@gmail.com\\)/_Automation and AI/Dingeraten\" checkout main)",
+      "Bash(REPO=\"/Users/steffenkiedel/My Drive \\(steffen.kiedel@gmail.com\\)/_Automation and AI/Dingeraten\")",
+      "Bash(git -C \"$REPO\" checkout gh-pages)",
+      "Bash(git -C \"$REPO\" rm app/js/data-loader.js)",
+      "Bash(git -C \"$REPO\" commit -m \"Cleanup: app/ aus gh-pages entfernt:*)",
+      "Bash(git -C \"$REPO\" push origin gh-pages)",
+      "Bash(git -C \"$REPO\" checkout main)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3 -:*)",
+      "Bash(python3 tools/expand_data.py)",
+      "Bash(python3 tools/add_coordinates.py)"
+    ]
+  }
+}

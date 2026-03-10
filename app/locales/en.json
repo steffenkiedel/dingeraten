@@ -1,0 +1,94 @@
+{
+  "appName": "Guess It!",
+  "tagline": "The guessing game for kids",
+  "play": "Play",
+  "back": "Back",
+  "close": "Close",
+  "save": "Save",
+  "cancel": "Cancel",
+
+  "setup": {
+    "chooseCategory": "Choose a category",
+    "chooseDifficulty": "Choose difficulty",
+    "start": "Let's go!",
+    "categories": {
+      "laender": "Countries",
+      "hauptstaedte": "Capitals",
+      "gemuese": "Vegetables",
+      "obst": "Fruits",
+      "tiere": "Animals"
+    },
+    "difficulties": {
+      "1": "Easy",
+      "2": "Medium",
+      "3": "Hard",
+      "4": "Rising"
+    },
+    "difficultyDesc": {
+      "1": "Familiar things",
+      "2": "A bit trickier",
+      "3": "For experts",
+      "4": "Gets harder over time"
+    }
+  },
+
+  "game": {
+    "questionCounter": "Question {n} of {max}",
+    "inputPlaceholder": "Ask a yes/no question ...",
+    "send": "Ask",
+    "hint": "Hint",
+    "iKnowIt": "I know it!",
+    "guessPrompt": "What is it?",
+    "guessPlaceholder": "Your answer ...",
+    "guessButton": "Check",
+    "giveUp": "Give up",
+    "hintPrefix": "Hint: ",
+    "noMoreHints": "No more hints available.",
+    "maxQuestionsReached": "You've asked all 20 questions! What do you think it is?",
+    "thinking": "Thinking ...",
+    "micStart": "Speak now ...",
+    "micStop": "Stop recording"
+  },
+
+  "answers": {
+    "yes": "Yes",
+    "no": "No",
+    "partial": "Partly",
+    "unclear": "That's a good question! Could you be more specific?",
+    "unknown": "I'm not sure about that. Try a different question!",
+    "correct": "🎉 Correct! You guessed it!",
+    "wrong": "Not quite. Try again!"
+  },
+
+  "result": {
+    "wonTitle": "Great job! You guessed it!",
+    "lostTitle": "Too bad! That was tough.",
+    "surrenderedTitle": "Gave up! The answer was:",
+    "theSolutionWas": "The answer was:",
+    "funFact": "Did you know?",
+    "mapLabel": "Where is it in the world?",
+    "questions": "You asked {n} questions.",
+    "questionsWithHints": "You asked {n} questions and used {h} hint(s).",
+    "playAgain": "Play again",
+    "newCategory": "New category"
+  },
+
+  "settings": {
+    "title": "Settings",
+    "apiKeyLabel": "OpenAI API Key",
+    "apiKeyPlaceholder": "sk-...",
+    "apiKeyHint": "Optional. Without a key, simpler offline answers will be used.",
+    "apiKeyTest": "Test",
+    "apiKeyValid": "✓ Key is valid",
+    "apiKeyInvalid": "✗ Key is invalid",
+    "howToGetKey": "How do I get a key?",
+    "language": "Language"
+  },
+
+  "errors": {
+    "noCategory": "Please choose a category first.",
+    "noDifficulty": "Please choose a difficulty.",
+    "loadFailed": "Could not load data. Please try again.",
+    "apiError": "Connection error. Using offline mode."
+  }
+}

@@ -1,7 +1,10 @@
 [
   {
     "id": "deutschland",
-    "name": { "de": "Deutschland", "en": "Germany" },
+    "name": {
+      "de": "Deutschland",
+      "en": "Germany"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -11,15 +14,34 @@
       "area_km2": 357114,
       "language": "Deutsch",
       "currency": "Euro",
-      "neighbors": ["Frankreich", "Polen", "Österreich", "Schweiz", "Niederlande", "Belgien", "Luxemburg", "Dänemark", "Tschechien"],
+      "neighbors": [
+        "Frankreich",
+        "Polen",
+        "Österreich",
+        "Schweiz",
+        "Niederlande",
+        "Belgien",
+        "Luxemburg",
+        "Dänemark",
+        "Tschechien"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt in Mitteleuropa", "en": "It is in Central Europe" },
-      { "de": "Es grenzt an 9 Länder", "en": "It borders 9 countries" },
-      { "de": "Die Hauptstadt beginnt mit B", "en": "The capital starts with B" }
+      {
+        "de": "Es liegt in Mitteleuropa",
+        "en": "It is in Central Europe"
+      },
+      {
+        "de": "Es grenzt an 9 Länder",
+        "en": "It borders 9 countries"
+      },
+      {
+        "de": "Die Hauptstadt beginnt mit B",
+        "en": "The capital starts with B"
+      }
     ],
     "description": {
       "de": "Deutschland ist ein Land in Mitteleuropa. Die Hauptstadt ist Berlin und es hat rund 84 Millionen Einwohner. Es ist bekannt für seine Autos, Bier und das Oktoberfest.",
@@ -31,11 +53,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/de.png",
     "emoji": "🇩🇪",
-    "qa_context": "Deutschland, Bundesrepublik Deutschland, Hauptstadt Berlin, 84 Mio. Einwohner, Mitteleuropa, 9 Nachbarländer (FR/PL/AT/CH/NL/BE/LU/DK/CZ), Euro, EU-Mitglied, bekannt für Autos (VW/BMW/Mercedes), Fußball, Oktoberfest, technische Innovationen"
+    "qa_context": "Deutschland, Bundesrepublik Deutschland, Hauptstadt Berlin, 84 Mio. Einwohner, Mitteleuropa, 9 Nachbarländer (FR/PL/AT/CH/NL/BE/LU/DK/CZ), Euro, EU-Mitglied, bekannt für Autos (VW/BMW/Mercedes), Fußball, Oktoberfest, technische Innovationen",
+    "lat": 51.2,
+    "lng": 10.5
   },
   {
     "id": "frankreich",
-    "name": { "de": "Frankreich", "en": "France" },
+    "name": {
+      "de": "Frankreich",
+      "en": "France"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -45,15 +72,33 @@
       "area_km2": 551695,
       "language": "Französisch",
       "currency": "Euro",
-      "neighbors": ["Deutschland", "Spanien", "Italien", "Belgien", "Luxemburg", "Schweiz", "Andorra", "Monaco"],
+      "neighbors": [
+        "Deutschland",
+        "Spanien",
+        "Italien",
+        "Belgien",
+        "Luxemburg",
+        "Schweiz",
+        "Andorra",
+        "Monaco"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt in Westeuropa", "en": "It is in Western Europe" },
-      { "de": "Die Sprache ist Französisch", "en": "The language is French" },
-      { "de": "Es ist bekannt für seinen Eiffelturm", "en": "It is known for its Eiffel Tower" }
+      {
+        "de": "Es liegt in Westeuropa",
+        "en": "It is in Western Europe"
+      },
+      {
+        "de": "Die Sprache ist Französisch",
+        "en": "The language is French"
+      },
+      {
+        "de": "Es ist bekannt für seinen Eiffelturm",
+        "en": "It is known for its Eiffel Tower"
+      }
     ],
     "description": {
       "de": "Frankreich ist ein Land in Westeuropa. Die Hauptstadt Paris ist für den Eiffelturm weltberühmt. Frankreich ist bekannt für seine Küche, Weine und Mode.",
@@ -65,11 +110,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/fr.png",
     "emoji": "🇫🇷",
-    "qa_context": "Frankreich, République française, Hauptstadt Paris, 68 Mio. Einwohner, Westeuropa, EU-Mitglied, Sprache Französisch, bekannt für Eiffelturm, Croissants, Wein, Mode, Louvre, Tour de France"
+    "qa_context": "Frankreich, République française, Hauptstadt Paris, 68 Mio. Einwohner, Westeuropa, EU-Mitglied, Sprache Französisch, bekannt für Eiffelturm, Croissants, Wein, Mode, Louvre, Tour de France",
+    "lat": 46.2,
+    "lng": 2.2
   },
   {
     "id": "oesterreich",
-    "name": { "de": "Österreich", "en": "Austria" },
+    "name": {
+      "de": "Österreich",
+      "en": "Austria"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -79,15 +129,33 @@
       "area_km2": 83871,
       "language": "Deutsch",
       "currency": "Euro",
-      "neighbors": ["Deutschland", "Schweiz", "Italien", "Slowenien", "Ungarn", "Slowakei", "Tschechien", "Liechtenstein"],
+      "neighbors": [
+        "Deutschland",
+        "Schweiz",
+        "Italien",
+        "Slowenien",
+        "Ungarn",
+        "Slowakei",
+        "Tschechien",
+        "Liechtenstein"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": false
     },
     "hints": [
-      { "de": "Es liegt südlich von Deutschland", "en": "It is south of Germany" },
-      { "de": "Man spricht dort Deutsch", "en": "German is spoken there" },
-      { "de": "Es ist bekannt für die Alpen und Skifahren", "en": "It is known for the Alps and skiing" }
+      {
+        "de": "Es liegt südlich von Deutschland",
+        "en": "It is south of Germany"
+      },
+      {
+        "de": "Man spricht dort Deutsch",
+        "en": "German is spoken there"
+      },
+      {
+        "de": "Es ist bekannt für die Alpen und Skifahren",
+        "en": "It is known for the Alps and skiing"
+      }
     ],
     "description": {
       "de": "Österreich ist ein kleines Land in Mitteleuropa, das südlich von Deutschland liegt. Die Hauptstadt Wien ist für Musik (Mozart, Beethoven) und Kaffeehäuser bekannt.",
@@ -99,11 +167,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/at.png",
     "emoji": "🇦🇹",
-    "qa_context": "Österreich, Republic Österreich, Hauptstadt Wien, 9 Mio. Einwohner, Mitteleuropa, Alpen, kein Meer, EU-Mitglied, Sprache Deutsch, bekannt für Mozart, Sachertorte, Skifahren, Wien Philharmoniker"
+    "qa_context": "Österreich, Republic Österreich, Hauptstadt Wien, 9 Mio. Einwohner, Mitteleuropa, Alpen, kein Meer, EU-Mitglied, Sprache Deutsch, bekannt für Mozart, Sachertorte, Skifahren, Wien Philharmoniker",
+    "lat": 47.5,
+    "lng": 14.5
   },
   {
     "id": "schweiz",
-    "name": { "de": "Schweiz", "en": "Switzerland" },
+    "name": {
+      "de": "Schweiz",
+      "en": "Switzerland"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -113,15 +186,30 @@
       "area_km2": 41285,
       "language": "Deutsch, Französisch, Italienisch, Rätoromanisch",
       "currency": "Schweizer Franken",
-      "neighbors": ["Deutschland", "Frankreich", "Italien", "Österreich", "Liechtenstein"],
+      "neighbors": [
+        "Deutschland",
+        "Frankreich",
+        "Italien",
+        "Österreich",
+        "Liechtenstein"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": false
     },
     "hints": [
-      { "de": "Es liegt in den Alpen und hat keinen Meereszugang", "en": "It is in the Alps and has no sea access" },
-      { "de": "Es hat vier Amtssprachen", "en": "It has four official languages" },
-      { "de": "Es ist bekannt für Schokolade und Käse", "en": "It is known for chocolate and cheese" }
+      {
+        "de": "Es liegt in den Alpen und hat keinen Meereszugang",
+        "en": "It is in the Alps and has no sea access"
+      },
+      {
+        "de": "Es hat vier Amtssprachen",
+        "en": "It has four official languages"
+      },
+      {
+        "de": "Es ist bekannt für Schokolade und Käse",
+        "en": "It is known for chocolate and cheese"
+      }
     ],
     "description": {
       "de": "Die Schweiz ist ein kleines Land in den Alpen. Die Hauptstadt ist Bern. Die Schweiz ist bekannt für Schokolade, Käse, Uhren und Banken.",
@@ -133,11 +221,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/ch.png",
     "emoji": "🇨🇭",
-    "qa_context": "Schweiz, Hauptstadt Bern, 9 Mio. Einwohner, Alpen, kein Meer, nicht EU, Währung Schweizer Franken, 4 Sprachen, bekannt für Schokolade, Toblerone, Käse, Uhren (Rolex/Swatch), Banken, Neutralität"
+    "qa_context": "Schweiz, Hauptstadt Bern, 9 Mio. Einwohner, Alpen, kein Meer, nicht EU, Währung Schweizer Franken, 4 Sprachen, bekannt für Schokolade, Toblerone, Käse, Uhren (Rolex/Swatch), Banken, Neutralität",
+    "lat": 46.8,
+    "lng": 8.2
   },
   {
     "id": "italien",
-    "name": { "de": "Italien", "en": "Italy" },
+    "name": {
+      "de": "Italien",
+      "en": "Italy"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -147,15 +240,29 @@
       "area_km2": 301340,
       "language": "Italienisch",
       "currency": "Euro",
-      "neighbors": ["Frankreich", "Schweiz", "Österreich", "Slowenien"],
+      "neighbors": [
+        "Frankreich",
+        "Schweiz",
+        "Österreich",
+        "Slowenien"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es sieht auf der Landkarte aus wie ein Stiefel", "en": "It looks like a boot on the map" },
-      { "de": "Es liegt in Südeuropa", "en": "It is in Southern Europe" },
-      { "de": "Es ist bekannt für Pizza und Pasta", "en": "It is known for pizza and pasta" }
+      {
+        "de": "Es sieht auf der Landkarte aus wie ein Stiefel",
+        "en": "It looks like a boot on the map"
+      },
+      {
+        "de": "Es liegt in Südeuropa",
+        "en": "It is in Southern Europe"
+      },
+      {
+        "de": "Es ist bekannt für Pizza und Pasta",
+        "en": "It is known for pizza and pasta"
+      }
     ],
     "description": {
       "de": "Italien ist ein Land in Südeuropa. Die Hauptstadt Rom war einst das Zentrum des mächtigsten Reiches der Welt. Italien ist berühmt für Pizza, Pasta, Mode und Kunst.",
@@ -167,11 +274,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/it.png",
     "emoji": "🇮🇹",
-    "qa_context": "Italien, Repubblica Italiana, Hauptstadt Rom, 60 Mio. Einwohner, Südeuropa, Form wie Stiefel, Mittelmeer, EU-Mitglied, Sprache Italienisch, bekannt für Pizza, Pasta, Kolosseum, Vatikan, Mode (Gucci/Prada), Ferrari"
+    "qa_context": "Italien, Repubblica Italiana, Hauptstadt Rom, 60 Mio. Einwohner, Südeuropa, Form wie Stiefel, Mittelmeer, EU-Mitglied, Sprache Italienisch, bekannt für Pizza, Pasta, Kolosseum, Vatikan, Mode (Gucci/Prada), Ferrari",
+    "lat": 42.8,
+    "lng": 12.6
   },
   {
     "id": "niederlande",
-    "name": { "de": "Niederlande", "en": "Netherlands" },
+    "name": {
+      "de": "Niederlande",
+      "en": "Netherlands"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -181,15 +293,27 @@
       "area_km2": 41543,
       "language": "Niederländisch",
       "currency": "Euro",
-      "neighbors": ["Deutschland", "Belgien"],
+      "neighbors": [
+        "Deutschland",
+        "Belgien"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt nördlich von Belgien und westlich von Deutschland", "en": "It is north of Belgium and west of Germany" },
-      { "de": "Es ist bekannt für Windmühlen und Tulpen", "en": "It is known for windmills and tulips" },
-      { "de": "Große Teile des Landes liegen unter dem Meeresspiegel", "en": "Large parts of the country lie below sea level" }
+      {
+        "de": "Es liegt nördlich von Belgien und westlich von Deutschland",
+        "en": "It is north of Belgium and west of Germany"
+      },
+      {
+        "de": "Es ist bekannt für Windmühlen und Tulpen",
+        "en": "It is known for windmills and tulips"
+      },
+      {
+        "de": "Große Teile des Landes liegen unter dem Meeresspiegel",
+        "en": "Large parts of the country lie below sea level"
+      }
     ],
     "description": {
       "de": "Die Niederlande liegen in Nordwesteuropa. Die Hauptstadt Amsterdam ist für ihre Grachten (Kanäle) weltberühmt. Das Land ist flach und hat viele Windmühlen.",
@@ -201,11 +325,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/nl.png",
     "emoji": "🇳🇱",
-    "qa_context": "Niederlande, Holland, Hauptstadt Amsterdam, 18 Mio. Einwohner, Nordwesteuropa, flaches Land, viel unter Meeresspiegel, EU, Sprache Niederländisch, bekannt für Tulpen, Windmühlen, Grachten, Käse (Gouda/Edam), Fahrräder"
+    "qa_context": "Niederlande, Holland, Hauptstadt Amsterdam, 18 Mio. Einwohner, Nordwesteuropa, flaches Land, viel unter Meeresspiegel, EU, Sprache Niederländisch, bekannt für Tulpen, Windmühlen, Grachten, Käse (Gouda/Edam), Fahrräder",
+    "lat": 52.1,
+    "lng": 5.3
   },
   {
     "id": "spanien",
-    "name": { "de": "Spanien", "en": "Spain" },
+    "name": {
+      "de": "Spanien",
+      "en": "Spain"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -215,15 +344,28 @@
       "area_km2": 505990,
       "language": "Spanisch",
       "currency": "Euro",
-      "neighbors": ["Frankreich", "Portugal", "Andorra"],
+      "neighbors": [
+        "Frankreich",
+        "Portugal",
+        "Andorra"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt auf der Iberischen Halbinsel", "en": "It is on the Iberian Peninsula" },
-      { "de": "Es ist bekannt für Sonne und Strand", "en": "It is known for sun and beach" },
-      { "de": "Der Fußballclub Barcelona ist aus diesem Land", "en": "The football club Barcelona is from this country" }
+      {
+        "de": "Es liegt auf der Iberischen Halbinsel",
+        "en": "It is on the Iberian Peninsula"
+      },
+      {
+        "de": "Es ist bekannt für Sonne und Strand",
+        "en": "It is known for sun and beach"
+      },
+      {
+        "de": "Der Fußballclub Barcelona ist aus diesem Land",
+        "en": "The football club Barcelona is from this country"
+      }
     ],
     "description": {
       "de": "Spanien liegt in Südwesteuropa auf der Iberischen Halbinsel. Die Hauptstadt Madrid ist die drittgrößte Stadt der EU. Spanien ist bekannt für Flamenco, Fußball und leckere Tapas.",
@@ -235,11 +377,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/es.png",
     "emoji": "🇪🇸",
-    "qa_context": "Spanien, España, Hauptstadt Madrid, 48 Mio. Einwohner, Südwesteuropa, Iberische Halbinsel, EU, Sprache Spanisch, bekannt für Fußball (Real Madrid/Barcelona), Flamenco, Tapas, Siesta, Ibiza, Teneriffa"
+    "qa_context": "Spanien, España, Hauptstadt Madrid, 48 Mio. Einwohner, Südwesteuropa, Iberische Halbinsel, EU, Sprache Spanisch, bekannt für Fußball (Real Madrid/Barcelona), Flamenco, Tapas, Siesta, Ibiza, Teneriffa",
+    "lat": 40.4,
+    "lng": -3.7
   },
   {
     "id": "usa",
-    "name": { "de": "USA", "en": "USA" },
+    "name": {
+      "de": "USA",
+      "en": "USA"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -249,15 +396,27 @@
       "area_km2": 9833517,
       "language": "Englisch",
       "currency": "US-Dollar",
-      "neighbors": ["Kanada", "Mexiko"],
+      "neighbors": [
+        "Kanada",
+        "Mexiko"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist das größte englischsprachige Land der Welt", "en": "It is the largest English-speaking country in the world" },
-      { "de": "Die Freiheitsstatue steht in diesem Land", "en": "The Statue of Liberty is in this country" },
-      { "de": "Es hat 50 Bundesstaaten", "en": "It has 50 states" }
+      {
+        "de": "Es ist das größte englischsprachige Land der Welt",
+        "en": "It is the largest English-speaking country in the world"
+      },
+      {
+        "de": "Die Freiheitsstatue steht in diesem Land",
+        "en": "The Statue of Liberty is in this country"
+      },
+      {
+        "de": "Es hat 50 Bundesstaaten",
+        "en": "It has 50 states"
+      }
     ],
     "description": {
       "de": "Die USA (Vereinigte Staaten von Amerika) liegen in Nordamerika. Die Hauptstadt ist Washington D.C. Die USA sind bekannt für Hollywood, Fast Food und ihre riesige Fläche.",
@@ -269,11 +428,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/us.png",
     "emoji": "🇺🇸",
-    "qa_context": "USA, United States, Vereinigte Staaten, Hauptstadt Washington D.C., 335 Mio. Einwohner, Nordamerika, 50 Bundesstaaten, Sprache Englisch, Dollar, bekannt für Hollywood, New York, NASA, McDonald's, Freiheitsstatue"
+    "qa_context": "USA, United States, Vereinigte Staaten, Hauptstadt Washington D.C., 335 Mio. Einwohner, Nordamerika, 50 Bundesstaaten, Sprache Englisch, Dollar, bekannt für Hollywood, New York, NASA, McDonald's, Freiheitsstatue",
+    "lat": 38.0,
+    "lng": -97.0
   },
   {
     "id": "grossbritannien",
-    "name": { "de": "Großbritannien", "en": "United Kingdom" },
+    "name": {
+      "de": "Großbritannien",
+      "en": "United Kingdom"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -283,15 +447,26 @@
       "area_km2": 243610,
       "language": "Englisch",
       "currency": "Pfund Sterling",
-      "neighbors": ["Irland"],
+      "neighbors": [
+        "Irland"
+      ],
       "in_eu": false,
       "is_island": true,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist eine Insel", "en": "It is an island" },
-      { "de": "Man spricht dort Englisch", "en": "English is spoken there" },
-      { "de": "Big Ben und der Buckingham Palace befinden sich hier", "en": "Big Ben and Buckingham Palace are here" }
+      {
+        "de": "Es ist eine Insel",
+        "en": "It is an island"
+      },
+      {
+        "de": "Man spricht dort Englisch",
+        "en": "English is spoken there"
+      },
+      {
+        "de": "Big Ben und der Buckingham Palace befinden sich hier",
+        "en": "Big Ben and Buckingham Palace are here"
+      }
     ],
     "description": {
       "de": "Großbritannien ist eine Insel in Nordwesteuropa. Die Hauptstadt London ist eine der größten Städte der Welt. Das Land ist bekannt für die Königsfamilie, Fußball und die Beatles.",
@@ -303,11 +478,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/gb.png",
     "emoji": "🇬🇧",
-    "qa_context": "Großbritannien, UK, United Kingdom, Hauptstadt London, 68 Mio. Einwohner, Nordwesteuropa, Insel, kein EU-Mitglied (Brexit), Sprache Englisch, Pfund Sterling, bekannt für Queen/König, Big Ben, Harry Potter, Beatles, Fußball (Premier League)"
+    "qa_context": "Großbritannien, UK, United Kingdom, Hauptstadt London, 68 Mio. Einwohner, Nordwesteuropa, Insel, kein EU-Mitglied (Brexit), Sprache Englisch, Pfund Sterling, bekannt für Queen/König, Big Ben, Harry Potter, Beatles, Fußball (Premier League)",
+    "lat": 54.0,
+    "lng": -2.0
   },
   {
     "id": "portugal",
-    "name": { "de": "Portugal", "en": "Portugal" },
+    "name": {
+      "de": "Portugal",
+      "en": "Portugal"
+    },
     "category": "laender",
     "difficulty": 1,
     "facts": {
@@ -317,15 +497,26 @@
       "area_km2": 92212,
       "language": "Portugiesisch",
       "currency": "Euro",
-      "neighbors": ["Spanien"],
+      "neighbors": [
+        "Spanien"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt ganz im Westen Europas", "en": "It is in the far west of Europe" },
-      { "de": "Es hat nur einen Nachbarn", "en": "It has only one neighbor" },
-      { "de": "Ronaldo kommt aus diesem Land", "en": "Ronaldo is from this country" }
+      {
+        "de": "Es liegt ganz im Westen Europas",
+        "en": "It is in the far west of Europe"
+      },
+      {
+        "de": "Es hat nur einen Nachbarn",
+        "en": "It has only one neighbor"
+      },
+      {
+        "de": "Ronaldo kommt aus diesem Land",
+        "en": "Ronaldo is from this country"
+      }
     ],
     "description": {
       "de": "Portugal liegt im äußersten Westen Europas auf der Iberischen Halbinsel. Die Hauptstadt Lissabon liegt direkt am Atlantik. Portugal ist bekannt für Fisch, Pastéis de Nata und Fußball.",
@@ -337,11 +528,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/pt.png",
     "emoji": "🇵🇹",
-    "qa_context": "Portugal, Hauptstadt Lissabon, 10 Mio. Einwohner, Westeuropa, Iberische Halbinsel, nur Nachbar Spanien, EU, Sprache Portugiesisch, bekannt für Ronaldo, Sardinen, Pastéis de Nata, Atlantik, ehemalige Seemacht"
+    "qa_context": "Portugal, Hauptstadt Lissabon, 10 Mio. Einwohner, Westeuropa, Iberische Halbinsel, nur Nachbar Spanien, EU, Sprache Portugiesisch, bekannt für Ronaldo, Sardinen, Pastéis de Nata, Atlantik, ehemalige Seemacht",
+    "lat": 39.4,
+    "lng": -8.2
   },
   {
     "id": "kanada",
-    "name": { "de": "Kanada", "en": "Canada" },
+    "name": {
+      "de": "Kanada",
+      "en": "Canada"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -351,15 +547,26 @@
       "area_km2": 9984670,
       "language": "Englisch, Französisch",
       "currency": "Kanadischer Dollar",
-      "neighbors": ["USA"],
+      "neighbors": [
+        "USA"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist das zweitgrößte Land der Welt nach Russland", "en": "It is the second largest country in the world after Russia" },
-      { "de": "Es grenzt nur an die USA", "en": "It only borders the USA" },
-      { "de": "Ahorn-Sirup kommt aus diesem Land", "en": "Maple syrup comes from this country" }
+      {
+        "de": "Es ist das zweitgrößte Land der Welt nach Russland",
+        "en": "It is the second largest country in the world after Russia"
+      },
+      {
+        "de": "Es grenzt nur an die USA",
+        "en": "It only borders the USA"
+      },
+      {
+        "de": "Ahorn-Sirup kommt aus diesem Land",
+        "en": "Maple syrup comes from this country"
+      }
     ],
     "description": {
       "de": "Kanada ist das zweitgrößte Land der Welt und liegt in Nordamerika. Die Hauptstadt ist Ottawa. Kanada ist bekannt für seine riesigen Wälder, Niagara-Fälle und sein freundliches Volk.",
@@ -371,11 +578,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/ca.png",
     "emoji": "🇨🇦",
-    "qa_context": "Kanada, Hauptstadt Ottawa, 40 Mio. Einwohner, Nordamerika, zweitgrößtes Land der Welt, Nachbar USA, 2 Sprachen (Englisch/Französisch), bekannt für Ahorn-Sirup, Niagara-Fälle, Eishockey, Bären, Moose"
+    "qa_context": "Kanada, Hauptstadt Ottawa, 40 Mio. Einwohner, Nordamerika, zweitgrößtes Land der Welt, Nachbar USA, 2 Sprachen (Englisch/Französisch), bekannt für Ahorn-Sirup, Niagara-Fälle, Eishockey, Bären, Moose",
+    "lat": 56.1,
+    "lng": -106.3
   },
   {
     "id": "australien",
-    "name": { "de": "Australien", "en": "Australia" },
+    "name": {
+      "de": "Australien",
+      "en": "Australia"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -391,9 +603,18 @@
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist ein Kontinent und ein Land zugleich", "en": "It is both a continent and a country" },
-      { "de": "Dort leben Kängurus und Koalas", "en": "Kangaroos and koalas live there" },
-      { "de": "Es ist die Heimat des Uluru (Ayers Rock)", "en": "It is home to Uluru (Ayers Rock)" }
+      {
+        "de": "Es ist ein Kontinent und ein Land zugleich",
+        "en": "It is both a continent and a country"
+      },
+      {
+        "de": "Dort leben Kängurus und Koalas",
+        "en": "Kangaroos and koalas live there"
+      },
+      {
+        "de": "Es ist die Heimat des Uluru (Ayers Rock)",
+        "en": "It is home to Uluru (Ayers Rock)"
+      }
     ],
     "description": {
       "de": "Australien ist ein riesiges Land im Südpazifik, das gleichzeitig ein ganzer Kontinent ist. Die Hauptstadt ist Canberra. Australien ist bekannt für Kängurus, das Great Barrier Reef und Sydney.",
@@ -405,11 +626,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/au.png",
     "emoji": "🇦🇺",
-    "qa_context": "Australien, Hauptstadt Canberra, 26 Mio. Einwohner, Ozeanien, Inselkontinent, Sprache Englisch, bekannt für Kängurus, Koalas, Great Barrier Reef, Sydney Opera House, Uluru, gefährliche Tiere"
+    "qa_context": "Australien, Hauptstadt Canberra, 26 Mio. Einwohner, Ozeanien, Inselkontinent, Sprache Englisch, bekannt für Kängurus, Koalas, Great Barrier Reef, Sydney Opera House, Uluru, gefährliche Tiere",
+    "lat": -25.3,
+    "lng": 133.8
   },
   {
     "id": "brasilien",
-    "name": { "de": "Brasilien", "en": "Brazil" },
+    "name": {
+      "de": "Brasilien",
+      "en": "Brazil"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -419,15 +645,35 @@
       "area_km2": 8515767,
       "language": "Portugiesisch",
       "currency": "Real",
-      "neighbors": ["Argentinien", "Kolumbien", "Peru", "Venezuela", "Paraguay", "Uruguay", "Bolivien", "Guyana", "Suriname", "Französisch-Guayana"],
+      "neighbors": [
+        "Argentinien",
+        "Kolumbien",
+        "Peru",
+        "Venezuela",
+        "Paraguay",
+        "Uruguay",
+        "Bolivien",
+        "Guyana",
+        "Suriname",
+        "Französisch-Guayana"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist das größte Land in Südamerika", "en": "It is the largest country in South America" },
-      { "de": "Der Amazonas-Regenwald liegt größtenteils hier", "en": "The Amazon rainforest is mostly here" },
-      { "de": "Es ist fünfmal Fußball-Weltmeister geworden", "en": "It has won the football World Cup five times" }
+      {
+        "de": "Es ist das größte Land in Südamerika",
+        "en": "It is the largest country in South America"
+      },
+      {
+        "de": "Der Amazonas-Regenwald liegt größtenteils hier",
+        "en": "The Amazon rainforest is mostly here"
+      },
+      {
+        "de": "Es ist fünfmal Fußball-Weltmeister geworden",
+        "en": "It has won the football World Cup five times"
+      }
     ],
     "description": {
       "de": "Brasilien ist das größte Land Südamerikas und das fünftgrößte der Welt. Die Hauptstadt ist Brasília. Brasilien ist bekannt für den Karneval in Rio de Janeiro, Fußball und den Amazonas-Regenwald.",
@@ -439,11 +685,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/br.png",
     "emoji": "🇧🇷",
-    "qa_context": "Brasilien, Brasil, Hauptstadt Brasília, 215 Mio. Einwohner, Südamerika, größtes Land Südamerikas, Sprache Portugiesisch, bekannt für Karneval Rio, Fußball (5x Weltmeister), Amazonas, Samba, Kaffee"
+    "qa_context": "Brasilien, Brasil, Hauptstadt Brasília, 215 Mio. Einwohner, Südamerika, größtes Land Südamerikas, Sprache Portugiesisch, bekannt für Karneval Rio, Fußball (5x Weltmeister), Amazonas, Samba, Kaffee",
+    "lat": -10.0,
+    "lng": -51.9
   },
   {
     "id": "japan",
-    "name": { "de": "Japan", "en": "Japan" },
+    "name": {
+      "de": "Japan",
+      "en": "Japan"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -459,9 +710,18 @@
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist eine Inselgruppe in Ostasien", "en": "It is an island group in East Asia" },
-      { "de": "Es ist bekannt für Sushi, Anime und Manga", "en": "It is known for sushi, anime and manga" },
-      { "de": "Der Fuji ist der höchste Berg dieses Landes", "en": "Mount Fuji is the highest mountain in this country" }
+      {
+        "de": "Es ist eine Inselgruppe in Ostasien",
+        "en": "It is an island group in East Asia"
+      },
+      {
+        "de": "Es ist bekannt für Sushi, Anime und Manga",
+        "en": "It is known for sushi, anime and manga"
+      },
+      {
+        "de": "Der Fuji ist der höchste Berg dieses Landes",
+        "en": "Mount Fuji is the highest mountain in this country"
+      }
     ],
     "description": {
       "de": "Japan ist eine Inselgruppe im Pazifischen Ozean vor der Küste Ostasiens. Die Hauptstadt Tokio ist eine der größten Städte der Welt. Japan ist bekannt für Technologie, Sushi und traditionelle Kultur.",
@@ -473,11 +733,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/jp.png",
     "emoji": "🇯🇵",
-    "qa_context": "Japan, Nihon, Hauptstadt Tokio, 125 Mio. Einwohner, Ostasien, Inselgruppe, Sprache Japanisch, Yen, bekannt für Sushi, Anime, Manga, Samurai, Kirschblüten (Sakura), Sony/Toyota/Nintendo, Fuji"
+    "qa_context": "Japan, Nihon, Hauptstadt Tokio, 125 Mio. Einwohner, Ostasien, Inselgruppe, Sprache Japanisch, Yen, bekannt für Sushi, Anime, Manga, Samurai, Kirschblüten (Sakura), Sony/Toyota/Nintendo, Fuji",
+    "lat": 36.2,
+    "lng": 138.3
   },
   {
     "id": "china",
-    "name": { "de": "China", "en": "China" },
+    "name": {
+      "de": "China",
+      "en": "China"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -487,15 +752,39 @@
       "area_km2": 9596960,
       "language": "Mandarin (Chinesisch)",
       "currency": "Renminbi (Yuan)",
-      "neighbors": ["Russland", "Mongolei", "Indien", "Pakistan", "Afghanistan", "Kasachstan", "Kirgisistan", "Tadschikistan", "Myanmar", "Laos", "Vietnam", "Nordkorea", "Nepal", "Bhutan"],
+      "neighbors": [
+        "Russland",
+        "Mongolei",
+        "Indien",
+        "Pakistan",
+        "Afghanistan",
+        "Kasachstan",
+        "Kirgisistan",
+        "Tadschikistan",
+        "Myanmar",
+        "Laos",
+        "Vietnam",
+        "Nordkorea",
+        "Nepal",
+        "Bhutan"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist das bevölkerungsreichste Land der Welt", "en": "It is the most populous country in the world" },
-      { "de": "Die Chinesische Mauer liegt hier", "en": "The Great Wall of China is here" },
-      { "de": "Pandas leben in diesem Land", "en": "Pandas live in this country" }
+      {
+        "de": "Es ist das bevölkerungsreichste Land der Welt",
+        "en": "It is the most populous country in the world"
+      },
+      {
+        "de": "Die Chinesische Mauer liegt hier",
+        "en": "The Great Wall of China is here"
+      },
+      {
+        "de": "Pandas leben in diesem Land",
+        "en": "Pandas live in this country"
+      }
     ],
     "description": {
       "de": "China ist das bevölkerungsreichste Land der Welt mit etwa 1,4 Milliarden Menschen. Die Hauptstadt ist Peking. China ist bekannt für die Chinesische Mauer, Pandas und eine über 5.000 Jahre alte Kultur.",
@@ -507,11 +796,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/cn.png",
     "emoji": "🇨🇳",
-    "qa_context": "China, VR China, Hauptstadt Peking (Beijing), 1,4 Mrd. Einwohner, Ostasien, bevölkerungsreichstes Land, Sprache Mandarin, Yuan, bekannt für Chinesische Mauer, Pandas, Teezeremonie, Seidenstraße, Peking-Oper"
+    "qa_context": "China, VR China, Hauptstadt Peking (Beijing), 1,4 Mrd. Einwohner, Ostasien, bevölkerungsreichstes Land, Sprache Mandarin, Yuan, bekannt für Chinesische Mauer, Pandas, Teezeremonie, Seidenstraße, Peking-Oper",
+    "lat": 35.9,
+    "lng": 104.2
   },
   {
     "id": "mexiko",
-    "name": { "de": "Mexiko", "en": "Mexico" },
+    "name": {
+      "de": "Mexiko",
+      "en": "Mexico"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -521,15 +815,28 @@
       "area_km2": 1964375,
       "language": "Spanisch",
       "currency": "Mexikanischer Peso",
-      "neighbors": ["USA", "Guatemala", "Belize"],
+      "neighbors": [
+        "USA",
+        "Guatemala",
+        "Belize"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt südlich der USA", "en": "It is south of the USA" },
-      { "de": "Tacos und Burritos kommen aus diesem Land", "en": "Tacos and burritos come from this country" },
-      { "de": "Die Maya bauten hier ihre Tempel", "en": "The Maya built their temples here" }
+      {
+        "de": "Es liegt südlich der USA",
+        "en": "It is south of the USA"
+      },
+      {
+        "de": "Tacos und Burritos kommen aus diesem Land",
+        "en": "Tacos and burritos come from this country"
+      },
+      {
+        "de": "Die Maya bauten hier ihre Tempel",
+        "en": "The Maya built their temples here"
+      }
     ],
     "description": {
       "de": "Mexiko liegt in Nordamerika und grenzt im Norden an die USA. Die Hauptstadt Mexiko-Stadt ist eine der größten Städte der Welt. Mexiko ist bekannt für seine Maya-Ruinen, Tacos und Mariachi-Musik.",
@@ -541,11 +848,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/mx.png",
     "emoji": "🇲🇽",
-    "qa_context": "Mexiko, Hauptstadt Mexiko-Stadt, 130 Mio. Einwohner, Nordamerika, südlich der USA, Sprache Spanisch, bekannt für Tacos, Mariachi, Maya-Ruinen, Tequila, Cinco de Mayo, Dia de los Muertos"
+    "qa_context": "Mexiko, Hauptstadt Mexiko-Stadt, 130 Mio. Einwohner, Nordamerika, südlich der USA, Sprache Spanisch, bekannt für Tacos, Mariachi, Maya-Ruinen, Tequila, Cinco de Mayo, Dia de los Muertos",
+    "lat": 23.6,
+    "lng": -102.5
   },
   {
     "id": "griechenland",
-    "name": { "de": "Griechenland", "en": "Greece" },
+    "name": {
+      "de": "Griechenland",
+      "en": "Greece"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -555,15 +867,29 @@
       "area_km2": 131957,
       "language": "Griechisch",
       "currency": "Euro",
-      "neighbors": ["Albanien", "Nordmazedonien", "Bulgarien", "Türkei"],
+      "neighbors": [
+        "Albanien",
+        "Nordmazedonien",
+        "Bulgarien",
+        "Türkei"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt in Südosteuropa", "en": "It is in Southeast Europe" },
-      { "de": "Die Olympischen Spiele wurden hier erfunden", "en": "The Olympic Games were invented here" },
-      { "de": "Es hat tausende Inseln", "en": "It has thousands of islands" }
+      {
+        "de": "Es liegt in Südosteuropa",
+        "en": "It is in Southeast Europe"
+      },
+      {
+        "de": "Die Olympischen Spiele wurden hier erfunden",
+        "en": "The Olympic Games were invented here"
+      },
+      {
+        "de": "Es hat tausende Inseln",
+        "en": "It has thousands of islands"
+      }
     ],
     "description": {
       "de": "Griechenland liegt in Südosteuropa am Mittelmeer. Die Hauptstadt Athen ist die Wiege der westlichen Demokratie. Griechenland ist bekannt für seine antiken Ruinen, weißen Häuser auf Santorini und das Mittelmeerklima.",
@@ -575,11 +901,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/gr.png",
     "emoji": "🇬🇷",
-    "qa_context": "Griechenland, Hellas, Hauptstadt Athen, 10 Mio. Einwohner, Südosteuropa, Mittelmeer, EU, Sprache Griechisch, bekannt für Akropolis, Olympische Spiele (Ursprung), Santorini, Oliven, Feta, Ouzo"
+    "qa_context": "Griechenland, Hellas, Hauptstadt Athen, 10 Mio. Einwohner, Südosteuropa, Mittelmeer, EU, Sprache Griechisch, bekannt für Akropolis, Olympische Spiele (Ursprung), Santorini, Oliven, Feta, Ouzo",
+    "lat": 39.1,
+    "lng": 21.8
   },
   {
     "id": "schweden",
-    "name": { "de": "Schweden", "en": "Sweden" },
+    "name": {
+      "de": "Schweden",
+      "en": "Sweden"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -589,15 +920,27 @@
       "area_km2": 447430,
       "language": "Schwedisch",
       "currency": "Schwedische Krone",
-      "neighbors": ["Norwegen", "Finnland"],
+      "neighbors": [
+        "Norwegen",
+        "Finnland"
+      ],
       "in_eu": true,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt in Skandinavien", "en": "It is in Scandinavia" },
-      { "de": "IKEA und ABBA kommen aus diesem Land", "en": "IKEA and ABBA come from this country" },
-      { "de": "Im Winter gibt es manchmal Polarlichter", "en": "In winter there are sometimes northern lights" }
+      {
+        "de": "Es liegt in Skandinavien",
+        "en": "It is in Scandinavia"
+      },
+      {
+        "de": "IKEA und ABBA kommen aus diesem Land",
+        "en": "IKEA and ABBA come from this country"
+      },
+      {
+        "de": "Im Winter gibt es manchmal Polarlichter",
+        "en": "In winter there are sometimes northern lights"
+      }
     ],
     "description": {
       "de": "Schweden liegt in Nordeuropa auf der Skandinavischen Halbinsel. Die Hauptstadt Stockholm liegt auf 14 Inseln. Schweden ist bekannt für IKEA, Volvo, ABBA und sein nachhaltiges Leben.",
@@ -613,7 +956,10 @@
   },
   {
     "id": "indien",
-    "name": { "de": "Indien", "en": "India" },
+    "name": {
+      "de": "Indien",
+      "en": "India"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -623,15 +969,31 @@
       "area_km2": 3287263,
       "language": "Hindi, Englisch (und 21 weitere Amtssprachen)",
       "currency": "Indische Rupie",
-      "neighbors": ["Pakistan", "China", "Nepal", "Bhutan", "Bangladesch", "Myanmar"],
+      "neighbors": [
+        "Pakistan",
+        "China",
+        "Nepal",
+        "Bhutan",
+        "Bangladesch",
+        "Myanmar"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es hat mehr Menschen als jedes andere Land der Welt (seit 2023)", "en": "It has more people than any other country in the world (since 2023)" },
-      { "de": "Der Taj Mahal steht in diesem Land", "en": "The Taj Mahal is in this country" },
-      { "de": "Curry und viele Gewürze kommen aus diesem Land", "en": "Curry and many spices come from this country" }
+      {
+        "de": "Es hat mehr Menschen als jedes andere Land der Welt (seit 2023)",
+        "en": "It has more people than any other country in the world (since 2023)"
+      },
+      {
+        "de": "Der Taj Mahal steht in diesem Land",
+        "en": "The Taj Mahal is in this country"
+      },
+      {
+        "de": "Curry und viele Gewürze kommen aus diesem Land",
+        "en": "Curry and many spices come from this country"
+      }
     ],
     "description": {
       "de": "Indien liegt in Südasien und ist das bevölkerungsreichste Land der Welt. Die Hauptstadt ist Neu-Delhi. Indien ist bekannt für den Taj Mahal, Curry-Gerichte und seine vielfältige Kultur.",
@@ -643,11 +1005,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/in.png",
     "emoji": "🇮🇳",
-    "qa_context": "Indien, India, Hauptstadt Neu-Delhi, 1,44 Mrd. Einwohner (bevölkerungsreichstes Land), Südasien, Sprachen Hindi/Englisch, bekannt für Taj Mahal, Curry, Gewürze, Cricket, Bollywood, Yoga"
+    "qa_context": "Indien, India, Hauptstadt Neu-Delhi, 1,44 Mrd. Einwohner (bevölkerungsreichstes Land), Südasien, Sprachen Hindi/Englisch, bekannt für Taj Mahal, Curry, Gewürze, Cricket, Bollywood, Yoga",
+    "lat": 20.6,
+    "lng": 79.0
   },
   {
     "id": "norwegen",
-    "name": { "de": "Norwegen", "en": "Norway" },
+    "name": {
+      "de": "Norwegen",
+      "en": "Norway"
+    },
     "category": "laender",
     "difficulty": 2,
     "facts": {
@@ -657,15 +1024,28 @@
       "area_km2": 385207,
       "language": "Norwegisch",
       "currency": "Norwegische Krone",
-      "neighbors": ["Schweden", "Finnland", "Russland"],
+      "neighbors": [
+        "Schweden",
+        "Finnland",
+        "Russland"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist bekannt für seine Fjorde", "en": "It is known for its fjords" },
-      { "de": "Es ist das Land mit dem höchsten Lebensstandard der Welt", "en": "It has one of the highest living standards in the world" },
-      { "de": "Es gibt hier Polarlichter", "en": "There are northern lights here" }
+      {
+        "de": "Es ist bekannt für seine Fjorde",
+        "en": "It is known for its fjords"
+      },
+      {
+        "de": "Es ist das Land mit dem höchsten Lebensstandard der Welt",
+        "en": "It has one of the highest living standards in the world"
+      },
+      {
+        "de": "Es gibt hier Polarlichter",
+        "en": "There are northern lights here"
+      }
     ],
     "description": {
       "de": "Norwegen liegt in Nordeuropa und ist für seine beeindruckenden Fjorde bekannt. Die Hauptstadt ist Oslo. Norwegen ist sehr reich durch sein Öl und hat eines der höchsten Lebensstandards weltweit.",
@@ -681,7 +1061,10 @@
   },
   {
     "id": "aegypten",
-    "name": { "de": "Ägypten", "en": "Egypt" },
+    "name": {
+      "de": "Ägypten",
+      "en": "Egypt"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -691,15 +1074,28 @@
       "area_km2": 1001449,
       "language": "Arabisch",
       "currency": "Ägyptisches Pfund",
-      "neighbors": ["Sudan", "Libyen", "Israel"],
+      "neighbors": [
+        "Sudan",
+        "Libyen",
+        "Israel"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Die Pyramiden von Gizeh stehen hier", "en": "The Pyramids of Giza are here" },
-      { "de": "Der Nil fließt durch dieses Land", "en": "The Nile flows through this country" },
-      { "de": "Es liegt in Nordafrika", "en": "It is in North Africa" }
+      {
+        "de": "Die Pyramiden von Gizeh stehen hier",
+        "en": "The Pyramids of Giza are here"
+      },
+      {
+        "de": "Der Nil fließt durch dieses Land",
+        "en": "The Nile flows through this country"
+      },
+      {
+        "de": "Es liegt in Nordafrika",
+        "en": "It is in North Africa"
+      }
     ],
     "description": {
       "de": "Ägypten liegt in Nordafrika am Mittelmeer. Die Hauptstadt Kairo ist die größte Stadt Afrikas. Ägypten ist weltberühmt für seine Pyramiden, die Sphinx und die Pharaonen.",
@@ -711,11 +1107,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/eg.png",
     "emoji": "🇪🇬",
-    "qa_context": "Ägypten, Misr, Hauptstadt Kairo, 105 Mio. Einwohner, Nordafrika, Sprache Arabisch, bekannt für Pyramiden von Gizeh, Sphinx, Pharaonen, Nil, Suezkanal, Hieroglyphen, Kleopatra"
+    "qa_context": "Ägypten, Misr, Hauptstadt Kairo, 105 Mio. Einwohner, Nordafrika, Sprache Arabisch, bekannt für Pyramiden von Gizeh, Sphinx, Pharaonen, Nil, Suezkanal, Hieroglyphen, Kleopatra",
+    "lat": 26.8,
+    "lng": 30.8
   },
   {
     "id": "marokko",
-    "name": { "de": "Marokko", "en": "Morocco" },
+    "name": {
+      "de": "Marokko",
+      "en": "Morocco"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -725,15 +1126,28 @@
       "area_km2": 446550,
       "language": "Arabisch, Berbersprachen, Französisch",
       "currency": "Marokkanischer Dirham",
-      "neighbors": ["Algerien", "Mauretanien", "Spanien (Ceuta/Melilla)"],
+      "neighbors": [
+        "Algerien",
+        "Mauretanien",
+        "Spanien (Ceuta/Melilla)"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt in Nordwestafrika, nahe Europa", "en": "It is in Northwest Africa, close to Europe" },
-      { "de": "Es ist bekannt für Marrakesch und die Sahara", "en": "It is known for Marrakech and the Sahara" },
-      { "de": "Die Flagge hat einen grünen Stern auf rotem Hintergrund", "en": "The flag has a green star on a red background" }
+      {
+        "de": "Es liegt in Nordwestafrika, nahe Europa",
+        "en": "It is in Northwest Africa, close to Europe"
+      },
+      {
+        "de": "Es ist bekannt für Marrakesch und die Sahara",
+        "en": "It is known for Marrakech and the Sahara"
+      },
+      {
+        "de": "Die Flagge hat einen grünen Stern auf rotem Hintergrund",
+        "en": "The flag has a green star on a red background"
+      }
     ],
     "description": {
       "de": "Marokko liegt in Nordwestafrika am Atlantik und Mittelmeer. Die Hauptstadt ist Rabat. Marokko ist bekannt für seine bunten Märkte (Souks), Gewürze und die Sahara-Wüste.",
@@ -749,7 +1163,10 @@
   },
   {
     "id": "suedafrika",
-    "name": { "de": "Südafrika", "en": "South Africa" },
+    "name": {
+      "de": "Südafrika",
+      "en": "South Africa"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -759,15 +1176,31 @@
       "area_km2": 1219090,
       "language": "Afrikaans, Englisch, Zulu, Xhosa (11 Amtssprachen)",
       "currency": "Südafrikanischer Rand",
-      "neighbors": ["Namibia", "Botswana", "Simbabwe", "Mozambique", "Eswatini", "Lesotho"],
+      "neighbors": [
+        "Namibia",
+        "Botswana",
+        "Simbabwe",
+        "Mozambique",
+        "Eswatini",
+        "Lesotho"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt ganz im Süden Afrikas", "en": "It is at the very south of Africa" },
-      { "de": "Es hat 11 Amtssprachen", "en": "It has 11 official languages" },
-      { "de": "Nelson Mandela kommt aus diesem Land", "en": "Nelson Mandela is from this country" }
+      {
+        "de": "Es liegt ganz im Süden Afrikas",
+        "en": "It is at the very south of Africa"
+      },
+      {
+        "de": "Es hat 11 Amtssprachen",
+        "en": "It has 11 official languages"
+      },
+      {
+        "de": "Nelson Mandela kommt aus diesem Land",
+        "en": "Nelson Mandela is from this country"
+      }
     ],
     "description": {
       "de": "Südafrika liegt an der Südspitze Afrikas. Es hat gleich drei Hauptstädte! Das Land ist bekannt für seine Tierwelt (Löwen, Elefanten, Nashörner), Nelson Mandela und die Apartheid-Geschichte.",
@@ -779,11 +1212,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/za.png",
     "emoji": "🇿🇦",
-    "qa_context": "Südafrika, South Africa, drei Hauptstädte (Pretoria/Kapstadt/Bloemfontein), 60 Mio. Einwohner, Südafrika, 11 Amtssprachen, bekannt für Nelson Mandela, Apartheid, Safari, Big Five, Kap der Guten Hoffnung, Diamanten"
+    "qa_context": "Südafrika, South Africa, drei Hauptstädte (Pretoria/Kapstadt/Bloemfontein), 60 Mio. Einwohner, Südafrika, 11 Amtssprachen, bekannt für Nelson Mandela, Apartheid, Safari, Big Five, Kap der Guten Hoffnung, Diamanten",
+    "lat": -29.0,
+    "lng": 25.0
   },
   {
     "id": "nigeria",
-    "name": { "de": "Nigeria", "en": "Nigeria" },
+    "name": {
+      "de": "Nigeria",
+      "en": "Nigeria"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -793,15 +1231,29 @@
       "area_km2": 923768,
       "language": "Englisch, Hausa, Yoruba, Igbo",
       "currency": "Nigerianische Naira",
-      "neighbors": ["Benin", "Niger", "Tschad", "Kamerun"],
+      "neighbors": [
+        "Benin",
+        "Niger",
+        "Tschad",
+        "Kamerun"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es ist das bevölkerungsreichste Land Afrikas", "en": "It is the most populous country in Africa" },
-      { "de": "Es liegt in Westafrika", "en": "It is in West Africa" },
-      { "de": "Es ist bekannt für Nollywood, eine der größten Filmindustrien der Welt", "en": "It is known for Nollywood, one of the world's largest film industries" }
+      {
+        "de": "Es ist das bevölkerungsreichste Land Afrikas",
+        "en": "It is the most populous country in Africa"
+      },
+      {
+        "de": "Es liegt in Westafrika",
+        "en": "It is in West Africa"
+      },
+      {
+        "de": "Es ist bekannt für Nollywood, eine der größten Filmindustrien der Welt",
+        "en": "It is known for Nollywood, one of the world's largest film industries"
+      }
     ],
     "description": {
       "de": "Nigeria liegt in Westafrika und ist das bevölkerungsreichste Land des Kontinents. Die Hauptstadt ist Abuja. Nigeria ist bekannt für sein Öl, Nollywood (seine Filmindustrie) und Jollof Rice.",
@@ -813,11 +1265,16 @@
     },
     "flag_url": "https://flagcdn.com/w320/ng.png",
     "emoji": "🇳🇬",
-    "qa_context": "Nigeria, Hauptstadt Abuja, 220 Mio. Einwohner (bevölkerungsreichstes Land Afrikas), Westafrika, Sprache Englisch, bekannt für Nollywood, Öl, Jollof Rice, Lagos (größte Stadt), Afrobeats-Musik"
+    "qa_context": "Nigeria, Hauptstadt Abuja, 220 Mio. Einwohner (bevölkerungsreichstes Land Afrikas), Westafrika, Sprache Englisch, bekannt für Nollywood, Öl, Jollof Rice, Lagos (größte Stadt), Afrobeats-Musik",
+    "lat": 10.0,
+    "lng": 8.0
   },
   {
     "id": "saudi_arabien",
-    "name": { "de": "Saudi-Arabien", "en": "Saudi Arabia" },
+    "name": {
+      "de": "Saudi-Arabien",
+      "en": "Saudi Arabia"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -827,15 +1284,33 @@
       "area_km2": 2149690,
       "language": "Arabisch",
       "currency": "Saudi-Riyal",
-      "neighbors": ["Jemen", "Oman", "Vereinigte Arabische Emirate", "Katar", "Bahrain", "Kuwait", "Irak", "Jordanien"],
+      "neighbors": [
+        "Jemen",
+        "Oman",
+        "Vereinigte Arabische Emirate",
+        "Katar",
+        "Bahrain",
+        "Kuwait",
+        "Irak",
+        "Jordanien"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Es liegt auf der Arabischen Halbinsel", "en": "It is on the Arabian Peninsula" },
-      { "de": "Mekka und Medina, die heiligsten Städte des Islam, liegen hier", "en": "Mecca and Medina, the holiest cities of Islam, are here" },
-      { "de": "Es ist das größte Erdöl-Exportland der Welt", "en": "It is the largest oil-exporting country in the world" }
+      {
+        "de": "Es liegt auf der Arabischen Halbinsel",
+        "en": "It is on the Arabian Peninsula"
+      },
+      {
+        "de": "Mekka und Medina, die heiligsten Städte des Islam, liegen hier",
+        "en": "Mecca and Medina, the holiest cities of Islam, are here"
+      },
+      {
+        "de": "Es ist das größte Erdöl-Exportland der Welt",
+        "en": "It is the largest oil-exporting country in the world"
+      }
     ],
     "description": {
       "de": "Saudi-Arabien liegt auf der Arabischen Halbinsel im Nahen Osten. Die Hauptstadt ist Riad. Das Land ist bekannt für seine riesigen Ölreserven, die Städte Mekka und Medina und seine Wüstenlandschaft.",
@@ -851,7 +1326,10 @@
   },
   {
     "id": "neuseeland",
-    "name": { "de": "Neuseeland", "en": "New Zealand" },
+    "name": {
+      "de": "Neuseeland",
+      "en": "New Zealand"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -867,9 +1345,18 @@
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Der Herr der Ringe wurde hier gedreht", "en": "Lord of the Rings was filmed here" },
-      { "de": "Es liegt östlich von Australien", "en": "It is east of Australia" },
-      { "de": "Die Rugby-Nationalmannschaft heißt 'All Blacks'", "en": "The national rugby team is called the 'All Blacks'" }
+      {
+        "de": "Der Herr der Ringe wurde hier gedreht",
+        "en": "Lord of the Rings was filmed here"
+      },
+      {
+        "de": "Es liegt östlich von Australien",
+        "en": "It is east of Australia"
+      },
+      {
+        "de": "Die Rugby-Nationalmannschaft heißt 'All Blacks'",
+        "en": "The national rugby team is called the 'All Blacks'"
+      }
     ],
     "description": {
       "de": "Neuseeland liegt im Südpazifik östlich von Australien. Die Hauptstadt ist Wellington. Das Land ist bekannt für seine atemberaubende Natur, die Māori-Kultur und als Filmkulisse für 'Der Herr der Ringe'.",
@@ -885,7 +1372,10 @@
   },
   {
     "id": "peru",
-    "name": { "de": "Peru", "en": "Peru" },
+    "name": {
+      "de": "Peru",
+      "en": "Peru"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -895,15 +1385,30 @@
       "area_km2": 1285216,
       "language": "Spanisch, Quechua, Aymara",
       "currency": "Peruanischer Sol",
-      "neighbors": ["Ecuador", "Kolumbien", "Brasilien", "Bolivien", "Chile"],
+      "neighbors": [
+        "Ecuador",
+        "Kolumbien",
+        "Brasilien",
+        "Bolivien",
+        "Chile"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": true
     },
     "hints": [
-      { "de": "Machu Picchu liegt in diesem Land", "en": "Machu Picchu is in this country" },
-      { "de": "Es liegt in Südamerika, an der Westküste", "en": "It is in South America, on the west coast" },
-      { "de": "Die Inka hatten hier ihr Reich", "en": "The Incas had their empire here" }
+      {
+        "de": "Machu Picchu liegt in diesem Land",
+        "en": "Machu Picchu is in this country"
+      },
+      {
+        "de": "Es liegt in Südamerika, an der Westküste",
+        "en": "It is in South America, on the west coast"
+      },
+      {
+        "de": "Die Inka hatten hier ihr Reich",
+        "en": "The Incas had their empire here"
+      }
     ],
     "description": {
       "de": "Peru liegt an der Westküste Südamerikas. Die Hauptstadt ist Lima. Peru ist bekannt für Machu Picchu, die Nazca-Linien und als Heimat des alten Inka-Reiches.",
@@ -919,7 +1424,10 @@
   },
   {
     "id": "mongolei",
-    "name": { "de": "Mongolei", "en": "Mongolia" },
+    "name": {
+      "de": "Mongolei",
+      "en": "Mongolia"
+    },
     "category": "laender",
     "difficulty": 3,
     "facts": {
@@ -929,15 +1437,27 @@
       "area_km2": 1564116,
       "language": "Mongolisch",
       "currency": "Mongolischer Tögrög",
-      "neighbors": ["Russland", "China"],
+      "neighbors": [
+        "Russland",
+        "China"
+      ],
       "in_eu": false,
       "is_island": false,
       "has_sea_access": false
     },
     "hints": [
-      { "de": "Es liegt zwischen Russland und China", "en": "It is between Russia and China" },
-      { "de": "Es ist eines der dünn besiedelsten Länder der Welt", "en": "It is one of the most sparsely populated countries in the world" },
-      { "de": "Dschingis Khan war der berühmteste Herrscher dieses Landes", "en": "Genghis Khan was the most famous ruler of this country" }
+      {
+        "de": "Es liegt zwischen Russland und China",
+        "en": "It is between Russia and China"
+      },
+      {
+        "de": "Es ist eines der dünn besiedelsten Länder der Welt",
+        "en": "It is one of the most sparsely populated countries in the world"
+      },
+      {
+        "de": "Dschingis Khan war der berühmteste Herrscher dieses Landes",
+        "en": "Genghis Khan was the most famous ruler of this country"
+      }
     ],
     "description": {
       "de": "Die Mongolei liegt in Zentralasien zwischen Russland und China. Die Hauptstadt ist Ulaanbaatar. Das Land ist für seine riesigen Steppen, Nomaden und das frühere mongolische Weltreich unter Dschingis Khan bekannt.",

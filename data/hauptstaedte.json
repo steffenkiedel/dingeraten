@@ -45,7 +45,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/de.png",
     "emoji": "🇩🇪",
-    "qa_context": "Berlin, Hauptstadt Deutschland, 3,7 Mio. Einwohner, Europa, bekannt für Brandenburger Tor, Berliner Mauer (1961-1989), Reichstag, East Side Gallery, Currywurst, große Kulturszene, einst geteilte Stadt"
+    "qa_context": "Berlin, Hauptstadt Deutschland, 3,7 Mio. Einwohner, Europa, bekannt für Brandenburger Tor, Berliner Mauer (1961-1989), Reichstag, East Side Gallery, Currywurst, große Kulturszene, einst geteilte Stadt",
+    "lat": 52.5,
+    "lng": 13.4
   },
   {
     "id": "paris",
@@ -92,7 +94,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/fr.png",
     "emoji": "🇫🇷",
-    "qa_context": "Paris, Hauptstadt Frankreich, 2,1 Mio. Einwohner (12 Mio. Großraum), Europa, Eiffelturm, Louvre (größtes Museum), Notre-Dame, Champs-Élysées, Versailles in der Nähe, Stadt der Liebe/Mode/Küche"
+    "qa_context": "Paris, Hauptstadt Frankreich, 2,1 Mio. Einwohner (12 Mio. Großraum), Europa, Eiffelturm, Louvre (größtes Museum), Notre-Dame, Champs-Élysées, Versailles in der Nähe, Stadt der Liebe/Mode/Küche",
+    "lat": 48.9,
+    "lng": 2.3
   },
   {
     "id": "london",
@@ -139,7 +143,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/gb.png",
     "emoji": "🇬🇧",
-    "qa_context": "London, Hauptstadt Vereinigtes Königreich/UK, 9 Mio. Einwohner, Europa, Insel, Englisch, bekannt für Big Ben, Tower Bridge, Buckingham Palace, älteste U-Bahn der Welt (1863), Königsfamilie, Brexit"
+    "qa_context": "London, Hauptstadt Vereinigtes Königreich/UK, 9 Mio. Einwohner, Europa, Insel, Englisch, bekannt für Big Ben, Tower Bridge, Buckingham Palace, älteste U-Bahn der Welt (1863), Königsfamilie, Brexit",
+    "lat": 51.5,
+    "lng": -0.1
   },
   {
     "id": "rom",
@@ -186,7 +192,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/it.png",
     "emoji": "🇮🇹",
-    "qa_context": "Rom, Roma, Hauptstadt Italien, 2,8 Mio. Einwohner, Europa, bekannt für Kolosseum, Vatikan (eigener Staat in der Stadt), Trevi-Brunnen, Forum Romanum, ehemaliges Zentrum des Römischen Reiches, Ewige Stadt"
+    "qa_context": "Rom, Roma, Hauptstadt Italien, 2,8 Mio. Einwohner, Europa, bekannt für Kolosseum, Vatikan (eigener Staat in der Stadt), Trevi-Brunnen, Forum Romanum, ehemaliges Zentrum des Römischen Reiches, Ewige Stadt",
+    "lat": 41.9,
+    "lng": 12.5
   },
   {
     "id": "madrid",
@@ -233,7 +241,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/es.png",
     "emoji": "🇪🇸",
-    "qa_context": "Madrid, Hauptstadt Spanien, 3,4 Mio. Einwohner, Europa, höchste EU-Hauptstadt (667m), bekannt für Real Madrid, Prado-Museum, Bernabéu-Stadion, Puerta del Sol, Tapas, Siesta"
+    "qa_context": "Madrid, Hauptstadt Spanien, 3,4 Mio. Einwohner, Europa, höchste EU-Hauptstadt (667m), bekannt für Real Madrid, Prado-Museum, Bernabéu-Stadion, Puerta del Sol, Tapas, Siesta",
+    "lat": 40.4,
+    "lng": -3.7
   },
   {
     "id": "tokio",
@@ -280,7 +290,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/jp.png",
     "emoji": "🇯🇵",
-    "qa_context": "Tokio, Tokyo, Hauptstadt Japan, 14 Mio. Einwohner (37 Mio. Großraum), Asien, bekannt für Shibuya Crossing, Tokyo Tower, Sumo, Manga/Anime, Sushi, meistfrequentierte Metropolregion der Welt"
+    "qa_context": "Tokio, Tokyo, Hauptstadt Japan, 14 Mio. Einwohner (37 Mio. Großraum), Asien, bekannt für Shibuya Crossing, Tokyo Tower, Sumo, Manga/Anime, Sushi, meistfrequentierte Metropolregion der Welt",
+    "lat": 35.7,
+    "lng": 139.7
   },
   {
     "id": "washington",
@@ -327,7 +339,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/us.png",
     "emoji": "🇺🇸",
-    "qa_context": "Washington D.C., Hauptstadt USA, 0,7 Mio. Einwohner (kein Bundesstaat, eigener Distrikt), Nordamerika, bekannt für Weißes Haus, Capitol, Lincoln Memorial, Smithsonian Institution (kostenloses Museum), nach George Washington benannt"
+    "qa_context": "Washington D.C., Hauptstadt USA, 0,7 Mio. Einwohner (kein Bundesstaat, eigener Distrikt), Nordamerika, bekannt für Weißes Haus, Capitol, Lincoln Memorial, Smithsonian Institution (kostenloses Museum), nach George Washington benannt",
+    "lat": 38.9,
+    "lng": -77.0
   },
   {
     "id": "ottawa",
@@ -373,7 +387,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/ca.png",
     "emoji": "🇨🇦",
-    "qa_context": "Ottawa, Hauptstadt Kanada, 1 Mio. Einwohner, Ontario, Nordamerika, 2 Sprachen (Englisch/Französisch), bekannt für Parliament Hill, Rideau Canal (längste Eisbahn der Welt im Winter), oft mit Toronto verwechselt"
+    "qa_context": "Ottawa, Hauptstadt Kanada, 1 Mio. Einwohner, Ontario, Nordamerika, 2 Sprachen (Englisch/Französisch), bekannt für Parliament Hill, Rideau Canal (längste Eisbahn der Welt im Winter), oft mit Toronto verwechselt",
+    "lat": 45.4,
+    "lng": -75.7
   },
   {
     "id": "canberra",
@@ -419,7 +435,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/au.png",
     "emoji": "🇦🇺",
-    "qa_context": "Canberra, Hauptstadt Australien, 500.000 Einwohner, Ozeanien, Englisch, bekannt für Parliament House, als Kompromiss zwischen Sydney und Melbourne gebaut, oft verwechselt (viele denken Sydney ist Hauptstadt)"
+    "qa_context": "Canberra, Hauptstadt Australien, 500.000 Einwohner, Ozeanien, Englisch, bekannt für Parliament House, als Kompromiss zwischen Sydney und Melbourne gebaut, oft verwechselt (viele denken Sydney ist Hauptstadt)",
+    "lat": -35.3,
+    "lng": 149.1
   },
   {
     "id": "nairobi",
@@ -465,7 +483,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/ke.png",
     "emoji": "🇰🇪",
-    "qa_context": "Nairobi, Hauptstadt Kenia, 4,7 Mio. Einwohner, Ostafrika, Sprache Swahili/Englisch, bekannt für Nairobi National Park (Löwen in der Stadt!), UN-Hauptsitz Afrika, Safari-Ausgangspunkt, Giraffe Centre"
+    "qa_context": "Nairobi, Hauptstadt Kenia, 4,7 Mio. Einwohner, Ostafrika, Sprache Swahili/Englisch, bekannt für Nairobi National Park (Löwen in der Stadt!), UN-Hauptsitz Afrika, Safari-Ausgangspunkt, Giraffe Centre",
+    "lat": -1.3,
+    "lng": 36.8
   },
   {
     "id": "wien",
@@ -512,7 +532,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/at.png",
     "emoji": "🇦🇹",
-    "qa_context": "Wien, Vienna, Hauptstadt Österreich, 1,9 Mio. Einwohner, Europa, bekannt für Stephansdom, Schönbrunn, Wiener Philharmoniker, Mozart, Sachertorte, Kaffeehäuser, Habsburger Reich, lebenswerteste Stadt der Welt"
+    "qa_context": "Wien, Vienna, Hauptstadt Österreich, 1,9 Mio. Einwohner, Europa, bekannt für Stephansdom, Schönbrunn, Wiener Philharmoniker, Mozart, Sachertorte, Kaffeehäuser, Habsburger Reich, lebenswerteste Stadt der Welt",
+    "lat": 48.2,
+    "lng": 16.4
   },
   {
     "id": "amsterdam",
@@ -559,7 +581,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/nl.png",
     "emoji": "🇳🇱",
-    "qa_context": "Amsterdam, Hauptstadt Niederlande/Holland, 900.000 Einwohner, Europa, bekannt für Grachten (Kanäle), Anne-Frank-Haus, Rijksmuseum, Tulpen, Fahrräder (mehr Fahrräder als Menschen), Van Gogh Museum"
+    "qa_context": "Amsterdam, Hauptstadt Niederlande/Holland, 900.000 Einwohner, Europa, bekannt für Grachten (Kanäle), Anne-Frank-Haus, Rijksmuseum, Tulpen, Fahrräder (mehr Fahrräder als Menschen), Van Gogh Museum",
+    "lat": 52.4,
+    "lng": 4.9
   },
   {
     "id": "stockholm",
@@ -606,7 +630,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/se.png",
     "emoji": "🇸🇪",
-    "qa_context": "Stockholm, Hauptstadt Schweden, 1 Mio. Einwohner, Nordeuropa, Europa, auf 14 Inseln, bekannt für Nobelpreis, ABBA, IKEA, Spotify, Vasa-Museum, Gamla Stan (Altstadt)"
+    "qa_context": "Stockholm, Hauptstadt Schweden, 1 Mio. Einwohner, Nordeuropa, Europa, auf 14 Inseln, bekannt für Nobelpreis, ABBA, IKEA, Spotify, Vasa-Museum, Gamla Stan (Altstadt)",
+    "lat": 59.3,
+    "lng": 18.1
   },
   {
     "id": "bern",
@@ -652,7 +678,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/ch.png",
     "emoji": "🇨🇭",
-    "qa_context": "Bern, Hauptstadt Schweiz, 140.000 Einwohner, Europa, 4 Landessprachen (Deutsch/Französisch/Italienisch/Rätoromanisch), bekannt für Bärengraben, UNESCO Altstadt, oft mit Zürich verwechselt"
+    "qa_context": "Bern, Hauptstadt Schweiz, 140.000 Einwohner, Europa, 4 Landessprachen (Deutsch/Französisch/Italienisch/Rätoromanisch), bekannt für Bärengraben, UNESCO Altstadt, oft mit Zürich verwechselt",
+    "lat": 46.9,
+    "lng": 7.4
   },
   {
     "id": "athen",
@@ -699,7 +727,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/gr.png",
     "emoji": "🇬🇷",
-    "qa_context": "Athen, Athens, Hauptstadt Griechenland, 3,1 Mio. Einwohner, Europa, Mittelmeer, bekannt für Akropolis, Parthenon, Wiege der Demokratie, erste moderne Olympische Spiele 1896, sehr alte Stadt"
+    "qa_context": "Athen, Athens, Hauptstadt Griechenland, 3,1 Mio. Einwohner, Europa, Mittelmeer, bekannt für Akropolis, Parthenon, Wiege der Demokratie, erste moderne Olympische Spiele 1896, sehr alte Stadt",
+    "lat": 38.0,
+    "lng": 23.7
   },
   {
     "id": "peking",
@@ -746,7 +776,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/cn.png",
     "emoji": "🇨🇳",
-    "qa_context": "Peking, Beijing, Hauptstadt China, 21 Mio. Einwohner, Asien, Chinesisch/Mandarin, bekannt für Verbotene Stadt, Tiananmen-Platz, Chinesische Mauer in der Nähe, Peking-Ente, Peking-Oper"
+    "qa_context": "Peking, Beijing, Hauptstadt China, 21 Mio. Einwohner, Asien, Chinesisch/Mandarin, bekannt für Verbotene Stadt, Tiananmen-Platz, Chinesische Mauer in der Nähe, Peking-Ente, Peking-Oper",
+    "lat": 39.9,
+    "lng": 116.4
   },
   {
     "id": "moskau",
@@ -793,7 +825,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/ru.png",
     "emoji": "🇷🇺",
-    "qa_context": "Moskau, Moscow, Hauptstadt Russland, 12 Mio. Einwohner, größte Stadt Europas, Europa/Asien, Russisch, bekannt für Kreml, Roter Platz, Basilius-Kathedrale (bunte Zwiebeltürme), prächtige Metro"
+    "qa_context": "Moskau, Moscow, Hauptstadt Russland, 12 Mio. Einwohner, größte Stadt Europas, Europa/Asien, Russisch, bekannt für Kreml, Roter Platz, Basilius-Kathedrale (bunte Zwiebeltürme), prächtige Metro",
+    "lat": 55.8,
+    "lng": 37.6
   },
   {
     "id": "kairo",
@@ -840,7 +874,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/eg.png",
     "emoji": "🇪🇬",
-    "qa_context": "Kairo, Cairo, Hauptstadt Ägypten, 21 Mio. Einwohner, größte Stadt Afrikas, Nordafrika, Arabisch, bekannt für Pyramiden von Gizeh, Sphinx, Nil, Ägyptisches Museum, sehr alte Zivilisation"
+    "qa_context": "Kairo, Cairo, Hauptstadt Ägypten, 21 Mio. Einwohner, größte Stadt Afrikas, Nordafrika, Arabisch, bekannt für Pyramiden von Gizeh, Sphinx, Nil, Ägyptisches Museum, sehr alte Zivilisation",
+    "lat": 30.1,
+    "lng": 31.2
   },
   {
     "id": "brasilia",
@@ -886,7 +922,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/br.png",
     "emoji": "🇧🇷",
-    "qa_context": "Brasília, Brasilia, Hauptstadt Brasilien, 3,1 Mio. Einwohner, Südamerika, Portugiesisch, futuristische Architektur, neu gebaut 1960, oft mit Rio de Janeiro verwechselt, UNESCO Welterbe, Stadtform wie Flugzeug"
+    "qa_context": "Brasília, Brasilia, Hauptstadt Brasilien, 3,1 Mio. Einwohner, Südamerika, Portugiesisch, futuristische Architektur, neu gebaut 1960, oft mit Rio de Janeiro verwechselt, UNESCO Welterbe, Stadtform wie Flugzeug",
+    "lat": -15.8,
+    "lng": -47.9
   },
   {
     "id": "buenos_aires",
@@ -933,7 +971,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/ar.png",
     "emoji": "🇦🇷",
-    "qa_context": "Buenos Aires, Hauptstadt Argentinien, 3,1 Mio. Einwohner (15 Mio. Großraum), Südamerika, Spanisch, bekannt für Tango (Erfindungsort), La Boca, europäische Architektur, Paris Südamerikas genannt, Steak"
+    "qa_context": "Buenos Aires, Hauptstadt Argentinien, 3,1 Mio. Einwohner (15 Mio. Großraum), Südamerika, Spanisch, bekannt für Tango (Erfindungsort), La Boca, europäische Architektur, Paris Südamerikas genannt, Steak",
+    "lat": -34.6,
+    "lng": -58.4
   },
   {
     "id": "seoul",
@@ -980,7 +1020,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/kr.png",
     "emoji": "🇰🇷",
-    "qa_context": "Seoul, Hauptstadt Südkorea, 10 Mio. Einwohner, Asien, Koreanisch, bekannt für K-Pop, BTS, Samsung, Hyundai, schnellstes Internet, Palast Gyeongbokgung, Kimchi, Han-Fluss"
+    "qa_context": "Seoul, Hauptstadt Südkorea, 10 Mio. Einwohner, Asien, Koreanisch, bekannt für K-Pop, BTS, Samsung, Hyundai, schnellstes Internet, Palast Gyeongbokgung, Kimchi, Han-Fluss",
+    "lat": 37.6,
+    "lng": 126.9
   },
   {
     "id": "reykjavik",
@@ -1027,6 +1069,8 @@
     },
     "flag_url": "https://flagcdn.com/w320/is.png",
     "emoji": "🇮🇸",
-    "qa_context": "Reykjavík, Reykjavik, Hauptstadt Island, 130.000 Einwohner, nördlichste Hauptstadt der Welt, Nordatlantik, Europa, Isländisch, bekannt für Nordlichter, Geysire, Geothermie, Vulkane, Mitternachtssonne, sicherste Stadt der Welt"
+    "qa_context": "Reykjavík, Reykjavik, Hauptstadt Island, 130.000 Einwohner, nördlichste Hauptstadt der Welt, Nordatlantik, Europa, Isländisch, bekannt für Nordlichter, Geysire, Geothermie, Vulkane, Mitternachtssonne, sicherste Stadt der Welt",
+    "lat": 64.1,
+    "lng": -21.9
   }
 ]
