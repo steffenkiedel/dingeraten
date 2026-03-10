@@ -45,11 +45,26 @@ const QAEngine = {
     const facts = item.facts;
     const cat = item.category;
 
+    // Direkte Lösungsversuche ("ist es X?") → Hinweis auf "Ich weiß es!"-Button
+    const guessPatterns = ['ist es ', 'is it ', 'heisst es ', 'ist das '];
+    if (guessPatterns.some(p => q.startsWith(p))) {
+      const guessHint = lang === 'de'
+        ? 'Wenn du die Lösung weißt, nutze den "Ich weiß es!"-Button unten!'
+        : 'If you know the answer, use the "I know it!" button below!';
+      return { answer: guessHint, type: 'unclear' };
+    }
+
     const YES  = lang === 'de' ? 'Ja.' : 'Yes.';
     const NO   = lang === 'de' ? 'Nein.' : 'No.';
     const DUNNO = lang === 'de'
       ? 'Das weiß ich leider nicht genau. Frag etwas anderes!'
       : "I'm not sure about that. Try a different question!";
+
+    // Hilfsfunktion: Sprache prüfen
+    const langIncludes = (keyword) => {
+      const l = Array.isArray(facts.language) ? facts.language.join(' ') : (facts.language || '');
+      return l.toLowerCase().includes(keyword);
+    };
 
     // ===== Länder =====
     if (cat === 'laender' || cat === 'hauptstaedte') {
@@ -62,53 +77,73 @@ const QAEngine = {
       if (this._has(q, ['afrika', 'africa', 'african'])) {
         return this._bool(facts.continent === 'Afrika', YES, NO);
       }
-      if (this._has(q, ['nordamerika', 'north america', 'sued', 'south america', 'sudamerika', 'latein', 'latin'])) {
-        const na = this._has(q, ['nord', 'north']);
-        const sa = this._has(q, ['sued', 'south', 'latein', 'latin', 'sued', 'sud']);
-        if (na) return this._bool(facts.continent === 'Nordamerika', YES, NO);
-        if (sa) return this._bool(facts.continent === 'Südamerika', YES, NO);
-        return this._bool(['Nordamerika', 'Südamerika'].includes(facts.continent), YES, NO);
-      }
-      if (this._has(q, ['ozeanien', 'oceania', 'australien', 'australia'])) {
+      if (this._has(q, ['ozeanien', 'oceania'])) {
         return this._bool(facts.continent === 'Australien/Ozeanien', YES, NO);
       }
-      if (this._has(q, ['meer', 'sea', 'ocean', 'kuste', 'coast', 'meereszugang'])) {
+      // Amerika: erst spezifisch (Nord/Süd), dann allgemein
+      if (this._has(q, ['nordamerika', 'north america'])) {
+        return this._bool(facts.continent === 'Nordamerika', YES, NO);
+      }
+      if (this._has(q, ['sudamerika', 'sudamerika', 'south america', 'lateinamerika', 'latin america'])) {
+        return this._bool(facts.continent === 'Südamerika', YES, NO);
+      }
+      if (this._has(q, ['amerika', 'america'])) {
+        return this._bool(['Nordamerika', 'Südamerika'].includes(facts.continent), YES, NO);
+      }
+      // Australien: Kontinent oder Land?
+      if (this._has(q, ['australien', 'australia'])) {
+        return this._bool(facts.continent === 'Australien/Ozeanien' || item.id === 'australien', YES, NO);
+      }
+      if (this._has(q, ['meer', 'sea', 'ocean', 'kuste', 'coast', 'meereszugang', 'zugang zum meer'])) {
         return this._bool(facts.has_sea_access === true, YES, NO);
       }
-      if (this._has(q, ['gross', 'large', 'big', 'flache', 'area', 'grosse', 'groesser'])) {
+      if (this._has(q, ['gross', 'large', 'big', 'grosse', 'groesser', 'riesig', 'huge'])) {
         const area = facts.area_km2;
         if (!area) return { answer: DUNNO, type: 'unclear' };
         return this._bool(area > 200000, YES, NO);
       }
-      if (this._has(q, ['klein', 'small', 'little'])) {
+      if (this._has(q, ['klein', 'small', 'little', 'winzig'])) {
         const area = facts.area_km2;
         if (!area) return { answer: DUNNO, type: 'unclear' };
         return this._bool(area < 50000, YES, NO);
       }
-      if (this._has(q, ['viel einwohner', 'viele einwohner', 'many people', 'bevolker', 'million'])) {
+      if (this._has(q, ['einwohner', 'bevolker', 'population', 'people', 'million'])) {
         const pop = facts.population_million;
         if (!pop) return { answer: DUNNO, type: 'unclear' };
         return this._bool(pop > 50, YES, NO);
       }
-      if (this._has(q, ['eu', 'europaische union', 'european union'])) {
+      if (this._has(q, [' eu ', 'europaischen', 'european union', 'europaische union'])) {
         return this._bool(facts.in_eu === true, YES, NO);
       }
       if (this._has(q, ['insel', 'island'])) {
         return this._bool(facts.is_island === true, YES, NO);
       }
-      if (this._has(q, ['englisch', 'english', 'spricht man englisch'])) {
-        return this._bool(
-          Array.isArray(facts.language)
-            ? facts.language.some(l => l.toLowerCase().includes('englisch') || l.toLowerCase().includes('english'))
-            : (facts.language || '').toLowerCase().includes('englisch'),
-          YES, NO
-        );
+      // Sprachen — allgemeine Prüfung
+      if (this._has(q, ['englisch', 'english'])) {
+        return this._bool(langIncludes('englisch') || langIncludes('english'), YES, NO);
       }
-      if (this._has(q, ['deutsch', 'german', 'spricht man deutsch'])) {
-        return this._bool(
-          (facts.language || '').toLowerCase().includes('deutsch'),
-          YES, NO
-        );
+      if (this._has(q, ['deutsch', 'german'])) {
+        return this._bool(langIncludes('deutsch'), YES, NO);
+      }
+      if (this._has(q, ['spanisch', 'spanish', 'espanol'])) {
+        return this._bool(langIncludes('spanisch') || langIncludes('spanish'), YES, NO);
+      }
+      if (this._has(q, ['franzosisch', 'french', 'francais'])) {
+        return this._bool(langIncludes('franzosisch') || langIncludes('französisch') || langIncludes('french'), YES, NO);
+      }
+      if (this._has(q, ['portugiesisch', 'portuguese'])) {
+        return this._bool(langIncludes('portugiesisch') || langIncludes('portuguese'), YES, NO);
+      }
+      if (this._has(q, ['arabisch', 'arabic'])) {
+        return this._bool(langIncludes('arabisch') || langIncludes('arabic'), YES, NO);
+      }
+      if (this._has(q, ['chinesisch', 'mandarin', 'chinese'])) {
+        return this._bool(langIncludes('chinesisch') || langIncludes('mandarin'), YES, NO);
+      }
+      if (this._has(q, ['nachbar', 'neighbor', 'grenzt', 'border'])) {
+        const neighbors = facts.neighbors || [];
+        if (neighbors.length === 0) return this._bool(false, YES, NO);
+        return this._bool(neighbors.length > 0, YES, NO);
       }
     }
 
