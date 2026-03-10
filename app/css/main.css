@@ -353,6 +353,20 @@ html, body {
 }
 .btn-know:hover { background: #e09520; }
 
+.btn-give-up {
+  background: transparent;
+  border: 2px solid #ccc;
+  color: var(--color-text-muted);
+  border-radius: 50px;
+  padding: 0.6rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+.btn-give-up:hover { border-color: var(--color-no); color: var(--color-no); }
+
 .game-input-area {
   display: flex;
   gap: 0.5rem;
@@ -589,6 +603,45 @@ html, body {
   font-weight: 800;
   margin-top: 0.5rem;
   text-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* ===== Weltkarte ===== */
+.result-map {
+  padding: 0.75rem 1.5rem 0;
+}
+.map-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-text-muted);
+  margin-bottom: 0.5rem;
+}
+.map-wrapper {
+  position: relative;
+  width: 100%;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  background: #a8d5e8;
+}
+.world-map-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.map-marker {
+  position: absolute;
+  font-size: 1.4rem;
+  transform: translate(-50%, -100%);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.4));
+  animation: markerBounce 1s ease-in-out 0.3s 2;
+  pointer-events: none;
+  line-height: 1;
+}
+@keyframes markerBounce {
+  0%, 100% { transform: translate(-50%, -100%); }
+  50% { transform: translate(-50%, -130%); }
 }
 
 .result-body {

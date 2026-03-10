@@ -1,6 +1,6 @@
 // sw.js — Service Worker (Cache-First für App + Daten, Network für API)
 
-const CACHE_NAME = 'dingeraten-v1';
+const CACHE_NAME = 'dingeraten-v2';
 
 const APP_SHELL = [
   './index.html',
@@ -54,8 +54,8 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  // flagcdn.com Bilder: Network-First mit Cache-Fallback
-  if (url.includes('flagcdn.com')) {
+  // Externe Bilder (Flaggen + Weltkarte): Network-First mit Cache-Fallback
+  if (url.includes('flagcdn.com') || url.includes('wikimedia.org')) {
     event.respondWith(
       fetch(event.request)
         .then(resp => {

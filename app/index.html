@@ -108,6 +108,7 @@
       💡 <span data-i18n="game.hint">Tipp</span>
     </button>
     <button id="btn-know" class="btn-know" data-i18n="game.iKnowIt">Ich weiß es!</button>
+    <button id="btn-give-up" class="btn-give-up" data-i18n="game.giveUp">Lösung</button>
   </div>
 
   <div class="game-input-area">
@@ -126,6 +127,16 @@
     <div id="result-image" class="result-image"></div>
     <img id="result-flag" class="result-flag hidden" alt="Flagge">
     <h2 id="result-name" class="result-name"></h2>
+  </div>
+
+  <!-- Weltkarte für Länder und Hauptstädte -->
+  <div id="result-map" class="result-map hidden">
+    <p class="map-label" data-i18n="result.mapLabel">Wo liegt es auf der Welt?</p>
+    <div class="map-wrapper">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/800px-World_map_-_low_resolution.svg.png"
+           class="world-map-img" alt="Weltkarte" loading="lazy">
+      <div id="map-marker" class="map-marker">📍</div>
+    </div>
   </div>
 
   <div class="result-body">

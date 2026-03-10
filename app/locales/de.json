@@ -63,8 +63,10 @@
   "result": {
     "wonTitle": "Super! Du hast es erraten!",
     "lostTitle": "Schade! Das war zu schwer.",
+    "surrenderedTitle": "Aufgegeben! Die Lösung war:",
     "theSolutionWas": "Die Lösung war:",
     "funFact": "Wusstest du schon?",
+    "mapLabel": "Wo liegt es auf der Welt?",
     "questions": "Du hast {n} Fragen gestellt.",
     "questionsWithHints": "Du hast {n} Fragen und {h} Tipp(s) genutzt.",
     "playAgain": "Nochmal",

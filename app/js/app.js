@@ -200,14 +200,30 @@ function checkGuess() {
   }
 }
 
+// ===== Give Up =====
+function giveUp() {
+  const msg = GameState.language === 'de'
+    ? 'Wirklich aufgeben? Die Lösung wird angezeigt.'
+    : 'Really give up? The solution will be shown.';
+  if (!confirm(msg)) return;
+  GameState.gameStatus = 'lost';
+  showResult(false, true);
+}
+
 // ===== Result-Screen =====
-function showResult(won) {
+function showResult(won, surrendered = false) {
   const item = GameState.currentItem;
   const lang = GameState.language;
 
-  document.getElementById('result-status').textContent = won
-    ? i18n.t('result.wonTitle')
-    : i18n.t('result.lostTitle');
+  let statusText;
+  if (won) {
+    statusText = i18n.t('result.wonTitle');
+  } else if (surrendered) {
+    statusText = i18n.t('result.surrenderedTitle');
+  } else {
+    statusText = i18n.t('result.lostTitle');
+  }
+  document.getElementById('result-status').textContent = statusText;
 
   // Bild: Flagge für Länder, Emoji sonst
   const flagEl = document.getElementById('result-flag');
@@ -231,6 +247,20 @@ function showResult(won) {
     statsEl.textContent = i18n.t('result.questionsWithHints', { n: GameState.questionCount, h: GameState.hintsUsed });
   } else {
     statsEl.textContent = i18n.t('result.questions', { n: GameState.questionCount });
+  }
+
+  // Weltkarte für Länder und Hauptstädte
+  const mapEl = document.getElementById('result-map');
+  const markerEl = document.getElementById('map-marker');
+  if ((item.category === 'laender' || item.category === 'hauptstaedte')
+      && item.lat != null && item.lng != null) {
+    const left = ((item.lng + 180) / 360 * 100).toFixed(2) + '%';
+    const top = ((90 - item.lat) / 180 * 100).toFixed(2) + '%';
+    markerEl.style.left = left;
+    markerEl.style.top = top;
+    mapEl.classList.remove('hidden');
+  } else {
+    mapEl.classList.add('hidden');
   }
 
   showScreen('screen-result');
@@ -332,6 +362,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('btn-send').addEventListener('click', sendQuestion);
   document.getElementById('btn-hint').addEventListener('click', showHint);
   document.getElementById('btn-know').addEventListener('click', openGuessDialog);
+  document.getElementById('btn-give-up').addEventListener('click', giveUp);
 
   // Guess Dialog
   document.getElementById('btn-guess-cancel').addEventListener('click', closeGuessDialog);

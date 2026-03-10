@@ -63,8 +63,10 @@
   "result": {
     "wonTitle": "Great job! You guessed it!",
     "lostTitle": "Too bad! That was tough.",
+    "surrenderedTitle": "Gave up! The answer was:",
     "theSolutionWas": "The answer was:",
     "funFact": "Did you know?",
+    "mapLabel": "Where is it in the world?",
     "questions": "You asked {n} questions.",
     "questionsWithHints": "You asked {n} questions and used {h} hint(s).",
     "playAgain": "Play again",
