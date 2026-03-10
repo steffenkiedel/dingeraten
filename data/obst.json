@@ -1,21 +1,39 @@
 [
   {
     "id": "apfel",
-    "name": { "de": "Apfel", "en": "Apple" },
+    "name": {
+      "de": "Apfel",
+      "en": "Apple"
+    },
     "category": "obst",
     "difficulty": 1,
     "facts": {
-      "color": ["rot", "grün", "gelb"],
+      "color": [
+        "rot",
+        "grün",
+        "gelb"
+      ],
       "grows_on": "Baum",
       "taste": "süß-säuerlich",
       "tropical": false,
       "common_in_germany": true,
-      "season": ["Herbst"]
+      "season": [
+        "Herbst"
+      ]
     },
     "hints": [
-      { "de": "Er wächst auf einem Baum und ist rund", "en": "It grows on a tree and is round" },
-      { "de": "Er kann rot, grün oder gelb sein", "en": "It can be red, green or yellow" },
-      { "de": "Ein Arzt täglich fernhält laut englischem Sprichwort ein Apfel täglich", "en": "An English proverb says one a day keeps the doctor away" }
+      {
+        "de": "Er wächst auf einem Baum und ist rund",
+        "en": "It grows on a tree and is round"
+      },
+      {
+        "de": "Er kann rot, grün oder gelb sein",
+        "en": "It can be red, green or yellow"
+      },
+      {
+        "de": "Ein Arzt täglich fernhält laut englischem Sprichwort ein Apfel täglich",
+        "en": "An English proverb says one a day keeps the doctor away"
+      }
     ],
     "description": {
       "de": "Der Apfel ist die beliebteste Frucht in Deutschland. Er wächst auf Apfelbäumen und gibt es in über 20.000 Sorten. Er ist süß-säuerlich und sehr gesund.",
@@ -31,21 +49,38 @@
   },
   {
     "id": "birne",
-    "name": { "de": "Birne", "en": "Pear" },
+    "name": {
+      "de": "Birne",
+      "en": "Pear"
+    },
     "category": "obst",
     "difficulty": 1,
     "facts": {
-      "color": ["gelb", "grün"],
+      "color": [
+        "gelb",
+        "grün"
+      ],
       "grows_on": "Baum",
       "taste": "süß, sanft",
       "tropical": false,
       "common_in_germany": true,
-      "season": ["Herbst"]
+      "season": [
+        "Herbst"
+      ]
     },
     "hints": [
-      { "de": "Sie wächst auf einem Baum und hat eine typische tropfenförmige Form", "en": "It grows on a tree and has a typical teardrop shape" },
-      { "de": "Sie ist unten breiter als oben", "en": "It is wider at the bottom than the top" },
-      { "de": "Sie ist verwandt mit dem Apfel", "en": "It is related to the apple" }
+      {
+        "de": "Sie wächst auf einem Baum und hat eine typische tropfenförmige Form",
+        "en": "It grows on a tree and has a typical teardrop shape"
+      },
+      {
+        "de": "Sie ist unten breiter als oben",
+        "en": "It is wider at the bottom than the top"
+      },
+      {
+        "de": "Sie ist verwandt mit dem Apfel",
+        "en": "It is related to the apple"
+      }
     ],
     "description": {
       "de": "Die Birne wächst auf Birnbäumen und ist eng mit dem Apfel verwandt. Sie hat eine typische Birnenform — unten breiter, oben schmaler. Sie ist süß und saftig.",
@@ -61,21 +96,38 @@
   },
   {
     "id": "banane",
-    "name": { "de": "Banane", "en": "Banana" },
+    "name": {
+      "de": "Banane",
+      "en": "Banana"
+    },
     "category": "obst",
     "difficulty": 1,
     "facts": {
-      "color": ["gelb", "grün"],
+      "color": [
+        "gelb",
+        "grün"
+      ],
       "grows_on": "Staude",
       "taste": "süß",
       "tropical": true,
       "common_in_germany": true,
-      "season": ["ganzjährig"]
+      "season": [
+        "ganzjährig"
+      ]
     },
     "hints": [
-      { "de": "Sie ist gelb und hat eine gebogene Form", "en": "It is yellow and has a curved shape" },
-      { "de": "Affen lieben sie besonders", "en": "Monkeys especially love it" },
-      { "de": "Sie wächst in tropischen Ländern an einer Staude (nicht an einem Baum)", "en": "It grows in tropical countries on a herbaceous plant (not a tree)" }
+      {
+        "de": "Sie ist gelb und hat eine gebogene Form",
+        "en": "It is yellow and has a curved shape"
+      },
+      {
+        "de": "Affen lieben sie besonders",
+        "en": "Monkeys especially love it"
+      },
+      {
+        "de": "Sie wächst in tropischen Ländern an einer Staude (nicht an einem Baum)",
+        "en": "It grows in tropical countries on a herbaceous plant (not a tree)"
+      }
     ],
     "description": {
       "de": "Die Banane ist eine tropische Frucht und eine der meistgegessenen Früchte der Welt. Sie ist süß, hat viel Kalium und gibt schnell Energie. Bananen wachsen in tropischen Ländern wie Ecuador und Costa Rica.",
@@ -91,21 +143,37 @@
   },
   {
     "id": "erdbeere",
-    "name": { "de": "Erdbeere", "en": "Strawberry" },
+    "name": {
+      "de": "Erdbeere",
+      "en": "Strawberry"
+    },
     "category": "obst",
     "difficulty": 1,
     "facts": {
-      "color": ["rot"],
+      "color": [
+        "rot"
+      ],
       "grows_on": "Busch/Bodenpflanze",
       "taste": "süß-säuerlich",
       "tropical": false,
       "common_in_germany": true,
-      "season": ["Sommer"]
+      "season": [
+        "Sommer"
+      ]
     },
     "hints": [
-      { "de": "Sie ist rot und klein mit grünem Kelchblatt oben", "en": "It is red and small with a green calyx on top" },
-      { "de": "Sie wächst im Sommer nah am Boden auf kleinen Pflanzen", "en": "It grows in summer close to the ground on small plants" },
-      { "de": "Man isst sie gerne mit Sahne oder auf Kuchen", "en": "It is often eaten with cream or on cakes" }
+      {
+        "de": "Sie ist rot und klein mit grünem Kelchblatt oben",
+        "en": "It is red and small with a green calyx on top"
+      },
+      {
+        "de": "Sie wächst im Sommer nah am Boden auf kleinen Pflanzen",
+        "en": "It grows in summer close to the ground on small plants"
+      },
+      {
+        "de": "Man isst sie gerne mit Sahne oder auf Kuchen",
+        "en": "It is often eaten with cream or on cakes"
+      }
     ],
     "description": {
       "de": "Die Erdbeere ist eine der beliebtesten Früchte des Sommers. Sie ist rot, süß-säuerlich und hat kleine Samen außen auf der Schale. Erdbeeren wachsen nahe am Boden auf kleinen Pflanzen.",
@@ -121,21 +189,37 @@
   },
   {
     "id": "orange",
-    "name": { "de": "Orange", "en": "Orange" },
+    "name": {
+      "de": "Orange",
+      "en": "Orange"
+    },
     "category": "obst",
     "difficulty": 1,
     "facts": {
-      "color": ["orange"],
+      "color": [
+        "orange"
+      ],
       "grows_on": "Baum",
       "taste": "süß-säuerlich",
       "tropical": true,
       "common_in_germany": true,
-      "season": ["Winter"]
+      "season": [
+        "Winter"
+      ]
     },
     "hints": [
-      { "de": "Sie ist orange, rund und hat eine Schale", "en": "It is orange, round and has a peel" },
-      { "de": "Sie enthält sehr viel Vitamin C", "en": "It contains a lot of vitamin C" },
-      { "de": "Sie ist nach ihrer Farbe benannt", "en": "It is named after its color" }
+      {
+        "de": "Sie ist orange, rund und hat eine Schale",
+        "en": "It is orange, round and has a peel"
+      },
+      {
+        "de": "Sie enthält sehr viel Vitamin C",
+        "en": "It contains a lot of vitamin C"
+      },
+      {
+        "de": "Sie ist nach ihrer Farbe benannt",
+        "en": "It is named after its color"
+      }
     ],
     "description": {
       "de": "Die Orange ist eine Zitrusfrucht aus warmen Ländern. Sie ist orange, saftig und hat viel Vitamin C. In Deutschland isst man sie besonders im Winter. Der Orangensaft ist ein beliebtes Frühstücksgetränk.",
@@ -151,21 +235,38 @@
   },
   {
     "id": "kiwi",
-    "name": { "de": "Kiwi", "en": "Kiwi" },
+    "name": {
+      "de": "Kiwi",
+      "en": "Kiwi"
+    },
     "category": "obst",
     "difficulty": 2,
     "facts": {
-      "color": ["grün (innen)", "braun (außen)"],
+      "color": [
+        "grün (innen)",
+        "braun (außen)"
+      ],
       "grows_on": "Kletterpflanze",
       "taste": "süß-säuerlich",
       "tropical": false,
       "common_in_germany": true,
-      "season": ["Winter"]
+      "season": [
+        "Winter"
+      ]
     },
     "hints": [
-      { "de": "Sie ist außen braun-haarig, innen grün", "en": "It is brown and hairy outside, green inside" },
-      { "de": "Sie ist nach einem neuseeländischen Vogel benannt", "en": "It is named after a New Zealand bird" },
-      { "de": "Sie enthält mehr Vitamin C als eine Orange", "en": "It contains more vitamin C than an orange" }
+      {
+        "de": "Sie ist außen braun-haarig, innen grün",
+        "en": "It is brown and hairy outside, green inside"
+      },
+      {
+        "de": "Sie ist nach einem neuseeländischen Vogel benannt",
+        "en": "It is named after a New Zealand bird"
+      },
+      {
+        "de": "Sie enthält mehr Vitamin C als eine Orange",
+        "en": "It contains more vitamin C than an orange"
+      }
     ],
     "description": {
       "de": "Die Kiwi ist eine Frucht aus China, die heute hauptsächlich in Neuseeland und Italien angebaut wird. Sie hat eine braune, haarige Schale und grünes Fruchtfleisch mit schwarzen Samen.",
@@ -181,21 +282,40 @@
   },
   {
     "id": "mango",
-    "name": { "de": "Mango", "en": "Mango" },
+    "name": {
+      "de": "Mango",
+      "en": "Mango"
+    },
     "category": "obst",
     "difficulty": 2,
     "facts": {
-      "color": ["gelb", "orange", "rot", "grün"],
+      "color": [
+        "gelb",
+        "orange",
+        "rot",
+        "grün"
+      ],
       "grows_on": "Baum",
       "taste": "sehr süß, aromatisch",
       "tropical": true,
       "common_in_germany": true,
-      "season": ["ganzjährig (importiert)"]
+      "season": [
+        "ganzjährig (importiert)"
+      ]
     },
     "hints": [
-      { "de": "Sie ist tropisch und sehr süß-aromatisch", "en": "It is tropical and very sweet and aromatic" },
-      { "de": "Sie hat einen großen, flachen Kern in der Mitte", "en": "It has a large, flat pit in the middle" },
-      { "de": "Sie ist in Indien die beliebteste Frucht", "en": "It is the most popular fruit in India" }
+      {
+        "de": "Sie ist tropisch und sehr süß-aromatisch",
+        "en": "It is tropical and very sweet and aromatic"
+      },
+      {
+        "de": "Sie hat einen großen, flachen Kern in der Mitte",
+        "en": "It has a large, flat pit in the middle"
+      },
+      {
+        "de": "Sie ist in Indien die beliebteste Frucht",
+        "en": "It is the most popular fruit in India"
+      }
     ],
     "description": {
       "de": "Die Mango ist eine tropische Frucht aus Südasien. Sie ist sehr süß und aromatisch und hat einen großen, flachen Kern. India ist der größte Mango-Produzent der Welt.",
@@ -211,21 +331,39 @@
   },
   {
     "id": "granatapfel",
-    "name": { "de": "Granatapfel", "en": "Pomegranate" },
+    "name": {
+      "de": "Granatapfel",
+      "en": "Pomegranate"
+    },
     "category": "obst",
     "difficulty": 2,
     "facts": {
-      "color": ["rot", "rosa"],
+      "color": [
+        "rot",
+        "rosa"
+      ],
       "grows_on": "Baum/Strauch",
       "taste": "süß-herb, säuerlich",
       "tropical": false,
       "common_in_germany": false,
-      "season": ["Herbst", "Winter"]
+      "season": [
+        "Herbst",
+        "Winter"
+      ]
     },
     "hints": [
-      { "de": "Es ist rund und dunkelrot und enthält hunderte rote Samen-Kügelchen", "en": "It is round and dark red and contains hundreds of red seed kernels" },
-      { "de": "Es ist eine Frucht aus dem Nahen Osten mit einer sehr harten Schale", "en": "It is a fruit from the Middle East with a very tough outer skin" },
-      { "de": "Es ist ein Symbol für Fruchtbarkeit und Leben in vielen Kulturen", "en": "It is a symbol of fertility and life in many cultures" }
+      {
+        "de": "Es ist rund und dunkelrot und enthält hunderte rote Samen-Kügelchen",
+        "en": "It is round and dark red and contains hundreds of red seed kernels"
+      },
+      {
+        "de": "Es ist eine Frucht aus dem Nahen Osten mit einer sehr harten Schale",
+        "en": "It is a fruit from the Middle East with a very tough outer skin"
+      },
+      {
+        "de": "Es ist ein Symbol für Fruchtbarkeit und Leben in vielen Kulturen",
+        "en": "It is a symbol of fertility and life in many cultures"
+      }
     ],
     "description": {
       "de": "Der Granatapfel ist eine rote Frucht aus dem Nahen Osten und Mittelmeerraum. Er enthält hunderte süß-säuerlicher Samenkerne (Arils). Er ist sehr reich an Antioxidantien.",
@@ -241,21 +379,38 @@
   },
   {
     "id": "drachenfrucht",
-    "name": { "de": "Drachenfrucht", "en": "Dragon Fruit" },
+    "name": {
+      "de": "Drachenfrucht",
+      "en": "Dragon Fruit"
+    },
     "category": "obst",
     "difficulty": 3,
     "facts": {
-      "color": ["pink/rot (außen)", "weiß oder rot (innen)"],
+      "color": [
+        "pink/rot (außen)",
+        "weiß oder rot (innen)"
+      ],
       "grows_on": "Kletterkaktus",
       "taste": "mild, leicht süß",
       "tropical": true,
       "common_in_germany": false,
-      "season": ["ganzjährig (importiert)"]
+      "season": [
+        "ganzjährig (importiert)"
+      ]
     },
     "hints": [
-      { "de": "Sie ist außen leuchtend pink/rot mit grünen Schuppen", "en": "It is bright pink/red outside with green scales" },
-      { "de": "Sie wächst an einem Kaktus", "en": "It grows on a cactus" },
-      { "de": "Sie kommt aus Südostasien und Zentralamerika", "en": "It comes from Southeast Asia and Central America" }
+      {
+        "de": "Sie ist außen leuchtend pink/rot mit grünen Schuppen",
+        "en": "It is bright pink/red outside with green scales"
+      },
+      {
+        "de": "Sie wächst an einem Kaktus",
+        "en": "It grows on a cactus"
+      },
+      {
+        "de": "Sie kommt aus Südostasien und Zentralamerika",
+        "en": "It comes from Southeast Asia and Central America"
+      }
     ],
     "description": {
       "de": "Die Drachenfrucht ist eine exotische tropische Frucht mit leuchtend rosafarbener Schale und grünen Schuppen. Sie wächst an einem Kletternden Kaktus und hat weißes oder rotes Fruchtfleisch mit schwarzen Samen.",
@@ -271,21 +426,38 @@
   },
   {
     "id": "maracuja",
-    "name": { "de": "Maracuja", "en": "Passion Fruit" },
+    "name": {
+      "de": "Maracuja",
+      "en": "Passion Fruit"
+    },
     "category": "obst",
     "difficulty": 3,
     "facts": {
-      "color": ["lila", "gelb"],
+      "color": [
+        "lila",
+        "gelb"
+      ],
       "grows_on": "Kletterpflanze",
       "taste": "intensiv süß-säuerlich",
       "tropical": true,
       "common_in_germany": false,
-      "season": ["ganzjährig (importiert)"]
+      "season": [
+        "ganzjährig (importiert)"
+      ]
     },
     "hints": [
-      { "de": "Sie ist klein, rund und lila-braun mit faltigem Aussehen wenn reif", "en": "It is small, round and purple-brown with a wrinkled appearance when ripe" },
-      { "de": "Innen hat sie gelbes Fruchtfleisch mit schwarzen Samen", "en": "Inside it has yellow flesh with black seeds" },
-      { "de": "Sie riecht sehr intensiv-tropisch und ist typisch für Fruchtsäfte", "en": "It smells very intensely tropical and is typical in fruit juices" }
+      {
+        "de": "Sie ist klein, rund und lila-braun mit faltigem Aussehen wenn reif",
+        "en": "It is small, round and purple-brown with a wrinkled appearance when ripe"
+      },
+      {
+        "de": "Innen hat sie gelbes Fruchtfleisch mit schwarzen Samen",
+        "en": "Inside it has yellow flesh with black seeds"
+      },
+      {
+        "de": "Sie riecht sehr intensiv-tropisch und ist typisch für Fruchtsäfte",
+        "en": "It smells very intensely tropical and is typical in fruit juices"
+      }
     ],
     "description": {
       "de": "Die Maracuja ist eine kleine, runde tropische Frucht mit intensivem Aroma. Reife Früchte haben eine faltige, lila-braune Schale. Das gelbe Fruchtfleisch enthält viele schwarze Samen.",
@@ -301,21 +473,38 @@
   },
   {
     "id": "jackfrucht",
-    "name": { "de": "Jackfrucht", "en": "Jackfruit" },
+    "name": {
+      "de": "Jackfrucht",
+      "en": "Jackfruit"
+    },
     "category": "obst",
     "difficulty": 3,
     "facts": {
-      "color": ["grün/gelb (außen)", "gelb (innen)"],
+      "color": [
+        "grün/gelb (außen)",
+        "gelb (innen)"
+      ],
       "grows_on": "Baum",
       "taste": "süß, aromatisch",
       "tropical": true,
       "common_in_germany": false,
-      "season": ["ganzjährig (importiert)"]
+      "season": [
+        "ganzjährig (importiert)"
+      ]
     },
     "hints": [
-      { "de": "Es ist die größte Baumfrucht der Welt — kann bis zu 40 kg wiegen", "en": "It is the world's largest tree fruit — can weigh up to 40 kg" },
-      { "de": "Unreif wird sie als Fleischersatz verwendet", "en": "Unripe, it is used as a meat substitute" },
-      { "de": "Sie wächst direkt am Stamm des Baumes", "en": "It grows directly on the trunk of the tree" }
+      {
+        "de": "Es ist die größte Baumfrucht der Welt — kann bis zu 40 kg wiegen",
+        "en": "It is the world's largest tree fruit — can weigh up to 40 kg"
+      },
+      {
+        "de": "Unreif wird sie als Fleischersatz verwendet",
+        "en": "Unripe, it is used as a meat substitute"
+      },
+      {
+        "de": "Sie wächst direkt am Stamm des Baumes",
+        "en": "It grows directly on the trunk of the tree"
+      }
     ],
     "description": {
       "de": "Die Jackfrucht ist die größte Baumfrucht der Welt und kann bis zu 40 kg schwer werden. Sie wächst in Südostasien und wird reif als süße Frucht oder unreif als Fleischersatz gegessen.",
@@ -328,5 +517,326 @@
     "flag_url": null,
     "emoji": "🍈",
     "qa_context": "Jackfrucht, größte Baumfrucht der Welt (bis 40kg), grün/gelblich außen, gelb innen, Baum (wächst am Stamm), süß, tropisch, Südostasien, unreif als Fleischersatz/Pulled Jackfruit, sehr bekannt in Indien"
+  },
+  {
+    "id": "pflaume",
+    "name": {
+      "de": "Pflaume",
+      "en": "Plum"
+    },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": "blau/lila",
+      "type": "Steinobst",
+      "origin": "Asien",
+      "pit": true,
+      "season": "Sommer/Herbst"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein blau-lila Steinobst",
+        "en": "It is a blue-purple stone fruit"
+      },
+      {
+        "de": "Es wächst an Bäumen und hat einen Kern in der Mitte",
+        "en": "It grows on trees and has a pit in the middle"
+      },
+      {
+        "de": "Getrocknet heißt es Backpflaume oder Dörrpflaume",
+        "en": "When dried it is called a prune"
+      }
+    ],
+    "description": {
+      "de": "Die Pflaume ist ein Steinobst mit blau-lila Schale und gelbem Fruchtfleisch. Sie wird frisch, als Kompott, Marmelade oder Pflaumenkuchen gegessen. Getrocknet heißt sie Dörrpflaume.",
+      "en": "The plum is a stone fruit with blue-purple skin and yellow flesh. It is eaten fresh, as compote, jam or plum cake. When dried it is called a prune."
+    },
+    "fun_fact": {
+      "de": "Pflaumenbäume können über 100 Jahre alt werden und noch immer Früchte tragen! In manchen deutschen Dörfern gibt es Pflaumenbäume, die noch aus dem 19. Jahrhundert stammen und die Bewohner noch immer mit Früchten versorgen.",
+      "en": "Plum trees can live over 100 years and still bear fruit! In some German villages there are plum trees dating from the 19th century that still supply residents with fruit."
+    },
+    "emoji": "🫐",
+    "qa_context": "Pflaume, Zwetschge, blau-lila, Steinobst, Kern/Stein, Baum, Sommer, Pflaumenkuchen, Kompott, Marmelade, getrocknet = Dörrpflaume"
+  },
+  {
+    "id": "weintraube",
+    "name": {
+      "de": "Weintraube",
+      "en": "Grape"
+    },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": "grün oder lila",
+      "type": "Beerenobst",
+      "origin": "Naher Osten",
+      "grows_on": "Weinreben",
+      "used_for": [
+        "Wein",
+        "Rosinen",
+        "Saft"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist ein kleines, rundes Obst, das in Trauben wächst",
+        "en": "It is a small, round fruit that grows in bunches"
+      },
+      {
+        "de": "Es gibt es in grün und lila und es kann zu Wein verarbeitet werden",
+        "en": "It comes in green and purple and can be made into wine"
+      },
+      {
+        "de": "Getrocknet heißt es Rosine",
+        "en": "When dried it is called a raisin"
+      }
+    ],
+    "description": {
+      "de": "Weintrauben wachsen in Trauben an Weinreben. Sie gibt es grün und lila. Trauben werden frisch gegessen oder zu Wein, Saft und Rosinen verarbeitet. Der Anbau von Weintrauben heißt Weinbau.",
+      "en": "Grapes grow in bunches on vines. They come in green and purple. Grapes are eaten fresh or processed into wine, juice and raisins. Cultivating grapes is called viticulture."
+    },
+    "fun_fact": {
+      "de": "Weintrauben gibt es seit mindestens 8.000 Jahren! Die älteste bekannte Weinkelter wurde in Armenien gefunden und ist 6.100 Jahre alt. Heute gibt es über 10.000 verschiedene Traubensorten weltweit.",
+      "en": "Grapes have existed for at least 8,000 years! The oldest known winery was found in Armenia and is 6,100 years old. Today there are over 10,000 different grape varieties worldwide."
+    },
+    "emoji": "🍇",
+    "qa_context": "Weintraube, Traube, grün oder lila/rot, Weinrebe, Beerenobst, Wein, Rosinen, Saft, in Trauben wachsend, rund, klein, süß oder sauer"
+  },
+  {
+    "id": "kirsche",
+    "name": {
+      "de": "Kirsche",
+      "en": "Cherry"
+    },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": "rot oder schwarz",
+      "type": "Steinobst",
+      "pit": true,
+      "season": "Juni/Juli",
+      "origin": "Europa/Asien"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein kleines, rotes Obst mit einem Stein",
+        "en": "It is a small, red fruit with a pit"
+      },
+      {
+        "de": "Es wird im Frühsommer geerntet",
+        "en": "It is harvested in early summer"
+      },
+      {
+        "de": "Der Schwarzwälder Kirschtorte ist nach ihm benannt",
+        "en": "The Black Forest cake is named after it"
+      }
+    ],
+    "description": {
+      "de": "Kirschen sind kleine Steinfrüchte, meist rot oder dunkelrot. Sie werden im Juni und Juli geerntet. Sie werden frisch gegessen, zu Marmelade, Saft oder Kuchen verarbeitet.",
+      "en": "Cherries are small stone fruits, usually red or dark red. They are harvested in June and July. They are eaten fresh, processed into jam, juice or cake."
+    },
+    "fun_fact": {
+      "de": "Es gibt eine Kirschenkernspuckweltmeisterschaft! In Langenlois (Österreich) wird jährlich der 'Kirschkernweitwurf' ausgetragen. Der Rekord liegt bei über 20 Metern! Die Technik ist wichtig: kein Pusten, sondern Spucken mit der Zunge.",
+      "en": "There is a cherry pit spitting world championship! In Langenlois (Austria), the 'cherry pit spitting' competition is held annually. The record is over 20 meters! Technique matters: not blowing but spitting with the tongue."
+    },
+    "emoji": "🍒",
+    "qa_context": "Kirsche, rot oder schwarz, Steinobst, klein, Stein/Kern, Sommer (Juni/Juli), Baumobst, Schwarzwälder Kirschtorte, Marmelade, Saft, Weichsel, Sauerkirsche"
+  },
+  {
+    "id": "grapefruit",
+    "name": {
+      "de": "Grapefruit",
+      "en": "Grapefruit"
+    },
+    "category": "obst",
+    "difficulty": 2,
+    "facts": {
+      "color": "gelb-rosa",
+      "type": "Zitrusfrucht",
+      "taste": "bitter-sauer",
+      "origin": "Karibik",
+      "vitamin_c": "hoch"
+    },
+    "hints": [
+      {
+        "de": "Es ist eine große Zitrusfrucht, die bitter-sauer schmeckt",
+        "en": "It is a large citrus fruit that tastes bitter-sour"
+      },
+      {
+        "de": "Es ist eine natürliche Kreuzung aus Orange und Pampelmuse",
+        "en": "It is a natural cross between orange and pomelo"
+      },
+      {
+        "de": "Es kann mit manchen Medikamenten gefährlich reagieren",
+        "en": "It can dangerously interact with some medications"
+      }
+    ],
+    "description": {
+      "de": "Die Grapefruit ist eine Zitrusfrucht mit gelber Schale und rosa-gelbem Fruchtfleisch. Sie schmeckt bitter-sauer und enthält viel Vitamin C. Sie ist eine natürliche Kreuzung aus Orange und Pampelmuse.",
+      "en": "The grapefruit is a citrus fruit with yellow skin and pink-yellow flesh. It tastes bitter-sour and contains lots of vitamin C. It is a natural cross between orange and pomelo."
+    },
+    "fun_fact": {
+      "de": "Grapefruit kann die Wirkung von über 85 Medikamenten verändern — und das ist kein Witz! Ein Stoff in der Grapefruit blockiert Enzyme in der Leber, die Medikamente abbauen. Dadurch kann die Medikamentendosis im Blut auf das Vierfache ansteigen.",
+      "en": "Grapefruit can change the effect of over 85 medications — and that's no joke! A substance in grapefruit blocks enzymes in the liver that break down medications. This can cause medication levels in the blood to rise to four times the normal amount."
+    },
+    "emoji": "🍊",
+    "qa_context": "Grapefruit, Pampelmuse, Zitrusfrucht, gelb-rosa, bitter-sauer, groß, Vitamin C, Karibik, Kreuzung Orange/Pampelmuse, Medikamentenwechselwirkung"
+  },
+  {
+    "id": "feige",
+    "name": {
+      "de": "Feige",
+      "en": "Fig"
+    },
+    "category": "obst",
+    "difficulty": 2,
+    "facts": {
+      "color": "lila/grün",
+      "type": "Beerenobst",
+      "origin": "Naher Osten",
+      "sweet": true,
+      "dried": true
+    },
+    "hints": [
+      {
+        "de": "Es ist ein birnenförmiges, lila Obst mit süßem Innenleben",
+        "en": "It is a pear-shaped, purple fruit with a sweet interior"
+      },
+      {
+        "de": "Es ist eines der ältesten kultivierten Früchte der Menschheit",
+        "en": "It is one of the oldest cultivated fruits of humanity"
+      },
+      {
+        "de": "Getrocknete Version ist ein beliebter Weihnachtssnack",
+        "en": "The dried version is a popular Christmas snack"
+      }
+    ],
+    "description": {
+      "de": "Die Feige ist eine der ältesten Kulturpflanzen der Menschheit — sie wird seit mindestens 11.000 Jahren angebaut. Sie hat ein weiches, süßes Fruchtfleisch mit vielen kleinen Samen.",
+      "en": "The fig is one of humanity's oldest cultivated plants — it has been grown for at least 11,000 years. It has a soft, sweet flesh with many small seeds."
+    },
+    "fun_fact": {
+      "de": "Eine Feige ist eigentlich kein Obst im botanischen Sinne — es ist eine umgestülpte Blüte! Die kleinen Samen im Inneren sind die eigentlichen Früchte. Außerdem können manche Feigen nur durch eine ganz spezifische Wespenart bestäubt werden.",
+      "en": "A fig is not actually a fruit in the botanical sense — it is an inverted flower! The small seeds inside are the actual fruits. Also, some figs can only be pollinated by one very specific wasp species."
+    },
+    "emoji": "🫐",
+    "qa_context": "Feige, lila oder grün, süß, innen rot/rosa, viele kleine Samen, getrocknet, Naher Osten, Mittelmeer, sehr alte Kulturpflanze, Feigenbaum, Weihnachten"
+  },
+  {
+    "id": "himbeere",
+    "name": {
+      "de": "Himbeere",
+      "en": "Raspberry"
+    },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": "rot",
+      "type": "Beerenobst",
+      "origin": "Europa/Asien",
+      "season": "Sommer"
+    },
+    "hints": [
+      {
+        "de": "Es ist eine kleine, rote Beere, die aus vielen kleinen Kügelchen besteht",
+        "en": "It is a small, red berry made up of many small droplets"
+      },
+      {
+        "de": "Es wächst an dornigen Sträuchern",
+        "en": "It grows on thorny bushes"
+      },
+      {
+        "de": "Es ist für Marmelade, Smoothies und Eis sehr beliebt",
+        "en": "It is very popular for jam, smoothies and ice cream"
+      }
+    ],
+    "description": {
+      "de": "Die Himbeere ist eine kleine rote Beere, die aus vielen kleinen Steinfrüchtchen besteht. Sie wächst an stacheligen Sträuchern und wird im Sommer geerntet. Sie ist sehr beliebt für Marmelade und Eis.",
+      "en": "The raspberry is a small red berry made up of many tiny drupelets. It grows on thorny bushes and is harvested in summer. It is very popular for jam and ice cream."
+    },
+    "fun_fact": {
+      "de": "Eine Himbeere ist eigentlich keine einzelne Frucht! Sie besteht aus bis zu 100 kleinen Einzelfrüchtchen, jedes mit einem eigenen Kern. Die hohle Mitte entsteht, weil die Himbeere beim Pflücken von der Scheinbeere getrennt wird.",
+      "en": "A raspberry is actually not a single fruit! It consists of up to 100 small individual drupelets, each with its own seed. The hollow center forms because the raspberry separates from the receptacle when picked."
+    },
+    "emoji": "🍓",
+    "qa_context": "Himbeere, rot, Beere, Beerenobst, viele kleine Kügelchen/Drüpchen, Dornenstrauch, Sommer, Marmelade, Smoothie, Eis, Parfüm-Aroma"
+  },
+  {
+    "id": "johannisbeere",
+    "name": {
+      "de": "Johannisbeere",
+      "en": "Currant"
+    },
+    "category": "obst",
+    "difficulty": 2,
+    "facts": {
+      "color": "rot, schwarz oder weiß",
+      "type": "Beerenobst",
+      "origin": "Europa",
+      "season": "Sommer"
+    },
+    "hints": [
+      {
+        "de": "Es ist eine kleine Beere, die in Trauben wächst — rot, schwarz oder weiß",
+        "en": "It is a small berry that grows in clusters — red, black or white"
+      },
+      {
+        "de": "Sie ist sehr sauer und wird meist zu Saft oder Marmelade verarbeitet",
+        "en": "It is very sour and usually processed into juice or jam"
+      },
+      {
+        "de": "Schwarze Johannisbeeren haben besonders viel Vitamin C",
+        "en": "Black currants have particularly high vitamin C"
+      }
+    ],
+    "description": {
+      "de": "Johannisbeeren sind kleine, saure Beeren in Trauben. Es gibt sie rot, schwarz oder weiß. Schwarze Johannisbeeren haben dreimal so viel Vitamin C wie Orangen. Sie werden zu Saft, Gelee oder Marmelade verarbeitet.",
+      "en": "Currants are small, sour berries in clusters. They come in red, black or white. Black currants have three times more vitamin C than oranges. They are processed into juice, jelly or jam."
+    },
+    "fun_fact": {
+      "de": "Schwarze Johannisbeeren sind vitamin-C-Weltmeister unter den heimischen Früchten! 100g schwarze Johannisbeeren enthalten 180mg Vitamin C — fast viermal so viel wie Orangen. Daher sind sie trotz ihres sauren Geschmacks sehr wertvoll.",
+      "en": "Black currants are vitamin C world champions among native fruits! 100g of black currants contain 180mg of vitamin C — almost four times as much as oranges. Hence they are very valuable despite their sour taste."
+    },
+    "emoji": "🍇",
+    "qa_context": "Johannisbeere, Ribisel (österreichisch), rot oder schwarz oder weiß, kleine Beere, Trauben, sauer, Vitamin C, Sommer, Saft, Gelee, Marmelade, Strauch"
+  },
+  {
+    "id": "papaya",
+    "name": {
+      "de": "Papaya",
+      "en": "Papaya"
+    },
+    "category": "obst",
+    "difficulty": 3,
+    "facts": {
+      "color": "orange (Fruchtfleisch)",
+      "type": "Exotische Frucht",
+      "origin": "Mittelamerika",
+      "enzyme": "Papain"
+    },
+    "hints": [
+      {
+        "de": "Es ist ein tropisches Obst mit orangefarbenem Fruchtfleisch und schwarzen Kernen",
+        "en": "It is a tropical fruit with orange flesh and black seeds"
+      },
+      {
+        "de": "Es kommt aus Mittelamerika und wächst an einem hohen Baum",
+        "en": "It comes from Central America and grows on a tall tree"
+      },
+      {
+        "de": "Es enthält ein Enzym, das Fleisch mürbe macht",
+        "en": "It contains an enzyme that tenderizes meat"
+      }
+    ],
+    "description": {
+      "de": "Die Papaya ist eine tropische Frucht mit süßem, orangem Fruchtfleisch und schwarzen Kernen. Sie enthält das Enzym Papain, das Eiweiß abbaut und daher zum Zartmachen von Fleisch verwendet wird.",
+      "en": "The papaya is a tropical fruit with sweet, orange flesh and black seeds. It contains the enzyme papain, which breaks down protein and is therefore used to tenderize meat."
+    },
+    "fun_fact": {
+      "de": "Das Enzym Papain in Papayas ist so stark, dass man Fleisch darin einlegen kann, um es zart zu machen — das haben Ureinwohner Mittelamerikas seit Jahrtausenden gemacht! Papain wird auch in Waschmittel und Fleischzartmachern verwendet.",
+      "en": "The enzyme papain in papayas is so powerful that you can marinate meat in it to tenderize it — Indigenous peoples of Central America have done this for millennia! Papain is also used in laundry detergent and meat tenderizers."
+    },
+    "emoji": "🍈",
+    "qa_context": "Papaya, tropisch, orange Fruchtfleisch, schwarze Kerne, Mittelamerika, süß, groß, Papain (Enzym), Fleisch mürbe machen, warm, exotisch"
   }
 ]
