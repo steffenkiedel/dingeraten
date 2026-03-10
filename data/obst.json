@@ -1,0 +1,332 @@
+[
+  {
+    "id": "apfel",
+    "name": { "de": "Apfel", "en": "Apple" },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": ["rot", "grün", "gelb"],
+      "grows_on": "Baum",
+      "taste": "süß-säuerlich",
+      "tropical": false,
+      "common_in_germany": true,
+      "season": ["Herbst"]
+    },
+    "hints": [
+      { "de": "Er wächst auf einem Baum und ist rund", "en": "It grows on a tree and is round" },
+      { "de": "Er kann rot, grün oder gelb sein", "en": "It can be red, green or yellow" },
+      { "de": "Ein Arzt täglich fernhält laut englischem Sprichwort ein Apfel täglich", "en": "An English proverb says one a day keeps the doctor away" }
+    ],
+    "description": {
+      "de": "Der Apfel ist die beliebteste Frucht in Deutschland. Er wächst auf Apfelbäumen und gibt es in über 20.000 Sorten. Er ist süß-säuerlich und sehr gesund.",
+      "en": "The apple is the most popular fruit in Germany. It grows on apple trees and comes in over 20,000 varieties. It is sweet-sour and very healthy."
+    },
+    "fun_fact": {
+      "de": "Es gibt über 20.000 Apfelsorten weltweit! Wenn man jeden Tag eine andere Sorte essen würde, bräuchte man über 54 Jahre, um alle zu probieren.",
+      "en": "There are over 20,000 apple varieties worldwide! If you ate a different variety every day, it would take over 54 years to try them all."
+    },
+    "flag_url": null,
+    "emoji": "🍎",
+    "qa_context": "Apfel, Malus domestica, Baum, rot/grün/gelb, Herbst, süß-säuerlich, sehr beliebt in Deutschland, viele Sorten (Gala/Fuji/Granny Smith), Apfelsaft/Apfelmus/Apfelkuchen, sehr gesund"
+  },
+  {
+    "id": "birne",
+    "name": { "de": "Birne", "en": "Pear" },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": ["gelb", "grün"],
+      "grows_on": "Baum",
+      "taste": "süß, sanft",
+      "tropical": false,
+      "common_in_germany": true,
+      "season": ["Herbst"]
+    },
+    "hints": [
+      { "de": "Sie wächst auf einem Baum und hat eine typische tropfenförmige Form", "en": "It grows on a tree and has a typical teardrop shape" },
+      { "de": "Sie ist unten breiter als oben", "en": "It is wider at the bottom than the top" },
+      { "de": "Sie ist verwandt mit dem Apfel", "en": "It is related to the apple" }
+    ],
+    "description": {
+      "de": "Die Birne wächst auf Birnbäumen und ist eng mit dem Apfel verwandt. Sie hat eine typische Birnenform — unten breiter, oben schmaler. Sie ist süß und saftig.",
+      "en": "The pear grows on pear trees and is closely related to the apple. It has a typical pear shape — wider at the bottom, narrower at the top. It is sweet and juicy."
+    },
+    "fun_fact": {
+      "de": "Birnen reifen besser nach der Ernte als am Baum! Wenn man sie zu lange am Baum lässt, werden sie mehlig. Deswegen werden Birnen meist unreif geerntet und reifen dann nach.",
+      "en": "Pears ripen better after harvest than on the tree! If left on the tree too long, they become mealy. That's why pears are usually harvested unripe and then allowed to ripen."
+    },
+    "flag_url": null,
+    "emoji": "🍐",
+    "qa_context": "Birne, Baum, gelb/grün, Herbst, süß/sanft, tropfenform (unten breiter), verwandt mit Apfel, verschiedene Sorten, Birnensaft, sehr beliebt in Deutschland/Europa"
+  },
+  {
+    "id": "banane",
+    "name": { "de": "Banane", "en": "Banana" },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": ["gelb", "grün"],
+      "grows_on": "Staude",
+      "taste": "süß",
+      "tropical": true,
+      "common_in_germany": true,
+      "season": ["ganzjährig"]
+    },
+    "hints": [
+      { "de": "Sie ist gelb und hat eine gebogene Form", "en": "It is yellow and has a curved shape" },
+      { "de": "Affen lieben sie besonders", "en": "Monkeys especially love it" },
+      { "de": "Sie wächst in tropischen Ländern an einer Staude (nicht an einem Baum)", "en": "It grows in tropical countries on a herbaceous plant (not a tree)" }
+    ],
+    "description": {
+      "de": "Die Banane ist eine tropische Frucht und eine der meistgegessenen Früchte der Welt. Sie ist süß, hat viel Kalium und gibt schnell Energie. Bananen wachsen in tropischen Ländern wie Ecuador und Costa Rica.",
+      "en": "The banana is a tropical fruit and one of the most eaten fruits in the world. It is sweet, has lots of potassium and provides quick energy. Bananas grow in tropical countries like Ecuador and Costa Rica."
+    },
+    "fun_fact": {
+      "de": "Bananen sind keine Baumfrüchte — die Bananenpflanze ist technisch gesehen ein Kraut (das größte der Welt), kein Baum! Der 'Stamm' besteht aus gerollten Blattstielen, nicht aus Holz.",
+      "en": "Bananas don't grow on trees — the banana plant is technically an herb (the world's largest), not a tree! The 'trunk' is made of rolled leaf stalks, not wood."
+    },
+    "flag_url": null,
+    "emoji": "🍌",
+    "qa_context": "Banane, gelb/grün, gebogen, Staude (kein Baum), tropisch, süß, viel Kalium/Energie, Affen mögen sie, wächst in Ecuador/Costa Rica/etc., ganzjährig erhältlich, beliebt weltweit"
+  },
+  {
+    "id": "erdbeere",
+    "name": { "de": "Erdbeere", "en": "Strawberry" },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": ["rot"],
+      "grows_on": "Busch/Bodenpflanze",
+      "taste": "süß-säuerlich",
+      "tropical": false,
+      "common_in_germany": true,
+      "season": ["Sommer"]
+    },
+    "hints": [
+      { "de": "Sie ist rot und klein mit grünem Kelchblatt oben", "en": "It is red and small with a green calyx on top" },
+      { "de": "Sie wächst im Sommer nah am Boden auf kleinen Pflanzen", "en": "It grows in summer close to the ground on small plants" },
+      { "de": "Man isst sie gerne mit Sahne oder auf Kuchen", "en": "It is often eaten with cream or on cakes" }
+    ],
+    "description": {
+      "de": "Die Erdbeere ist eine der beliebtesten Früchte des Sommers. Sie ist rot, süß-säuerlich und hat kleine Samen außen auf der Schale. Erdbeeren wachsen nahe am Boden auf kleinen Pflanzen.",
+      "en": "The strawberry is one of the most popular summer fruits. It is red, sweet-sour and has small seeds on the outside of its skin. Strawberries grow close to the ground on small plants."
+    },
+    "fun_fact": {
+      "de": "Die Erdbeere ist die einzige Frucht, deren Samen auf der Außenseite sitzen! Botanisch gesehen ist sie übrigens gar keine echte Beere — Tomaten und Bananen sind echte Beeren, nicht die Erdbeere.",
+      "en": "The strawberry is the only fruit with its seeds on the outside! Botanically speaking, it's not actually a true berry — tomatoes and bananas are true berries, but not the strawberry."
+    },
+    "flag_url": null,
+    "emoji": "🍓",
+    "qa_context": "Erdbeere, rot, klein, Sommer, süß-säuerlich, Samen außen, Bodenpflanze/kleiner Strauch, beliebt in Deutschland, Erdbeerkuchen/Erdbeer-Sahne-Torten, botanisch keine echte Beere"
+  },
+  {
+    "id": "orange",
+    "name": { "de": "Orange", "en": "Orange" },
+    "category": "obst",
+    "difficulty": 1,
+    "facts": {
+      "color": ["orange"],
+      "grows_on": "Baum",
+      "taste": "süß-säuerlich",
+      "tropical": true,
+      "common_in_germany": true,
+      "season": ["Winter"]
+    },
+    "hints": [
+      { "de": "Sie ist orange, rund und hat eine Schale", "en": "It is orange, round and has a peel" },
+      { "de": "Sie enthält sehr viel Vitamin C", "en": "It contains a lot of vitamin C" },
+      { "de": "Sie ist nach ihrer Farbe benannt", "en": "It is named after its color" }
+    ],
+    "description": {
+      "de": "Die Orange ist eine Zitrusfrucht aus warmen Ländern. Sie ist orange, saftig und hat viel Vitamin C. In Deutschland isst man sie besonders im Winter. Der Orangensaft ist ein beliebtes Frühstücksgetränk.",
+      "en": "The orange is a citrus fruit from warm countries. It is orange, juicy and has lots of vitamin C. In Germany it is eaten especially in winter. Orange juice is a popular breakfast drink."
+    },
+    "fun_fact": {
+      "de": "Die Farbe 'Orange' ist nach der Frucht benannt — nicht umgekehrt! Vor dem Import der Orange nach Europa hatten die Europäer kein Wort für diese Farbe und nannten sie einfach 'gelbrot' oder 'saffranfarben'.",
+      "en": "The color 'orange' was named after the fruit — not the other way around! Before the orange was imported to Europe, Europeans had no word for this color and called it simply 'yellow-red' or 'saffron-colored'."
+    },
+    "flag_url": null,
+    "emoji": "🍊",
+    "qa_context": "Orange, Apfelsine, orange/rund, Baum, subtropical/tropical, süß-säuerlich, viel Vitamin C, Winter in Deutschland, Zitrusfrucht, Orangensaft, Schale enthält ätherische Öle, aus China/Südostasien stammend"
+  },
+  {
+    "id": "kiwi",
+    "name": { "de": "Kiwi", "en": "Kiwi" },
+    "category": "obst",
+    "difficulty": 2,
+    "facts": {
+      "color": ["grün (innen)", "braun (außen)"],
+      "grows_on": "Kletterpflanze",
+      "taste": "süß-säuerlich",
+      "tropical": false,
+      "common_in_germany": true,
+      "season": ["Winter"]
+    },
+    "hints": [
+      { "de": "Sie ist außen braun-haarig, innen grün", "en": "It is brown and hairy outside, green inside" },
+      { "de": "Sie ist nach einem neuseeländischen Vogel benannt", "en": "It is named after a New Zealand bird" },
+      { "de": "Sie enthält mehr Vitamin C als eine Orange", "en": "It contains more vitamin C than an orange" }
+    ],
+    "description": {
+      "de": "Die Kiwi ist eine Frucht aus China, die heute hauptsächlich in Neuseeland und Italien angebaut wird. Sie hat eine braune, haarige Schale und grünes Fruchtfleisch mit schwarzen Samen.",
+      "en": "The kiwi is a fruit from China, now mainly grown in New Zealand and Italy. It has a brown, hairy skin and green flesh with black seeds."
+    },
+    "fun_fact": {
+      "de": "Die Kiwi heißt eigentlich 'Chinesische Stachelbeere' und kommt aus China! Erst als sie in Neuseeland angebaut und exportiert wurde, bekam sie den Namen 'Kiwi' nach dem gleichnamigen neuseeländischen Vogel.",
+      "en": "The kiwi is actually called 'Chinese gooseberry' and comes from China! It only got the name 'kiwi' after the New Zealand bird when it was grown and exported from New Zealand."
+    },
+    "flag_url": null,
+    "emoji": "🥝",
+    "qa_context": "Kiwi, Chinesische Stachelbeere, braun-haarig außen/grün innen, Kletterpflanze, süß-säuerlich, Winter in Deutschland, viel Vitamin C (mehr als Orange), aus China stammend, Neuseeland/Italien wichtigste Anbauländer"
+  },
+  {
+    "id": "mango",
+    "name": { "de": "Mango", "en": "Mango" },
+    "category": "obst",
+    "difficulty": 2,
+    "facts": {
+      "color": ["gelb", "orange", "rot", "grün"],
+      "grows_on": "Baum",
+      "taste": "sehr süß, aromatisch",
+      "tropical": true,
+      "common_in_germany": true,
+      "season": ["ganzjährig (importiert)"]
+    },
+    "hints": [
+      { "de": "Sie ist tropisch und sehr süß-aromatisch", "en": "It is tropical and very sweet and aromatic" },
+      { "de": "Sie hat einen großen, flachen Kern in der Mitte", "en": "It has a large, flat pit in the middle" },
+      { "de": "Sie ist in Indien die beliebteste Frucht", "en": "It is the most popular fruit in India" }
+    ],
+    "description": {
+      "de": "Die Mango ist eine tropische Frucht aus Südasien. Sie ist sehr süß und aromatisch und hat einen großen, flachen Kern. India ist der größte Mango-Produzent der Welt.",
+      "en": "The mango is a tropical fruit from South Asia. It is very sweet and aromatic and has a large, flat pit. India is the world's largest mango producer."
+    },
+    "fun_fact": {
+      "de": "Die Mango ist die meistgegessene Frucht der Welt — noch vor Bananen und Äpfeln! In Teilen Asiens und Afrikas essen Menschen durchschnittlich mehrere Mangos pro Tag.",
+      "en": "The mango is the most eaten fruit in the world — more than bananas and apples! In parts of Asia and Africa, people eat several mangoes per day on average."
+    },
+    "flag_url": null,
+    "emoji": "🥭",
+    "qa_context": "Mango, tropisch, gelb/orange/rot/grün, Baum, sehr süß-aromatisch, großer Kern/Stein, Südasien (Indien größter Produzent), meistgegessene Frucht weltweit, Smoothies/Säfte/Desserts"
+  },
+  {
+    "id": "granatapfel",
+    "name": { "de": "Granatapfel", "en": "Pomegranate" },
+    "category": "obst",
+    "difficulty": 2,
+    "facts": {
+      "color": ["rot", "rosa"],
+      "grows_on": "Baum/Strauch",
+      "taste": "süß-herb, säuerlich",
+      "tropical": false,
+      "common_in_germany": false,
+      "season": ["Herbst", "Winter"]
+    },
+    "hints": [
+      { "de": "Es ist rund und dunkelrot und enthält hunderte rote Samen-Kügelchen", "en": "It is round and dark red and contains hundreds of red seed kernels" },
+      { "de": "Es ist eine Frucht aus dem Nahen Osten mit einer sehr harten Schale", "en": "It is a fruit from the Middle East with a very tough outer skin" },
+      { "de": "Es ist ein Symbol für Fruchtbarkeit und Leben in vielen Kulturen", "en": "It is a symbol of fertility and life in many cultures" }
+    ],
+    "description": {
+      "de": "Der Granatapfel ist eine rote Frucht aus dem Nahen Osten und Mittelmeerraum. Er enthält hunderte süß-säuerlicher Samenkerne (Arils). Er ist sehr reich an Antioxidantien.",
+      "en": "The pomegranate is a red fruit from the Middle East and Mediterranean. It contains hundreds of sweet-sour seed kernels (arils). It is very rich in antioxidants."
+    },
+    "fun_fact": {
+      "de": "Im alten Griechenland galt der Granatapfel als Symbol der Unterwelt — dem Mythos zufolge aß Persephone Granatapfelkerne und musste deshalb jeden Winter in der Unterwelt verbringen. Das erklärte den Jahreswechsel der Jahreszeiten!",
+      "en": "In ancient Greece, the pomegranate was a symbol of the underworld — according to myth, Persephone ate pomegranate seeds and therefore had to spend every winter in the underworld. This explained the changing of the seasons!"
+    },
+    "flag_url": null,
+    "emoji": "🍎",
+    "qa_context": "Granatapfel, Pomegranate, rund/dunkelrot, Baum/Strauch, Herbst/Winter, süß-herb/säuerlich, hunderte rote Samen-Arils, Naher Osten/Mittelmeer, viele Antioxidantien, Symbol Fruchtbarkeit/Glück in vielen Kulturen"
+  },
+  {
+    "id": "drachenfrucht",
+    "name": { "de": "Drachenfrucht", "en": "Dragon Fruit" },
+    "category": "obst",
+    "difficulty": 3,
+    "facts": {
+      "color": ["pink/rot (außen)", "weiß oder rot (innen)"],
+      "grows_on": "Kletterkaktus",
+      "taste": "mild, leicht süß",
+      "tropical": true,
+      "common_in_germany": false,
+      "season": ["ganzjährig (importiert)"]
+    },
+    "hints": [
+      { "de": "Sie ist außen leuchtend pink/rot mit grünen Schuppen", "en": "It is bright pink/red outside with green scales" },
+      { "de": "Sie wächst an einem Kaktus", "en": "It grows on a cactus" },
+      { "de": "Sie kommt aus Südostasien und Zentralamerika", "en": "It comes from Southeast Asia and Central America" }
+    ],
+    "description": {
+      "de": "Die Drachenfrucht ist eine exotische tropische Frucht mit leuchtend rosafarbener Schale und grünen Schuppen. Sie wächst an einem Kletternden Kaktus und hat weißes oder rotes Fruchtfleisch mit schwarzen Samen.",
+      "en": "The dragon fruit is an exotic tropical fruit with bright pink skin and green scales. It grows on a climbing cactus and has white or red flesh with black seeds."
+    },
+    "fun_fact": {
+      "de": "Die Drachenfrucht blüht nur nachts! Ihre riesigen weißen Blüten öffnen sich nach Sonnenuntergang und werden von Fledermäusen und Nachtmotten bestäubt. Am nächsten Morgen sind die Blüten bereits verblüht.",
+      "en": "Dragon fruit only blooms at night! Its huge white flowers open after sunset and are pollinated by bats and night moths. By the next morning, the flowers have already wilted."
+    },
+    "flag_url": null,
+    "emoji": "🍈",
+    "qa_context": "Drachenfrucht, Pitaya, leuchtend pink/rot außen, grüne Schuppen, weiß oder rot innen, Kletterkaktus, tropisch, mild/leicht süß, Südostasien/Zentralamerika, blüht nur nachts, exotisch"
+  },
+  {
+    "id": "maracuja",
+    "name": { "de": "Maracuja", "en": "Passion Fruit" },
+    "category": "obst",
+    "difficulty": 3,
+    "facts": {
+      "color": ["lila", "gelb"],
+      "grows_on": "Kletterpflanze",
+      "taste": "intensiv süß-säuerlich",
+      "tropical": true,
+      "common_in_germany": false,
+      "season": ["ganzjährig (importiert)"]
+    },
+    "hints": [
+      { "de": "Sie ist klein, rund und lila-braun mit faltigem Aussehen wenn reif", "en": "It is small, round and purple-brown with a wrinkled appearance when ripe" },
+      { "de": "Innen hat sie gelbes Fruchtfleisch mit schwarzen Samen", "en": "Inside it has yellow flesh with black seeds" },
+      { "de": "Sie riecht sehr intensiv-tropisch und ist typisch für Fruchtsäfte", "en": "It smells very intensely tropical and is typical in fruit juices" }
+    ],
+    "description": {
+      "de": "Die Maracuja ist eine kleine, runde tropische Frucht mit intensivem Aroma. Reife Früchte haben eine faltige, lila-braune Schale. Das gelbe Fruchtfleisch enthält viele schwarze Samen.",
+      "en": "The passion fruit is a small, round tropical fruit with an intense aroma. Ripe fruits have a wrinkled, purple-brown skin. The yellow flesh contains many black seeds."
+    },
+    "fun_fact": {
+      "de": "Der Name 'Passionsfrucht' hat nichts mit Leidenschaft zu tun! Spanische Missionare nannten die Blüte 'Passionsblume', weil sie Symbole der Passion Christi (der Kreuzigung) darin sahen — z.B. die 10 Blütenblätter als 10 Apostel.",
+      "en": "The name 'passion fruit' has nothing to do with passion! Spanish missionaries called the flower 'passion flower' because they saw symbols of Christ's passion (crucifixion) in it — e.g. the 10 petals as 10 apostles."
+    },
+    "flag_url": null,
+    "emoji": "🍋",
+    "qa_context": "Maracuja, Passionsfrucht, klein/rund, lila-braun (reif faltig), gelbes Fruchtfleisch/schwarze Samen, Kletterpflanze, intensiv süß-säuerlich, tropisch, Südamerika, sehr aromatisch, Säfte/Desserts"
+  },
+  {
+    "id": "jackfrucht",
+    "name": { "de": "Jackfrucht", "en": "Jackfruit" },
+    "category": "obst",
+    "difficulty": 3,
+    "facts": {
+      "color": ["grün/gelb (außen)", "gelb (innen)"],
+      "grows_on": "Baum",
+      "taste": "süß, aromatisch",
+      "tropical": true,
+      "common_in_germany": false,
+      "season": ["ganzjährig (importiert)"]
+    },
+    "hints": [
+      { "de": "Es ist die größte Baumfrucht der Welt — kann bis zu 40 kg wiegen", "en": "It is the world's largest tree fruit — can weigh up to 40 kg" },
+      { "de": "Unreif wird sie als Fleischersatz verwendet", "en": "Unripe, it is used as a meat substitute" },
+      { "de": "Sie wächst direkt am Stamm des Baumes", "en": "It grows directly on the trunk of the tree" }
+    ],
+    "description": {
+      "de": "Die Jackfrucht ist die größte Baumfrucht der Welt und kann bis zu 40 kg schwer werden. Sie wächst in Südostasien und wird reif als süße Frucht oder unreif als Fleischersatz gegessen.",
+      "en": "The jackfruit is the world's largest tree fruit and can weigh up to 40 kg. It grows in Southeast Asia and is eaten ripe as a sweet fruit or unripe as a meat substitute."
+    },
+    "fun_fact": {
+      "de": "Eine einzelne Jackfrucht kann genug Fleisch für eine ganze Familie liefern! In Indien und Bangladesch wird die Jackfrucht als Nationsfrucht bezeichnet und ist ein wichtiges Grundnahrungsmittel für Millionen von Menschen.",
+      "en": "A single jackfruit can provide enough flesh for a whole family! In India and Bangladesh, the jackfruit is considered a national fruit and is an important staple food for millions of people."
+    },
+    "flag_url": null,
+    "emoji": "🍈",
+    "qa_context": "Jackfrucht, größte Baumfrucht der Welt (bis 40kg), grün/gelblich außen, gelb innen, Baum (wächst am Stamm), süß, tropisch, Südostasien, unreif als Fleischersatz/Pulled Jackfruit, sehr bekannt in Indien"
+  }
+]

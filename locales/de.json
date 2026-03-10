@@ -1,0 +1,92 @@
+{
+  "appName": "Dingeraten",
+  "tagline": "Das Rätselspiel für Kinder",
+  "play": "Spielen",
+  "back": "Zurück",
+  "close": "Schließen",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+
+  "setup": {
+    "chooseCategory": "Wähle eine Kategorie",
+    "chooseDifficulty": "Wähle die Schwierigkeit",
+    "start": "Los geht's!",
+    "categories": {
+      "laender": "Länder",
+      "hauptstaedte": "Hauptstädte",
+      "gemuese": "Gemüse",
+      "obst": "Obst",
+      "tiere": "Tiere"
+    },
+    "difficulties": {
+      "1": "Einfach",
+      "2": "Mittel",
+      "3": "Schwer",
+      "4": "Steigend"
+    },
+    "difficultyDesc": {
+      "1": "Bekannte Dinge",
+      "2": "Etwas schwieriger",
+      "3": "Für Profis",
+      "4": "Wird immer schwerer"
+    }
+  },
+
+  "game": {
+    "questionCounter": "Frage {n} von {max}",
+    "inputPlaceholder": "Stelle eine Ja/Nein-Frage ...",
+    "send": "Fragen",
+    "hint": "Tipp",
+    "iKnowIt": "Ich weiß es!",
+    "guessPrompt": "Was ist es?",
+    "guessPlaceholder": "Deine Antwort ...",
+    "guessButton": "Prüfen",
+    "giveUp": "Aufgeben",
+    "hintPrefix": "Tipp: ",
+    "noMoreHints": "Keine weiteren Tipps verfügbar.",
+    "maxQuestionsReached": "Du hast alle 20 Fragen gestellt! Was glaubst du, was es ist?",
+    "thinking": "Ich denke nach ...",
+    "micStart": "Sprich jetzt ...",
+    "micStop": "Aufnahme stoppen"
+  },
+
+  "answers": {
+    "yes": "Ja",
+    "no": "Nein",
+    "partial": "Teilweise",
+    "unclear": "Das ist eine gute Frage! Kannst du sie genauer stellen?",
+    "unknown": "Das weiß ich leider nicht genau. Frag etwas anderes!",
+    "correct": "🎉 Richtig! Du hast es erraten!",
+    "wrong": "Leider falsch. Versuch es nochmal!"
+  },
+
+  "result": {
+    "wonTitle": "Super! Du hast es erraten!",
+    "lostTitle": "Schade! Das war zu schwer.",
+    "theSolutionWas": "Die Lösung war:",
+    "funFact": "Wusstest du schon?",
+    "questions": "Du hast {n} Fragen gestellt.",
+    "questionsWithHints": "Du hast {n} Fragen und {h} Tipp(s) genutzt.",
+    "playAgain": "Nochmal",
+    "newCategory": "Neue Kategorie"
+  },
+
+  "settings": {
+    "title": "Einstellungen",
+    "apiKeyLabel": "OpenAI API-Key",
+    "apiKeyPlaceholder": "sk-...",
+    "apiKeyHint": "Optional. Ohne Key werden einfachere Offline-Antworten gegeben.",
+    "apiKeyTest": "Testen",
+    "apiKeyValid": "✓ Key ist gültig",
+    "apiKeyInvalid": "✗ Key ist ungültig",
+    "howToGetKey": "Wie bekomme ich einen Key?",
+    "language": "Sprache"
+  },
+
+  "errors": {
+    "noCategory": "Bitte wähle zuerst eine Kategorie.",
+    "noDifficulty": "Bitte wähle eine Schwierigkeit.",
+    "loadFailed": "Daten konnten nicht geladen werden. Bitte versuche es erneut.",
+    "apiError": "Verbindungsfehler. Verwende Offline-Modus."
+  }
+}
