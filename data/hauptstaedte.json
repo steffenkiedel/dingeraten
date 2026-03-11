@@ -1072,5 +1072,2500 @@
     "qa_context": "Reykjavík, Reykjavik, Hauptstadt Island, 130.000 Einwohner, nördlichste Hauptstadt der Welt, Nordatlantik, Europa, Isländisch, bekannt für Nordlichter, Geysire, Geothermie, Vulkane, Mitternachtssonne, sicherste Stadt der Welt",
     "lat": 64.1,
     "lng": -21.9
+  },
+  {
+    "id": "bruessel",
+    "name": {
+      "de": "Brüssel",
+      "en": "Brussels"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 50.85,
+    "lng": 4.35,
+    "facts": {
+      "country": "Belgien",
+      "country_en": "Belgium",
+      "continent": "Europa",
+      "population_million": 1.2,
+      "special": [
+        "EU-Hauptquartier",
+        "NATO-Hauptquartier",
+        "dreisprachig"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Belgien",
+        "en": "It is the capital of Belgium"
+      },
+      {
+        "de": "Hier hat die Europäische Union ihren Hauptsitz",
+        "en": "The European Union is headquartered here"
+      },
+      {
+        "de": "Es ist bekannt für belgische Schokolade und Waffeln",
+        "en": "It is known for Belgian chocolate and waffles"
+      }
+    ],
+    "description": {
+      "de": "Brüssel ist die Hauptstadt Belgiens und de facto Hauptstadt der Europäischen Union, bekannt für Schokolade, Waffeln und das Atomium.",
+      "en": "Brussels is the capital of Belgium and de facto capital of the European Union, known for chocolate, waffles, and the Atomium."
+    },
+    "fun_fact": {
+      "de": "Das berühmte Manneken Pis in Brüssel ist eine kleine Bronzestatue eines urinierenden Jungen – und das beliebteste Wahrzeichen der Stadt!",
+      "en": "The famous Manneken Pis in Brussels is a small bronze statue of a urinating boy – and the city's most popular landmark!"
+    },
+    "emoji": "🇧🇪",
+    "flag_url": null,
+    "qa_context": "Brüssel, Belgien, Europa, EU-Hauptquartier, NATO, 1,2 Mio., dreisprachig, Schokolade, Waffeln, Atomium"
+  },
+  {
+    "id": "kopenhagen",
+    "name": {
+      "de": "Kopenhagen",
+      "en": "Copenhagen"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 55.68,
+    "lng": 12.57,
+    "facts": {
+      "country": "Dänemark",
+      "country_en": "Denmark",
+      "continent": "Europa",
+      "population_million": 0.8,
+      "special": [
+        "LEGO-Heimat",
+        "Meerjungfrau-Statue",
+        "Skandinavien"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Dänemark",
+        "en": "It is the capital of Denmark"
+      },
+      {
+        "de": "Die Kleine Meerjungfrau-Statue steht hier",
+        "en": "The Little Mermaid statue stands here"
+      },
+      {
+        "de": "Es ist eine der fahrradfreundlichsten Städte der Welt",
+        "en": "It is one of the most bike-friendly cities in the world"
+      }
+    ],
+    "description": {
+      "de": "Kopenhagen ist die Hauptstadt Dänemarks und eine der schönsten Städte Skandinaviens, bekannt für Nyhavn, die Kleine Meerjungfrau und Fahrräder.",
+      "en": "Copenhagen is the capital of Denmark and one of the most beautiful cities in Scandinavia, known for Nyhavn, the Little Mermaid, and bicycles."
+    },
+    "fun_fact": {
+      "de": "In Kopenhagen gibt es mehr Fahrräder als Menschen – die Kopenhagener legen täglich zusammen über 1 Million Kilometer mit dem Rad zurück!",
+      "en": "Copenhagen has more bicycles than people – Copenhagen residents collectively cycle over 1 million kilometers a day!"
+    },
+    "emoji": "🇩🇰",
+    "flag_url": null,
+    "qa_context": "Kopenhagen, Dänemark, Skandinavien, 800.000, Kleine Meerjungfrau, Nyhavn, Fahrräder, Tivoli"
+  },
+  {
+    "id": "helsinki",
+    "name": {
+      "de": "Helsinki",
+      "en": "Helsinki"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 60.17,
+    "lng": 24.94,
+    "facts": {
+      "country": "Finnland",
+      "country_en": "Finland",
+      "continent": "Europa",
+      "population_million": 0.65,
+      "special": [
+        "nördlichste EU-Hauptstadt",
+        "Design",
+        "Saunas"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Finnland",
+        "en": "It is the capital of Finland"
+      },
+      {
+        "de": "Es liegt direkt gegenüber von Tallinn an der Ostsee",
+        "en": "It is directly opposite Tallinn on the Baltic Sea"
+      },
+      {
+        "de": "Es ist die nördlichste Hauptstadt der EU",
+        "en": "It is the northernmost capital of the EU"
+      }
+    ],
+    "description": {
+      "de": "Helsinki ist die Hauptstadt Finnlands und liegt auf einer Halbinsel an der Ostsee, bekannt für sein Design und die finnische Sauna-Kultur.",
+      "en": "Helsinki is the capital of Finland and is located on a peninsula on the Baltic Sea, known for its design and Finnish sauna culture."
+    },
+    "fun_fact": {
+      "de": "Helsinki hat mehr Saunas pro Einwohner als jede andere Hauptstadt der Welt – Saunakultur ist in Finnland tief verwurzelt!",
+      "en": "Helsinki has more saunas per capita than any other capital in the world – sauna culture is deeply rooted in Finland!"
+    },
+    "emoji": "🇫🇮",
+    "flag_url": null,
+    "qa_context": "Helsinki, Finnland, Ostsee, Nordeuropa, 650.000, Design, Sauna, nördlichste EU-Hauptstadt"
+  },
+  {
+    "id": "dublin",
+    "name": {
+      "de": "Dublin",
+      "en": "Dublin"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 53.33,
+    "lng": -6.25,
+    "facts": {
+      "country": "Irland",
+      "country_en": "Ireland",
+      "continent": "Europa",
+      "population_million": 1.4,
+      "special": [
+        "Guinness-Brauerei",
+        "Trinity College",
+        "Wikinger-Gründung"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Irland",
+        "en": "It is the capital of Ireland"
+      },
+      {
+        "de": "Hier wurde Guinness-Bier erfunden",
+        "en": "Guinness beer was invented here"
+      },
+      {
+        "de": "Es liegt auf der Insel Irland",
+        "en": "It is on the island of Ireland"
+      }
+    ],
+    "description": {
+      "de": "Dublin ist die lebhafte Hauptstadt Irlands, bekannt für Pubs, das Guinness Storehouse, Trinity College und die irische Gemütlichkeit.",
+      "en": "Dublin is the vibrant capital of Ireland, known for its pubs, the Guinness Storehouse, Trinity College, and Irish hospitality."
+    },
+    "fun_fact": {
+      "de": "Das Book of Kells in Dublins Trinity College ist ein über 1.200 Jahre altes, handgeschriebenes Evangelienbuch – eines der schönsten Bücher der Welt!",
+      "en": "The Book of Kells at Dublin's Trinity College is a hand-written gospel book over 1,200 years old – one of the most beautiful books in the world!"
+    },
+    "emoji": "🇮🇪",
+    "flag_url": null,
+    "qa_context": "Dublin, Irland, Insel, Westeuropa, 1,4 Mio., Guinness, Trinity College, Pubs, irisch"
+  },
+  {
+    "id": "prag",
+    "name": {
+      "de": "Prag",
+      "en": "Prague"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 50.08,
+    "lng": 14.44,
+    "facts": {
+      "country": "Tschechien",
+      "country_en": "Czech Republic",
+      "continent": "Europa",
+      "population_million": 1.3,
+      "special": [
+        "Prager Burg",
+        "Karlsbrücke",
+        "mittelalterliche Altstadt"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Tschechien",
+        "en": "It is the capital of the Czech Republic"
+      },
+      {
+        "de": "Seine Altstadt zählt zum UNESCO-Welterbe",
+        "en": "Its old town is a UNESCO World Heritage Site"
+      },
+      {
+        "de": "Es liegt an der Moldau",
+        "en": "It lies on the Vltava river"
+      }
+    ],
+    "description": {
+      "de": "Prag ist die Hauptstadt Tschechiens und eine der schönsten Städte Europas mit mittelalterlicher Altstadt, Prager Burg und Karlsbrücke.",
+      "en": "Prague is the capital of the Czech Republic and one of the most beautiful cities in Europe with its medieval old town, Prague Castle, and Charles Bridge."
+    },
+    "fun_fact": {
+      "de": "Die Prager Burg ist mit 70.000 m² die größte Burganlage der Welt!",
+      "en": "Prague Castle is the world's largest castle complex at 70,000 m²!"
+    },
+    "emoji": "🇨🇿",
+    "flag_url": null,
+    "qa_context": "Prag, Tschechien, Mitteleuropa, 1,3 Mio., Moldau, Prager Burg, Karlsbrücke, UNESCO, Altstadt"
+  },
+  {
+    "id": "budapest",
+    "name": {
+      "de": "Budapest",
+      "en": "Budapest"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 47.5,
+    "lng": 19.04,
+    "facts": {
+      "country": "Ungarn",
+      "country_en": "Hungary",
+      "continent": "Europa",
+      "population_million": 1.8,
+      "special": [
+        "Donau",
+        "Thermalquellen",
+        "Parlamentsgebäude"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Ungarn",
+        "en": "It is the capital of Hungary"
+      },
+      {
+        "de": "Es liegt an der Donau und besteht aus Buda und Pest",
+        "en": "It lies on the Danube and consists of Buda and Pest"
+      },
+      {
+        "de": "Es ist bekannt für seine Thermalbäder",
+        "en": "It is known for its thermal baths"
+      }
+    ],
+    "description": {
+      "de": "Budapest, die Hauptstadt Ungarns, liegt malerisch an der Donau und ist bekannt für seine Thermalbäder, das Parlamentsgebäude und die Burg.",
+      "en": "Budapest, the capital of Hungary, sits majestically on the Danube and is known for its thermal baths, parliament building, and castle."
+    },
+    "fun_fact": {
+      "de": "Budapest entstand 1873 durch die Zusammenlegung von drei Städten: Óbuda, Buda und Pest!",
+      "en": "Budapest was created in 1873 by merging three cities: Óbuda, Buda, and Pest!"
+    },
+    "emoji": "🇭🇺",
+    "flag_url": null,
+    "qa_context": "Budapest, Ungarn, Donau, Mitteleuropa, 1,8 Mio., Thermalbäder, Parlament, Burg, Buda, Pest"
+  },
+  {
+    "id": "bukarest",
+    "name": {
+      "de": "Bukarest",
+      "en": "Bucharest"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 44.43,
+    "lng": 26.1,
+    "facts": {
+      "country": "Rumänien",
+      "country_en": "Romania",
+      "continent": "Europa",
+      "population_million": 1.8,
+      "special": [
+        "Parlamentspalast",
+        "Balkan",
+        "Paris des Ostens"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Rumänien",
+        "en": "It is the capital of Romania"
+      },
+      {
+        "de": "Es wurde einst 'Paris des Ostens' genannt",
+        "en": "It was once called the 'Paris of the East'"
+      },
+      {
+        "de": "Hier steht das zweitgrößte Gebäude der Welt",
+        "en": "The world's second largest building is here"
+      }
+    ],
+    "description": {
+      "de": "Bukarest ist die Hauptstadt Rumäniens und beherbergt den Parlamentspalast, das zweitgrößte Gebäude der Welt nach dem Pentagon.",
+      "en": "Bucharest is the capital of Romania and home to the Palace of Parliament, the world's second largest building after the Pentagon."
+    },
+    "fun_fact": {
+      "de": "Der Parlamentspalast in Bukarest hat über 1.000 Zimmer, 12 Stockwerke und ist so groß, dass er seinen eigenen Tunnel hat!",
+      "en": "The Palace of Parliament in Bucharest has over 1,000 rooms, 12 stories, and is so large it has its own tunnel!"
+    },
+    "emoji": "🇷🇴",
+    "flag_url": null,
+    "qa_context": "Bukarest, Rumänien, Osteuropa, 1,8 Mio., Parlamentspalast, Paris des Ostens, Balkan"
+  },
+  {
+    "id": "zagreb",
+    "name": {
+      "de": "Zagreb",
+      "en": "Zagreb"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 45.82,
+    "lng": 15.98,
+    "facts": {
+      "country": "Kroatien",
+      "country_en": "Croatia",
+      "continent": "Europa",
+      "population_million": 0.8,
+      "special": [
+        "Adria-Nähe",
+        "Medvednica",
+        "Advent-Weihnachtsmarkt"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Kroatien",
+        "en": "It is the capital of Croatia"
+      },
+      {
+        "de": "Es liegt im Norden Kroatiens nahe der Adria",
+        "en": "It is in northern Croatia near the Adriatic"
+      },
+      {
+        "de": "Der Weihnachtsmarkt hier wurde zum schönsten Europas gewählt",
+        "en": "The Christmas market here was voted Europe's most beautiful"
+      }
+    ],
+    "description": {
+      "de": "Zagreb ist die Hauptstadt Kroatiens, eine gemütliche mitteleuropäische Stadtmit historischer Altstadt, Museen und einem weltberühmten Weihnachtsmarkt.",
+      "en": "Zagreb is the capital of Croatia, a cozy Central European city with a historic old town, museums, and a world-famous Christmas market."
+    },
+    "fun_fact": {
+      "de": "Der Weihnachtsmarkt in Zagreb wurde mehrfach zum schönsten Europas gewählt – er verwandelt die Stadt in ein Wintermärchen!",
+      "en": "Zagreb's Christmas market has been voted Europe's most beautiful multiple times – it transforms the city into a winter fairytale!"
+    },
+    "emoji": "🇭🇷",
+    "flag_url": null,
+    "qa_context": "Zagreb, Kroatien, Südosteuropa, 800.000, Adria, Weihnachtsmarkt, Altstadt, Medvednica"
+  },
+  {
+    "id": "kiew",
+    "name": {
+      "de": "Kiew",
+      "en": "Kyiv"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 50.45,
+    "lng": 30.52,
+    "facts": {
+      "country": "Ukraine",
+      "country_en": "Ukraine",
+      "continent": "Europa",
+      "population_million": 2.9,
+      "special": [
+        "älteste Hauptstadt Osteuropas",
+        "Goldenes Tor",
+        "Höhlenkloster"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt der Ukraine",
+        "en": "It is the capital of Ukraine"
+      },
+      {
+        "de": "Es ist eine der ältesten Städte Osteuropas",
+        "en": "It is one of the oldest cities in Eastern Europe"
+      },
+      {
+        "de": "Es liegt am Dnjepr-Fluss",
+        "en": "It lies on the Dnipro River"
+      }
+    ],
+    "description": {
+      "de": "Kiew (Kyiv) ist die Hauptstadt der Ukraine und eine der ältesten Städte Europas, bekannt für das Goldene Tor, Kirchen und das Höhlenkloster.",
+      "en": "Kyiv is the capital of Ukraine and one of the oldest cities in Europe, known for the Golden Gate, churches, and the Pechersk Lavra monastery."
+    },
+    "fun_fact": {
+      "de": "Kiew ist über 1.500 Jahre alt und war im Mittelalter eine der größten Städte der Welt!",
+      "en": "Kyiv is over 1,500 years old and was one of the largest cities in the world during the Middle Ages!"
+    },
+    "emoji": "🇺🇦",
+    "flag_url": null,
+    "qa_context": "Kiew, Kyiv, Ukraine, Dnjepr, Osteuropa, 2,9 Mio., alte Stadt, Höhlenkloster, Goldenes Tor"
+  },
+  {
+    "id": "luxemburg_h",
+    "name": {
+      "de": "Luxemburg",
+      "en": "Luxembourg City"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 49.61,
+    "lng": 6.13,
+    "facts": {
+      "country": "Luxemburg",
+      "country_en": "Luxembourg",
+      "continent": "Europa",
+      "population_million": 0.13,
+      "special": [
+        "EU-Institutionen",
+        "Festungsstadt",
+        "reich"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt des gleichnamigen kleinen Landes",
+        "en": "It is the capital of the small country of the same name"
+      },
+      {
+        "de": "Es liegt im Herzen Westeuropas zwischen Deutschland und Frankreich",
+        "en": "It is in the heart of Western Europe between Germany and France"
+      },
+      {
+        "de": "Es ist eine der ältesten Festungsstädte Europas",
+        "en": "It is one of the oldest fortified cities in Europe"
+      }
+    ],
+    "description": {
+      "de": "Luxemburg-Stadt ist die Hauptstadt des gleichnamigen Großherzogtums und eine der kleinsten Hauptstädte Europas, bekannt als Finanz- und EU-Zentrum.",
+      "en": "Luxembourg City is the capital of the Grand Duchy of the same name and one of Europe's smallest capitals, known as a financial and EU center."
+    },
+    "fun_fact": {
+      "de": "Luxemburg-Stadt liegt auf einem Fels mit tiefen Schluchten – im Mittelalter war es deshalb fast uneinnehmbar!",
+      "en": "Luxembourg City sits on a rock with deep gorges – in the Middle Ages this made it almost impregnable!"
+    },
+    "emoji": "🇱🇺",
+    "flag_url": null,
+    "qa_context": "Luxemburg, Westeuropa, EU, Finanzplatz, 130.000, Festung, Fels, dreisprachig"
+  },
+  {
+    "id": "vilnius",
+    "name": {
+      "de": "Vilnius",
+      "en": "Vilnius"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 54.69,
+    "lng": 25.28,
+    "facts": {
+      "country": "Litauen",
+      "country_en": "Lithuania",
+      "continent": "Europa",
+      "population_million": 0.57,
+      "special": [
+        "Baltikum",
+        "barocke Altstadt",
+        "UNESCO"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Litauen",
+        "en": "It is the capital of Lithuania"
+      },
+      {
+        "de": "Es liegt im Baltikum",
+        "en": "It is in the Baltic region"
+      },
+      {
+        "de": "Seine barocke Altstadt steht auf der UNESCO-Liste",
+        "en": "Its baroque old town is on the UNESCO list"
+      }
+    ],
+    "description": {
+      "de": "Vilnius ist die Hauptstadt Litauens und bekannt für ihre wunderschöne barocke Altstadt, die zum UNESCO-Welterbe gehört.",
+      "en": "Vilnius is the capital of Lithuania and known for its beautiful baroque old town, which is a UNESCO World Heritage Site."
+    },
+    "fun_fact": {
+      "de": "Vilnius hat mehr barocke Kirchen als jede andere Stadt in Osteuropa – Barock soweit das Auge reicht!",
+      "en": "Vilnius has more baroque churches than any other city in Eastern Europe – baroque as far as the eye can see!"
+    },
+    "emoji": "🇱🇹",
+    "flag_url": null,
+    "qa_context": "Vilnius, Litauen, Baltikum, Ostsee, 570.000, Barock, UNESCO, baltische Hauptstadt"
+  },
+  {
+    "id": "riga",
+    "name": {
+      "de": "Riga",
+      "en": "Riga"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 56.95,
+    "lng": 24.11,
+    "facts": {
+      "country": "Lettland",
+      "country_en": "Latvia",
+      "continent": "Europa",
+      "population_million": 0.61,
+      "special": [
+        "Jugendstil-Architektur",
+        "Baltikum",
+        "UNESCO"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Lettland",
+        "en": "It is the capital of Latvia"
+      },
+      {
+        "de": "Es ist die größte Stadt im Baltikum",
+        "en": "It is the largest city in the Baltics"
+      },
+      {
+        "de": "Es ist bekannt für seine Jugendstil-Architektur",
+        "en": "It is known for its Art Nouveau architecture"
+      }
+    ],
+    "description": {
+      "de": "Riga ist die Hauptstadt Lettlands und die größte Stadt im Baltikum, bekannt für ihre beeindruckende Jugendstil-Architektur und mittelalterliche Altstadt.",
+      "en": "Riga is the capital of Latvia and the largest city in the Baltic states, known for its impressive Art Nouveau architecture and medieval old town."
+    },
+    "fun_fact": {
+      "de": "Riga hat die meisten Jugendstil-Gebäude pro Quadratkilometer weltweit – über ein Drittel aller Häuser der Innenstadt sind Jugendstil!",
+      "en": "Riga has the most Art Nouveau buildings per square kilometer in the world – over a third of all city center buildings are Art Nouveau!"
+    },
+    "emoji": "🇱🇻",
+    "flag_url": null,
+    "qa_context": "Riga, Lettland, Baltikum, Ostsee, 610.000, Jugendstil, UNESCO, größte baltische Stadt"
+  },
+  {
+    "id": "tallinn",
+    "name": {
+      "de": "Tallinn",
+      "en": "Tallinn"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 59.44,
+    "lng": 24.75,
+    "facts": {
+      "country": "Estland",
+      "country_en": "Estonia",
+      "continent": "Europa",
+      "population_million": 0.44,
+      "special": [
+        "mittelalterliche Altstadt",
+        "digital",
+        "Ostsee"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Estland",
+        "en": "It is the capital of Estonia"
+      },
+      {
+        "de": "Es liegt am Finnischen Meerbusen gegenüber Helsinki",
+        "en": "It is on the Gulf of Finland opposite Helsinki"
+      },
+      {
+        "de": "Seine mittelalterliche Altstadt ist sehr gut erhalten",
+        "en": "Its medieval old town is very well preserved"
+      }
+    ],
+    "description": {
+      "de": "Tallinn ist die Hauptstadt Estlands und bekannt für ihre außergewöhnlich gut erhaltene mittelalterliche Altstadt und ihre führende Rolle in der digitalen Welt.",
+      "en": "Tallinn is the capital of Estonia, known for its extraordinarily well-preserved medieval old town and leading role in the digital world."
+    },
+    "fun_fact": {
+      "de": "Skype wurde in Tallinn entwickelt – Estland ist bekannt als das 'Silicon Valley Europas'!",
+      "en": "Skype was developed in Tallinn – Estonia is known as Europe's Silicon Valley!"
+    },
+    "emoji": "🇪🇪",
+    "flag_url": null,
+    "qa_context": "Tallinn, Estland, Baltikum, Ostsee, 440.000, Mittelalter, Altstadt, digital, Skype"
+  },
+  {
+    "id": "tirana",
+    "name": {
+      "de": "Tirana",
+      "en": "Tirana"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 41.33,
+    "lng": 19.82,
+    "facts": {
+      "country": "Albanien",
+      "country_en": "Albania",
+      "continent": "Europa",
+      "population_million": 0.9,
+      "special": [
+        "Balkan",
+        "bunte Gebäude",
+        "junge Bevölkerung"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Albanien",
+        "en": "It is the capital of Albania"
+      },
+      {
+        "de": "Es liegt auf dem Balkan",
+        "en": "It is on the Balkan Peninsula"
+      },
+      {
+        "de": "Seine bunten Gebäude sind ein Erkennungszeichen",
+        "en": "Its colorful buildings are a hallmark"
+      }
+    ],
+    "description": {
+      "de": "Tirana ist die Hauptstadt Albaniens und eine der jüngsten und farbenfröhlichsten Städte Europas mit bunten Gebäuden und einer wachsenden Kunstszene.",
+      "en": "Tirana is the capital of Albania and one of Europe's youngest and most colorful cities with painted buildings and a growing art scene."
+    },
+    "fun_fact": {
+      "de": "In den 2000ern ließ der damalige Bürgermeister alle grauen Gebäude Tiranas in leuchtenden Farben anmalen – um die Menschen aufzuheitern!",
+      "en": "In the 2000s, the then-mayor had all of Tirana's grey buildings painted in bright colors – to cheer people up!"
+    },
+    "emoji": "🇦🇱",
+    "flag_url": null,
+    "qa_context": "Tirana, Albanien, Balkan, Südeuropa, 900.000, bunte Gebäude, jung, wachsend"
+  },
+  {
+    "id": "bangkok",
+    "name": {
+      "de": "Bangkok",
+      "en": "Bangkok"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 13.75,
+    "lng": 100.52,
+    "facts": {
+      "country": "Thailand",
+      "country_en": "Thailand",
+      "continent": "Asien",
+      "population_million": 10.7,
+      "special": [
+        "Tempel",
+        "Tuk-Tuks",
+        "längster Stadtname"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Thailand",
+        "en": "It is the capital of Thailand"
+      },
+      {
+        "de": "Es ist bekannt für goldene Tempel und Tuk-Tuks",
+        "en": "It is known for golden temples and tuk-tuks"
+      },
+      {
+        "de": "Es hat den längsten offiziellen Stadtnamen der Welt",
+        "en": "It has the world's longest official city name"
+      }
+    ],
+    "description": {
+      "de": "Bangkok ist die pulsierende Hauptstadt Thailands, bekannt für prachtvolleTempel, Straßenessen, Tuk-Tuks und ein unglaublich lebendiges Stadtleben.",
+      "en": "Bangkok is the vibrant capital of Thailand, known for magnificent temples, street food, tuk-tuks, and an incredibly lively city life."
+    },
+    "fun_fact": {
+      "de": "Bangkoks offizieller Name hat 169 Zeichen – auf Thai lautet er 'Krung Thep Maha Nakhon...' – Stadtbewohner nennen ihn einfach Krung Thep!",
+      "en": "Bangkok's official name has 169 characters – in Thai it reads 'Krung Thep Maha Nakhon...' – city residents simply call it Krung Thep!"
+    },
+    "emoji": "🇹🇭",
+    "flag_url": null,
+    "qa_context": "Bangkok, Thailand, Südostasien, 10,7 Mio., Tempel, Tuk-Tuk, Straßenessen, längster Stadtname, Chao Phraya"
+  },
+  {
+    "id": "hanoi",
+    "name": {
+      "de": "Hanoi",
+      "en": "Hanoi"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 21.03,
+    "lng": 105.85,
+    "facts": {
+      "country": "Vietnam",
+      "country_en": "Vietnam",
+      "continent": "Asien",
+      "population_million": 8.1,
+      "special": [
+        "Altstadt",
+        "Seenreiche Stadt",
+        "Pho"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Vietnam",
+        "en": "It is the capital of Vietnam"
+      },
+      {
+        "de": "Es liegt im Norden des Landes",
+        "en": "It is in the north of the country"
+      },
+      {
+        "de": "Es ist bekannt für Motorräder und Pho-Suppe",
+        "en": "It is known for motorbikes and pho soup"
+      }
+    ],
+    "description": {
+      "de": "Hanoi ist die Hauptstadt Vietnams und bekannt für ihre lebhafte Altstadt, zahlreiche Seen und das charmante Chaos aus Millionen Motorrädern.",
+      "en": "Hanoi is the capital of Vietnam and known for its vibrant old quarter, numerous lakes, and the charming chaos of millions of motorcycles."
+    },
+    "fun_fact": {
+      "de": "In Hanoi gibt es so viele Motorräder, dass es eigene Ampelphasen nur für Motorräder gibt – man rechnet mit über 5 Millionen!",
+      "en": "Hanoi has so many motorbikes that there are traffic light phases just for motorbikes – over 5 million are estimated!"
+    },
+    "emoji": "🇻🇳",
+    "flag_url": null,
+    "qa_context": "Hanoi, Vietnam, Südostasien, 8,1 Mio., Altstadt, Motorräder, Pho, Seen, Nordvietnam"
+  },
+  {
+    "id": "jakarta",
+    "name": {
+      "de": "Jakarta",
+      "en": "Jakarta"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": -6.21,
+    "lng": 106.85,
+    "facts": {
+      "country": "Indonesien",
+      "country_en": "Indonesia",
+      "continent": "Asien",
+      "population_million": 10.6,
+      "special": [
+        "sinkt ins Meer",
+        "Metropolregion 34 Mio.",
+        "Hauptstadt wird verlegt"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Indonesien",
+        "en": "It is the capital of Indonesia"
+      },
+      {
+        "de": "Es liegt auf der Insel Java",
+        "en": "It is on the island of Java"
+      },
+      {
+        "de": "Es ist eine der bevölkerungsreichsten Städte der Welt",
+        "en": "It is one of the most populous cities in the world"
+      }
+    ],
+    "description": {
+      "de": "Jakarta ist die Hauptstadt Indonesiens und eine der größten Städte der Welt, die jedoch wegen des Absinkens ins Meer und Überflutungen eine neue Hauptstadt bekommt.",
+      "en": "Jakarta is the capital of Indonesia and one of the world's largest cities, but is getting a new capital due to sinking into the sea and flooding."
+    },
+    "fun_fact": {
+      "de": "Jakarta sinkt jährlich bis zu 25 cm ins Erdreich – deshalb baut Indonesien eine brandneue Hauptstadt namens Nusantara!",
+      "en": "Jakarta sinks up to 25 cm into the ground annually – that's why Indonesia is building a brand new capital called Nusantara!"
+    },
+    "emoji": "🇮🇩",
+    "flag_url": null,
+    "qa_context": "Jakarta, Indonesien, Südostasien, Java, 10,6 Mio., sinkt, Nusantara, Metropole, tropisch"
+  },
+  {
+    "id": "kuala_lumpur",
+    "name": {
+      "de": "Kuala Lumpur",
+      "en": "Kuala Lumpur"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 3.15,
+    "lng": 101.7,
+    "facts": {
+      "country": "Malaysia",
+      "country_en": "Malaysia",
+      "continent": "Asien",
+      "population_million": 1.8,
+      "special": [
+        "Petronas Twin Towers",
+        "Regenwald nahe",
+        "Multikulturell"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Malaysia",
+        "en": "It is the capital of Malaysia"
+      },
+      {
+        "de": "Hier stehen die Petronas Twin Towers",
+        "en": "The Petronas Twin Towers are here"
+      },
+      {
+        "de": "Es liegt in Südostasien",
+        "en": "It is in Southeast Asia"
+      }
+    ],
+    "description": {
+      "de": "Kuala Lumpur ist die Hauptstadt Malaysias und bekannt für die imposanten Petronas Twin Towers, eine lebendige multikulturelle Gesellschaft und tolle Küche.",
+      "en": "Kuala Lumpur is the capital of Malaysia, known for the impressive Petronas Twin Towers, a vibrant multicultural society, and great food."
+    },
+    "fun_fact": {
+      "de": "'Kuala Lumpur' bedeutet auf Malaiisch 'schlammiger Zusammenfluss' – benannt nach der trüben Stelle, wo zwei Flüsse zusammenfließen!",
+      "en": "'Kuala Lumpur' means 'muddy confluence' in Malay – named after the murky spot where two rivers meet!"
+    },
+    "emoji": "🇲🇾",
+    "flag_url": null,
+    "qa_context": "Kuala Lumpur, Malaysia, Südostasien, 1,8 Mio., Petronas Towers, multikulturell, Regenwald nahe"
+  },
+  {
+    "id": "manila",
+    "name": {
+      "de": "Manila",
+      "en": "Manila"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 14.6,
+    "lng": 120.98,
+    "facts": {
+      "country": "Philippinen",
+      "country_en": "Philippines",
+      "continent": "Asien",
+      "population_million": 1.8,
+      "special": [
+        "Metropolregion 24 Mio.",
+        "Intramuros",
+        "Jeepney"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt der Philippinen",
+        "en": "It is the capital of the Philippines"
+      },
+      {
+        "de": "Es liegt auf der Insel Luzon",
+        "en": "It is on the island of Luzon"
+      },
+      {
+        "de": "Es ist eine der dichtbesiedelten Städte der Welt",
+        "en": "It is one of the most densely populated cities in the world"
+      }
+    ],
+    "description": {
+      "de": "Manila ist die Hauptstadt der Philippinen und eine der bevölkerungsreichsten Städte Asiens, bekannt für Intramuros, Jeepneys und Straßenessen.",
+      "en": "Manila is the capital of the Philippines and one of Asia's most populous cities, known for Intramuros, jeepneys, and street food."
+    },
+    "fun_fact": {
+      "de": "Manila ist die am dichtesten besiedelte Stadt der Welt – auf einem Quadratkilometer leben dort durchschnittlich 71.000 Menschen!",
+      "en": "Manila is the world's most densely populated city – on average 71,000 people live per square kilometer!"
+    },
+    "emoji": "🇵🇭",
+    "flag_url": null,
+    "qa_context": "Manila, Philippinen, Asien, Luzon, 1,8 Mio., Metropole, Jeepney, Intramuros, dicht besiedelt"
+  },
+  {
+    "id": "islamabad",
+    "name": {
+      "de": "Islamabad",
+      "en": "Islamabad"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 33.72,
+    "lng": 73.06,
+    "facts": {
+      "country": "Pakistan",
+      "country_en": "Pakistan",
+      "continent": "Asien",
+      "population_million": 1.2,
+      "special": [
+        "geplante Hauptstadt",
+        "Faisalmoscheee",
+        "Himalaya nahe"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Pakistan",
+        "en": "It is the capital of Pakistan"
+      },
+      {
+        "de": "Es ist eine komplett neu geplante Stadt",
+        "en": "It is a completely planned city"
+      },
+      {
+        "de": "Es liegt am Fuß des Himalaya",
+        "en": "It is at the foot of the Himalayas"
+      }
+    ],
+    "description": {
+      "de": "Islamabad ist die geplante Hauptstadt Pakistans, eine moderne, grüne Stadt am Fuß des Himalaya, die erst in den 1960ern gebaut wurde.",
+      "en": "Islamabad is the planned capital of Pakistan, a modern, green city at the foot of the Himalayas, only built in the 1960s."
+    },
+    "fun_fact": {
+      "de": "Islamabad ist eine der grünsten Hauptstädte der Welt – pro Kopf gibt es dort mehr Bäume als in fast jeder anderen Hauptstadt!",
+      "en": "Islamabad is one of the greenest capitals in the world – per capita it has more trees than almost any other capital!"
+    },
+    "emoji": "🇵🇰",
+    "flag_url": null,
+    "qa_context": "Islamabad, Pakistan, Südasien, 1,2 Mio., geplante Stadt, Himalaya, Faisalmoscheee, grün"
+  },
+  {
+    "id": "teheran",
+    "name": {
+      "de": "Teheran",
+      "en": "Tehran"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 35.7,
+    "lng": 51.42,
+    "facts": {
+      "country": "Iran",
+      "country_en": "Iran",
+      "continent": "Asien",
+      "population_million": 9.3,
+      "special": [
+        "Elburz-Gebirge",
+        "Basar",
+        "Persisches Reich"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt des Iran",
+        "en": "It is the capital of Iran"
+      },
+      {
+        "de": "Es liegt am Fuß des Elburz-Gebirges",
+        "en": "It is at the foot of the Elburz Mountains"
+      },
+      {
+        "de": "Es ist eine der größten Städte des Nahen Ostens",
+        "en": "It is one of the largest cities in the Middle East"
+      }
+    ],
+    "description": {
+      "de": "Teheran ist die Hauptstadt des Iran und eine der größten Städte des Nahen Ostens, bekannt für seine riesigen Basare und die nahen Skigebiete.",
+      "en": "Tehran is the capital of Iran and one of the largest cities in the Middle East, known for its huge bazaars and nearby ski resorts."
+    },
+    "fun_fact": {
+      "de": "Teheran hat direkt vor der Stadt Skigebiete auf über 3.000 m Höhe – man kann morgens Ski fahren und nachmittags in der heißen Stadt sein!",
+      "en": "Tehran has ski resorts right next to the city at over 3,000m altitude – you can ski in the morning and be in the hot city in the afternoon!"
+    },
+    "emoji": "🇮🇷",
+    "flag_url": null,
+    "qa_context": "Teheran, Iran, Naher Osten, 9,3 Mio., Elburz, Basar, Persien, Islam, Skigebiete nahe"
+  },
+  {
+    "id": "jerusalem",
+    "name": {
+      "de": "Jerusalem",
+      "en": "Jerusalem"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 31.77,
+    "lng": 35.22,
+    "facts": {
+      "country": "Israel",
+      "country_en": "Israel",
+      "continent": "Asien",
+      "population_million": 0.97,
+      "special": [
+        "heilige Stadt",
+        "drei Weltreligionen",
+        "Klagemauer",
+        "Felsendom"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Israel",
+        "en": "It is the capital of Israel"
+      },
+      {
+        "de": "Es ist heilig für Juden, Christen und Muslime",
+        "en": "It is holy for Jews, Christians, and Muslims"
+      },
+      {
+        "de": "Die Klagemauer und der Felsendom befinden sich hier",
+        "en": "The Western Wall and the Dome of the Rock are here"
+      }
+    ],
+    "description": {
+      "de": "Jerusalem ist eine der ältesten und heiligsten Städte der Welt, von zentraler Bedeutung für Judentum, Christentum und Islam.",
+      "en": "Jerusalem is one of the world's oldest and holiest cities, of central importance to Judaism, Christianity, and Islam."
+    },
+    "fun_fact": {
+      "de": "Jerusalem ist über 5.000 Jahre alt und wurde in seiner Geschichte mindestens 44 Mal belagert und 2 Mal vollständig zerstört!",
+      "en": "Jerusalem is over 5,000 years old and has been besieged at least 44 times and completely destroyed twice in its history!"
+    },
+    "emoji": "🇮🇱",
+    "flag_url": null,
+    "qa_context": "Jerusalem, Israel, Naher Osten, 970.000, heilig, Judentum, Christentum, Islam, Klagemauer, Felsendom"
+  },
+  {
+    "id": "astana",
+    "name": {
+      "de": "Astana",
+      "en": "Astana"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 51.18,
+    "lng": 71.45,
+    "facts": {
+      "country": "Kasachstan",
+      "country_en": "Kazakhstan",
+      "continent": "Asien",
+      "population_million": 1.2,
+      "special": [
+        "neue Hauptstadt",
+        "futuristische Architektur",
+        "kälteste Hauptstadt"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Kasachstan",
+        "en": "It is the capital of Kazakhstan"
+      },
+      {
+        "de": "Es ist eine der kältesten Hauptstädte der Welt",
+        "en": "It is one of the coldest capitals in the world"
+      },
+      {
+        "de": "Es ist eine neue, geplante Stadt mit futuristischer Architektur",
+        "en": "It is a new, planned city with futuristic architecture"
+      }
+    ],
+    "description": {
+      "de": "Astana ist die neue Hauptstadt Kasachstans mit spektakulärer futuristischer Architektur mitten in der kasachischen Steppe.",
+      "en": "Astana is the new capital of Kazakhstan with spectacular futuristic architecture in the middle of the Kazakh steppe."
+    },
+    "fun_fact": {
+      "de": "Astana hieß früher Nur-Sultan und davor Akmola und Zelinograd – wenige Städte wurden so oft umbenannt!",
+      "en": "Astana was formerly called Nur-Sultan and before that Akmola and Zelinograd – few cities have been renamed so often!"
+    },
+    "emoji": "🇰🇿",
+    "flag_url": null,
+    "qa_context": "Astana, Kasachstan, Zentralasien, 1,2 Mio., futuristisch, Steppe, kalt, neue Hauptstadt"
+  },
+  {
+    "id": "singapur_h",
+    "name": {
+      "de": "Singapur",
+      "en": "Singapore"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 1.35,
+    "lng": 103.82,
+    "facts": {
+      "country": "Singapur",
+      "country_en": "Singapore",
+      "continent": "Asien",
+      "population_million": 5.8,
+      "special": [
+        "Stadtstaat",
+        "sauberste Stadt",
+        "Gardens by the Bay"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt und der gesamte Staat Singapur",
+        "en": "It is the capital and the entire state of Singapore"
+      },
+      {
+        "de": "Es ist für seine Sauberkeit und Ordnung berühmt",
+        "en": "It is famous for its cleanliness and order"
+      },
+      {
+        "de": "Es ist einer der wichtigsten Häfen der Welt",
+        "en": "It is one of the world's most important ports"
+      }
+    ],
+    "description": {
+      "de": "Singapur ist gleichzeitig Stadtstaat und Hauptstadt, einer der saubersten und reichsten Orte der Welt mit spektakulären Gardens by the Bay.",
+      "en": "Singapore is simultaneously a city-state and capital, one of the world's cleanest and richest places with spectacular Gardens by the Bay."
+    },
+    "fun_fact": {
+      "de": "Singapur ist so klein, dass man es an einem Tag zu Fuß durchqueren kann – und trotzdem ist es eine der reichsten Städte der Welt!",
+      "en": "Singapore is so small you can walk across it in a day – and yet it is one of the richest cities in the world!"
+    },
+    "emoji": "🇸🇬",
+    "flag_url": null,
+    "qa_context": "Singapur, Stadtstaat, Asien, 5,8 Mio., sauber, reich, Hafen, Gardens by the Bay, Kaugummiverbot"
+  },
+  {
+    "id": "pyongyang",
+    "name": {
+      "de": "Pjöngjang",
+      "en": "Pyongyang"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 39.03,
+    "lng": 125.75,
+    "facts": {
+      "country": "Nordkorea",
+      "country_en": "North Korea",
+      "continent": "Asien",
+      "population_million": 3.0,
+      "special": [
+        "abgeschlossen",
+        "Propaganda",
+        "Triumphbogen"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Nordkorea",
+        "en": "It is the capital of North Korea"
+      },
+      {
+        "de": "Es ist eine der am meisten abgeschlossenen Städte der Welt",
+        "en": "It is one of the most isolated cities in the world"
+      },
+      {
+        "de": "Touristen dürfen es nur in Begleitung von Staatslenkern besuchen",
+        "en": "Tourists may only visit it in the company of state guides"
+      }
+    ],
+    "description": {
+      "de": "Pjöngjang ist die Hauptstadt Nordkoreas und eine der am meisten abgeschirmten Städte der Welt, geprägt von riesigen Monumenten und Propagandaarchitektur.",
+      "en": "Pyongyang is the capital of North Korea and one of the world's most isolated cities, characterized by giant monuments and propaganda architecture."
+    },
+    "fun_fact": {
+      "de": "Pjöngjang hat den größten Triumphbogen der Welt – er ist 10 Meter größer als der Arc de Triomphe in Paris!",
+      "en": "Pyongyang has the world's largest triumphal arch – it is 10 meters taller than the Arc de Triomphe in Paris!"
+    },
+    "emoji": "🇰🇵",
+    "flag_url": null,
+    "qa_context": "Pjöngjang, Nordkorea, Ostasien, 3 Mio., abgeschlossen, Propaganda, Triumphbogen, Diktatur"
+  },
+  {
+    "id": "bagdad",
+    "name": {
+      "de": "Bagdad",
+      "en": "Baghdad"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 33.34,
+    "lng": 44.4,
+    "facts": {
+      "country": "Irak",
+      "country_en": "Iraq",
+      "continent": "Asien",
+      "population_million": 7.2,
+      "special": [
+        "Tigris",
+        "Tausendundeine Nacht",
+        "historisch"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt des Irak",
+        "en": "It is the capital of Iraq"
+      },
+      {
+        "de": "Es liegt am Tigris-Fluss",
+        "en": "It lies on the Tigris River"
+      },
+      {
+        "de": "Es war im Mittelalter eine der größten Städte der Welt",
+        "en": "It was one of the world's largest cities in the Middle Ages"
+      }
+    ],
+    "description": {
+      "de": "Bagdad ist die Hauptstadt des Irak und liegt am Tigris, einst Mittelpunkt der islamischen Hochkultur und Schauplatz von Tausendundeiner Nacht.",
+      "en": "Baghdad is the capital of Iraq and lies on the Tigris, once the center of Islamic civilization and the setting of the Thousand and One Nights."
+    },
+    "fun_fact": {
+      "de": "Im Mittelalter war Bagdad mit über 1 Million Einwohnern die größte Stadt der Welt und das Zentrum der Wissenschaften!",
+      "en": "In the Middle Ages, Baghdad with over 1 million inhabitants was the world's largest city and the center of science!"
+    },
+    "emoji": "🇮🇶",
+    "flag_url": null,
+    "qa_context": "Bagdad, Irak, Naher Osten, 7,2 Mio., Tigris, Tausendundeine Nacht, islamisch, Mesopotamien"
+  },
+  {
+    "id": "addis_abeba",
+    "name": {
+      "de": "Addis Abeba",
+      "en": "Addis Ababa"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 9.03,
+    "lng": 38.74,
+    "facts": {
+      "country": "Äthiopien",
+      "country_en": "Ethiopia",
+      "continent": "Afrika",
+      "population_million": 3.6,
+      "special": [
+        "Afrikanische Union",
+        "höchstgelegene Hauptstadt Afrikas",
+        "Kaffee"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Äthiopien",
+        "en": "It is the capital of Ethiopia"
+      },
+      {
+        "de": "Es ist der Sitz der Afrikanischen Union",
+        "en": "It is the seat of the African Union"
+      },
+      {
+        "de": "Es liegt auf über 2.300 Meter Höhe",
+        "en": "It is over 2,300 meters above sea level"
+      }
+    ],
+    "description": {
+      "de": "Addis Abeba ist die Hauptstadt Äthiopiens und Sitz der Afrikanischen Union, bekannt als politisches Zentrum des Kontinents und Geburtsort des Kaffees.",
+      "en": "Addis Ababa is the capital of Ethiopia and seat of the African Union, known as the political center of the continent and birthplace of coffee."
+    },
+    "fun_fact": {
+      "de": "'Addis Abeba' bedeutet auf Amharisch 'Neue Blume' – und tatsächlich wurde die Stadt erst 1886 gegründet!",
+      "en": "'Addis Ababa' means 'New Flower' in Amharic – and indeed the city was only founded in 1886!"
+    },
+    "emoji": "🇪🇹",
+    "flag_url": null,
+    "qa_context": "Addis Abeba, Äthiopien, Ostafrika, 3,6 Mio., Afrikanische Union, Hochland, Kaffee, neue Blume"
+  },
+  {
+    "id": "dodoma",
+    "name": {
+      "de": "Dodoma",
+      "en": "Dodoma"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": -6.18,
+    "lng": 35.74,
+    "facts": {
+      "country": "Tansania",
+      "country_en": "Tanzania",
+      "continent": "Afrika",
+      "population_million": 0.41,
+      "special": [
+        "neue Hauptstadt",
+        "Kilimanjaro nahe",
+        "Serengeti"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Tansania",
+        "en": "It is the capital of Tanzania"
+      },
+      {
+        "de": "Es liegt im Inneren Tansanias",
+        "en": "It is in the interior of Tanzania"
+      },
+      {
+        "de": "Der Kilimanjaro liegt in diesem Land",
+        "en": "Kilimanjaro is in this country"
+      }
+    ],
+    "description": {
+      "de": "Dodoma ist die Hauptstadt Tansanias im Osten Afrikas, nahe der berühmten Serengeti und dem Kilimanjaro.",
+      "en": "Dodoma is the capital of Tanzania in East Africa, near the famous Serengeti and Kilimanjaro."
+    },
+    "fun_fact": {
+      "de": "Tansanias Hauptstadt wurde von Daressalam nach Dodoma verlegt – aber die meisten Menschen denken immer noch, Daressalam sei die Hauptstadt!",
+      "en": "Tanzania's capital was moved from Dar es Salaam to Dodoma – but most people still think Dar es Salaam is the capital!"
+    },
+    "emoji": "🇹🇿",
+    "flag_url": null,
+    "qa_context": "Dodoma, Tansania, Ostafrika, 410.000, neue Hauptstadt, Kilimanjaro, Serengeti, Massai"
+  },
+  {
+    "id": "accra",
+    "name": {
+      "de": "Accra",
+      "en": "Accra"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 5.56,
+    "lng": -0.2,
+    "facts": {
+      "country": "Ghana",
+      "country_en": "Ghana",
+      "continent": "Afrika",
+      "population_million": 2.3,
+      "special": [
+        "Atlantik",
+        "Kakao",
+        "stabiles Westafrika"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Ghana",
+        "en": "It is the capital of Ghana"
+      },
+      {
+        "de": "Es liegt direkt am Atlantischen Ozean in Westafrika",
+        "en": "It is directly on the Atlantic Ocean in West Africa"
+      },
+      {
+        "de": "Ghana ist bekannt für seinen Kakao",
+        "en": "Ghana is known for its cocoa"
+      }
+    ],
+    "description": {
+      "de": "Accra ist die Hauptstadt Ghanas, eine lebhafte westafrikanische Metropole an der Atlantikküste mit Märkten, Kultur und Geschichte.",
+      "en": "Accra is the capital of Ghana, a vibrant West African metropolis on the Atlantic coast with markets, culture, and history."
+    },
+    "fun_fact": {
+      "de": "Accra liegt fast genau auf dem Äquator und Nullmeridian – der geografische Nullpunkt der Erde liegt im Golf von Guinea südlich der Stadt!",
+      "en": "Accra lies almost exactly on the equator and prime meridian – the geographic zero point of the Earth is in the Gulf of Guinea south of the city!"
+    },
+    "emoji": "🇬🇭",
+    "flag_url": null,
+    "qa_context": "Accra, Ghana, Westafrika, 2,3 Mio., Atlantik, Kakao, Goldküste, demokratisch"
+  },
+  {
+    "id": "yaunde",
+    "name": {
+      "de": "Yaoundé",
+      "en": "Yaoundé"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 3.87,
+    "lng": 11.52,
+    "facts": {
+      "country": "Kamerun",
+      "country_en": "Cameroon",
+      "continent": "Afrika",
+      "population_million": 3.8,
+      "special": [
+        "zweisprachig",
+        "Zentralafrika",
+        "Regenwald nahe"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Kamerun",
+        "en": "It is the capital of Cameroon"
+      },
+      {
+        "de": "Es liegt in Zentralwestafrika",
+        "en": "It is in Central West Africa"
+      },
+      {
+        "de": "Kamerun wird 'Afrika in Miniatur' genannt",
+        "en": "Cameroon is called 'Africa in miniature'"
+      }
+    ],
+    "description": {
+      "de": "Yaoundé ist die Hauptstadt Kameruns, eine grüne Hügelstadt in Zentralafrika, bekannt als politisches Zentrum des zweisprachigen Landes.",
+      "en": "Yaoundé is the capital of Cameroon, a green hill city in Central Africa, known as the political center of the bilingual country."
+    },
+    "fun_fact": {
+      "de": "Yaoundé liegt auf sieben Hügeln, genau wie Rom! Daher wird es manchmal das 'Rom Afrikas' genannt.",
+      "en": "Yaoundé is built on seven hills, just like Rome! That's why it is sometimes called the 'Rome of Africa'."
+    },
+    "emoji": "🇨🇲",
+    "flag_url": null,
+    "qa_context": "Yaoundé, Kamerun, Zentralafrika, 3,8 Mio., sieben Hügel, zweisprachig, Regenwald"
+  },
+  {
+    "id": "luanda",
+    "name": {
+      "de": "Luanda",
+      "en": "Luanda"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": -8.84,
+    "lng": 13.23,
+    "facts": {
+      "country": "Angola",
+      "country_en": "Angola",
+      "continent": "Afrika",
+      "population_million": 8.9,
+      "special": [
+        "teuerste Stadt",
+        "Öl",
+        "Atlantik"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Angola",
+        "en": "It is the capital of Angola"
+      },
+      {
+        "de": "Es liegt in Südwestafrika am Atlantik",
+        "en": "It is in Southwest Africa on the Atlantic"
+      },
+      {
+        "de": "Es war einmal eine der teuersten Städte der Welt",
+        "en": "It was once one of the most expensive cities in the world"
+      }
+    ],
+    "description": {
+      "de": "Luanda ist die Hauptstadt Angolas und eine der größten Städte Afrikas, zeitweise bekannt als eine der teuersten Städte der Welt durch den Ölboom.",
+      "en": "Luanda is the capital of Angola and one of Africa's largest cities, at times known as one of the most expensive cities in the world due to the oil boom."
+    },
+    "fun_fact": {
+      "de": "Luanda war um 2013 die teuerste Stadt der Welt für Expats – ein Glas Bier kostete dort bis zu 25 Dollar!",
+      "en": "Luanda was the world's most expensive city for expats around 2013 – a glass of beer there cost up to 25 dollars!"
+    },
+    "emoji": "🇦🇴",
+    "flag_url": null,
+    "qa_context": "Luanda, Angola, Südwestafrika, 8,9 Mio., Atlantik, Öl, Diamanten, teuer, Portugiesisch"
+  },
+  {
+    "id": "algier",
+    "name": {
+      "de": "Algier",
+      "en": "Algiers"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 36.74,
+    "lng": 3.06,
+    "facts": {
+      "country": "Algerien",
+      "country_en": "Algeria",
+      "continent": "Afrika",
+      "population_million": 3.4,
+      "special": [
+        "Kasbah",
+        "Mittelmeer",
+        "größtes Land Afrikas"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Algerien",
+        "en": "It is the capital of Algeria"
+      },
+      {
+        "de": "Es liegt in Nordafrika am Mittelmeer",
+        "en": "It is in North Africa on the Mediterranean"
+      },
+      {
+        "de": "Es ist bekannt für seine weiße Altstadt, die Kasbah",
+        "en": "It is known for its white old town, the Casbah"
+      }
+    ],
+    "description": {
+      "de": "Algier ist die Hauptstadt Algeriens, des größten Landes Afrikas, bekannt für die historische Kasbah und die weiße Küstenstadt am Mittelmeer.",
+      "en": "Algiers is the capital of Algeria, Africa's largest country, known for the historic Casbah and the white coastal city on the Mediterranean."
+    },
+    "fun_fact": {
+      "de": "Algier wird 'Alger la Blanche' (Algier die Weiße) genannt, weil viele Gebäude in der Kasbah weiß getüncht sind und im Licht leuchten!",
+      "en": "Algiers is called 'Alger la Blanche' (Algiers the White) because many buildings in the Casbah are whitewashed and glow in the light!"
+    },
+    "emoji": "🇩🇿",
+    "flag_url": null,
+    "qa_context": "Algier, Algerien, Nordafrika, 3,4 Mio., Mittelmeer, Kasbah, Weiße Stadt, Sahara nahe"
+  },
+  {
+    "id": "tunis",
+    "name": {
+      "de": "Tunis",
+      "en": "Tunis"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 36.82,
+    "lng": 10.17,
+    "facts": {
+      "country": "Tunesien",
+      "country_en": "Tunisia",
+      "continent": "Afrika",
+      "population_million": 2.7,
+      "special": [
+        "Mittelmeer",
+        "Karthago nahe",
+        "arabische Medina"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Tunesien",
+        "en": "It is the capital of Tunisia"
+      },
+      {
+        "de": "Es liegt in Nordafrika am Mittelmeer",
+        "en": "It is in North Africa on the Mediterranean"
+      },
+      {
+        "de": "Die antike Stadt Karthago liegt in der Nähe",
+        "en": "The ancient city of Carthage is nearby"
+      }
+    ],
+    "description": {
+      "de": "Tunis ist die Hauptstadt Tunesiens mit einer wunderschönen arabischen Medina, nahe der antiken Ruinen von Karthago am Mittelmeer.",
+      "en": "Tunis is the capital of Tunisia with a beautiful Arabic medina, near the ancient ruins of Carthage on the Mediterranean."
+    },
+    "fun_fact": {
+      "de": "Direkt vor Tunis lagen die Ruinen von Karthago, einst Roms größter Feind – Hannibal, der mit Elefanten über die Alpen zog, kam von hier!",
+      "en": "Right next to Tunis lie the ruins of Carthage, once Rome's greatest enemy – Hannibal, who crossed the Alps with elephants, came from here!"
+    },
+    "emoji": "🇹🇳",
+    "flag_url": null,
+    "qa_context": "Tunis, Tunesien, Nordafrika, 2,7 Mio., Mittelmeer, Karthago, Medina, arabisch, Hannibal"
+  },
+  {
+    "id": "mogadischu",
+    "name": {
+      "de": "Mogadischu",
+      "en": "Mogadishu"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 2.05,
+    "lng": 45.34,
+    "facts": {
+      "country": "Somalia",
+      "country_en": "Somalia",
+      "continent": "Afrika",
+      "population_million": 2.4,
+      "special": [
+        "Horn von Afrika",
+        "Indischer Ozean",
+        "älteste Küstenstadt"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Somalia",
+        "en": "It is the capital of Somalia"
+      },
+      {
+        "de": "Es liegt am Horn von Afrika am Indischen Ozean",
+        "en": "It is on the Horn of Africa on the Indian Ocean"
+      },
+      {
+        "de": "Es ist eine der ältesten Städte Ostafrikas",
+        "en": "It is one of the oldest cities in East Africa"
+      }
+    ],
+    "description": {
+      "de": "Mogadischu ist die Hauptstadt Somalias am Horn von Afrika, eine der ältesten Hafenstädte Ostafrikas mit einer bewegten Geschichte.",
+      "en": "Mogadishu is the capital of Somalia on the Horn of Africa, one of East Africa's oldest port cities with a turbulent history."
+    },
+    "fun_fact": {
+      "de": "Mogadischu war im Mittelalter ein bedeutendes Handelszentrum auf der Route zwischen Arabien und Indien – Händler aus aller Welt kamen hierher!",
+      "en": "Mogadishu was an important trading center in the Middle Ages on the route between Arabia and India – merchants from all over the world came here!"
+    },
+    "emoji": "🇸🇴",
+    "flag_url": null,
+    "qa_context": "Mogadischu, Somalia, Horn von Afrika, Indischer Ozean, 2,4 Mio., alte Hafenstadt, Ostafrika"
+  },
+  {
+    "id": "antananarivo",
+    "name": {
+      "de": "Antananarivo",
+      "en": "Antananarivo"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": -18.91,
+    "lng": 47.54,
+    "facts": {
+      "country": "Madagaskar",
+      "country_en": "Madagascar",
+      "continent": "Afrika",
+      "population_million": 1.4,
+      "special": [
+        "Insel",
+        "Lemuren",
+        "Hochland"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt einer großen Insel östlich von Afrika",
+        "en": "It is the capital of a large island east of Africa"
+      },
+      {
+        "de": "Die Insel ist bekannt für Lemuren",
+        "en": "The island is known for lemurs"
+      },
+      {
+        "de": "Es liegt auf einem Hochplateau auf über 1.200 m Höhe",
+        "en": "It lies on a plateau over 1,200m above sea level"
+      }
+    ],
+    "description": {
+      "de": "Antananarivo ist die Hauptstadt Madagaskars auf einem Hochplateau, bekannt für bunte Märkte und die Nähe zu einzigartigen Lemuren.",
+      "en": "Antananarivo is the capital of Madagascar on a high plateau, known for colorful markets and proximity to unique lemurs."
+    },
+    "fun_fact": {
+      "de": "'Antananarivo' bedeutet 'Stadt der Tausend' – benannt nach den tausend Kriegern, die die Stadt einst bewachten!",
+      "en": "'Antananarivo' means 'City of a Thousand' – named after the thousand warriors who once guarded the city!"
+    },
+    "emoji": "🇲🇬",
+    "flag_url": null,
+    "qa_context": "Antananarivo, Madagaskar, Insel, Indischer Ozean, 1,4 Mio., Hochland, Lemuren, einzigartige Fauna"
+  },
+  {
+    "id": "bogota",
+    "name": {
+      "de": "Bogotá",
+      "en": "Bogotá"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 4.71,
+    "lng": -74.07,
+    "facts": {
+      "country": "Kolumbien",
+      "country_en": "Colombia",
+      "continent": "Amerika",
+      "population_million": 7.7,
+      "special": [
+        "Goldmuseum",
+        "Smaragde",
+        "Anden"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Kolumbien",
+        "en": "It is the capital of Colombia"
+      },
+      {
+        "de": "Es liegt in den Anden auf fast 2.600 m Höhe",
+        "en": "It is in the Andes at almost 2,600m altitude"
+      },
+      {
+        "de": "Es ist bekannt für sein berühmtes Goldmuseum",
+        "en": "It is known for its famous Gold Museum"
+      }
+    ],
+    "description": {
+      "de": "Bogotá ist die Hauptstadt Kolumbiens in den Anden, mit dem weltberühmten Goldmuseum und einer lebhaften Kulturszene.",
+      "en": "Bogotá is the capital of Colombia in the Andes, home to the world-famous Gold Museum and a vibrant cultural scene."
+    },
+    "fun_fact": {
+      "de": "Das Goldmuseum in Bogotá hat über 55.000 Goldobjekte der Vorkolumbianischen Kulturen – die größte Goldsammlung der Welt!",
+      "en": "The Gold Museum in Bogotá has over 55,000 gold objects from pre-Columbian cultures – the world's largest gold collection!"
+    },
+    "emoji": "🇨🇴",
+    "flag_url": null,
+    "qa_context": "Bogotá, Kolumbien, Südamerika, 7,7 Mio., Anden, Höhe, Goldmuseum, Kaffee, Smaragde"
+  },
+  {
+    "id": "caracas",
+    "name": {
+      "de": "Caracas",
+      "en": "Caracas"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 10.48,
+    "lng": -66.88,
+    "facts": {
+      "country": "Venezuela",
+      "country_en": "Venezuela",
+      "continent": "Amerika",
+      "population_million": 2.9,
+      "special": [
+        "Simon Bolívar",
+        "Ölreichtum",
+        "Karibik nahe"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Venezuela",
+        "en": "It is the capital of Venezuela"
+      },
+      {
+        "de": "Es liegt in Nordsüdamerika nahe der Karibik",
+        "en": "It is in northern South America near the Caribbean"
+      },
+      {
+        "de": "Simon Bolívar, der Befreier Südamerikas, wurde hier geboren",
+        "en": "Simón Bolívar, the liberator of South America, was born here"
+      }
+    ],
+    "description": {
+      "de": "Caracas ist die Hauptstadt Venezuelas, Geburtsort von Simón Bolívar und eine lebhafte Stadt, die an Karibik und Anden grenzt.",
+      "en": "Caracas is the capital of Venezuela, birthplace of Simón Bolívar, and a vibrant city bordering the Caribbean and Andes."
+    },
+    "fun_fact": {
+      "de": "Caracas liegt in einem Tal umgeben von Bergen – die Küste mit dem Meer ist nur 30 Minuten entfernt, man kann morgens in den Bergen und nachmittags am Strand sein!",
+      "en": "Caracas lies in a valley surrounded by mountains – the coast is only 30 minutes away, you can be in the mountains in the morning and on the beach in the afternoon!"
+    },
+    "emoji": "🇻🇪",
+    "flag_url": null,
+    "qa_context": "Caracas, Venezuela, Südamerika, 2,9 Mio., Karibik, Andes, Bolívar, Ölreichtum"
+  },
+  {
+    "id": "santiago",
+    "name": {
+      "de": "Santiago",
+      "en": "Santiago"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": -33.45,
+    "lng": -70.67,
+    "facts": {
+      "country": "Chile",
+      "country_en": "Chile",
+      "continent": "Amerika",
+      "population_million": 6.3,
+      "special": [
+        "Atacama nahe",
+        "Anden",
+        "Pazifik"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Chile",
+        "en": "It is the capital of Chile"
+      },
+      {
+        "de": "Es liegt am Fuß der Anden",
+        "en": "It is at the foot of the Andes"
+      },
+      {
+        "de": "Von hier aus sind Skigebiete und Strand in einer Stunde erreichbar",
+        "en": "From here ski resorts and the beach are reachable in one hour"
+      }
+    ],
+    "description": {
+      "de": "Santiago ist die Hauptstadt Chiles und liegt in einem Tal zwischen den Anden und dem Pazifik, bekannt für Wein, Kultur und erstklassige Skigebiete.",
+      "en": "Santiago is the capital of Chile, located in a valley between the Andes and the Pacific, known for wine, culture, and first-class ski resorts."
+    },
+    "fun_fact": {
+      "de": "Von Santiago aus kann man in einer Stunde sowohl zum Skifahren in die Anden als auch zum Strand an den Pazifik fahren – einzigartig auf der Welt!",
+      "en": "From Santiago you can drive both to ski in the Andes and to the Pacific beach in one hour – unique in the world!"
+    },
+    "emoji": "🇨🇱",
+    "flag_url": null,
+    "qa_context": "Santiago, Chile, Südamerika, 6,3 Mio., Anden, Pazifik, Wein, Ski, Atacama nahe"
+  },
+  {
+    "id": "havanna",
+    "name": {
+      "de": "Havanna",
+      "en": "Havana"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 23.13,
+    "lng": -82.38,
+    "facts": {
+      "country": "Kuba",
+      "country_en": "Cuba",
+      "continent": "Amerika",
+      "population_million": 2.1,
+      "special": [
+        "Oldtimer",
+        "Zigarren",
+        "Salsa",
+        "Karibik"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Kuba",
+        "en": "It is the capital of Cuba"
+      },
+      {
+        "de": "Es ist bekannt für bunte Oldtimer aus den 1950ern",
+        "en": "It is known for colorful vintage cars from the 1950s"
+      },
+      {
+        "de": "Es liegt in der Karibik",
+        "en": "It is in the Caribbean"
+      }
+    ],
+    "description": {
+      "de": "Havanna ist die Hauptstadt Kubas und eine farbenfrohe Stadt voller Oldtimer, kolonialer Architektur, Musik und kubanischem Flair.",
+      "en": "Havana is the capital of Cuba and a colorful city full of vintage cars, colonial architecture, music, and Cuban flair."
+    },
+    "fun_fact": {
+      "de": "In Havanna fahren noch Tausende amerikanischer Oldtimer aus den 50ern – weil Kuba so lange von der Außenwelt abgeschnitten war, wurden die Autos nie ersetzt!",
+      "en": "Thousands of American vintage cars from the 1950s still drive in Havana – because Cuba was cut off from the world for so long, the cars were never replaced!"
+    },
+    "emoji": "🇨🇺",
+    "flag_url": null,
+    "qa_context": "Havanna, Kuba, Karibik, 2,1 Mio., Oldtimer, Zigarren, Rum, Salsa, Castro, kommunistisch"
+  },
+  {
+    "id": "san_jose",
+    "name": {
+      "de": "San José",
+      "en": "San José"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 9.93,
+    "lng": -84.08,
+    "facts": {
+      "country": "Costa Rica",
+      "country_en": "Costa Rica",
+      "continent": "Amerika",
+      "population_million": 0.34,
+      "special": [
+        "Regenwald nahe",
+        "keine Armee",
+        "Biodiversität"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Costa Rica",
+        "en": "It is the capital of Costa Rica"
+      },
+      {
+        "de": "Costa Rica hat keine Armee",
+        "en": "Costa Rica has no army"
+      },
+      {
+        "de": "Es liegt in Mittelamerika umgeben von Vulkanen",
+        "en": "It is in Central America surrounded by volcanoes"
+      }
+    ],
+    "description": {
+      "de": "San José ist die Hauptstadt Costa Ricas, eines friedlichen Landes in Mittelamerika ohne Armee, bekannt für Biodiversität und Nachhaltigkeit.",
+      "en": "San José is the capital of Costa Rica, a peaceful country in Central America with no army, known for biodiversity and sustainability."
+    },
+    "fun_fact": {
+      "de": "Costa Rica hat 1948 seine Armee abgeschafft – das Geld wird seitdem in Bildung und Umwelt investiert!",
+      "en": "Costa Rica abolished its army in 1948 – the money has been invested in education and the environment ever since!"
+    },
+    "emoji": "🇨🇷",
+    "flag_url": null,
+    "qa_context": "San José, Costa Rica, Mittelamerika, 340.000, keine Armee, Regenwald, Faultiere, Vulkane, Biodiversität"
+  },
+  {
+    "id": "la_paz",
+    "name": {
+      "de": "La Paz",
+      "en": "La Paz"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": -16.5,
+    "lng": -68.15,
+    "facts": {
+      "country": "Bolivien",
+      "country_en": "Bolivia",
+      "continent": "Amerika",
+      "population_million": 0.82,
+      "special": [
+        "höchste Regierungshauptstadt",
+        "Titicacasee nahe",
+        "Seilbahn"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist der Regierungssitz von Bolivien",
+        "en": "It is the seat of government of Bolivia"
+      },
+      {
+        "de": "Es ist die höchstgelegene Hauptstadt der Welt",
+        "en": "It is the world's highest capital city"
+      },
+      {
+        "de": "Es liegt auf über 3.600 Meter Höhe in den Anden",
+        "en": "It is over 3,600 meters high in the Andes"
+      }
+    ],
+    "description": {
+      "de": "La Paz ist die Regierungshauptstadt Boliviens und mit über 3.600 m die höchstgelegene Hauptstadt der Welt, bekannt für ihre spektakuläre Seilbahn.",
+      "en": "La Paz is Bolivia's government capital and at over 3,600m is the world's highest capital city, known for its spectacular cable car system."
+    },
+    "fun_fact": {
+      "de": "La Paz hat das größte städtische Seilbahnnetz der Welt – über 30 km Strecke verbinden die vielen Stadtviertel in den Bergen!",
+      "en": "La Paz has the world's largest urban cable car network – over 30 km of routes connect the many neighborhoods in the mountains!"
+    },
+    "emoji": "🇧🇴",
+    "flag_url": null,
+    "qa_context": "La Paz, Bolivien, Südamerika, 820.000, höchste Hauptstadt, Anden, Titicacasee, Seilbahn, 3.600m"
+  },
+  {
+    "id": "quito",
+    "name": {
+      "de": "Quito",
+      "en": "Quito"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": -0.22,
+    "lng": -78.51,
+    "facts": {
+      "country": "Ecuador",
+      "country_en": "Ecuador",
+      "continent": "Amerika",
+      "population_million": 1.9,
+      "special": [
+        "Äquator",
+        "UNESCO",
+        "zweitälteste Hauptstadt"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Ecuador",
+        "en": "It is the capital of Ecuador"
+      },
+      {
+        "de": "Es liegt direkt am Äquator in den Anden",
+        "en": "It lies directly on the equator in the Andes"
+      },
+      {
+        "de": "Seine Altstadt ist UNESCO-Welterbe",
+        "en": "Its old town is a UNESCO World Heritage Site"
+      }
+    ],
+    "description": {
+      "de": "Quito ist die Hauptstadt Ecuadors und liegt auf fast 2.800 m Höhe direkt am Äquator, mit einer der am besten erhaltenen Altstädte Südamerikas.",
+      "en": "Quito is the capital of Ecuador and lies at almost 2,800m altitude directly on the equator, with one of South America's best-preserved old towns."
+    },
+    "fun_fact": {
+      "de": "Quito war 1978 eine der ersten Städte, die das UNESCO-Welterbe-Label erhielt – seine Altstadt ist außergewöhnlich gut erhalten!",
+      "en": "Quito was one of the first cities to receive the UNESCO World Heritage label in 1978 – its old town is extraordinarily well preserved!"
+    },
+    "emoji": "🇪🇨",
+    "flag_url": null,
+    "qa_context": "Quito, Ecuador, Südamerika, 1,9 Mio., Äquator, Anden, UNESCO, Galápagos nahe, 2.800m"
+  },
+  {
+    "id": "port_moresby",
+    "name": {
+      "de": "Port Moresby",
+      "en": "Port Moresby"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": -9.44,
+    "lng": 147.18,
+    "facts": {
+      "country": "Papua-Neuguinea",
+      "country_en": "Papua New Guinea",
+      "continent": "Ozeanien",
+      "population_million": 0.37,
+      "special": [
+        "Pazifik",
+        "800 Sprachen",
+        "Regenwald"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Papua-Neuguinea",
+        "en": "It is the capital of Papua New Guinea"
+      },
+      {
+        "de": "Es liegt im Südpazifik nördlich von Australien",
+        "en": "It is in the South Pacific north of Australia"
+      },
+      {
+        "de": "In dem Land werden über 800 Sprachen gesprochen",
+        "en": "Over 800 languages are spoken in the country"
+      }
+    ],
+    "description": {
+      "de": "Port Moresby ist die Hauptstadt Papua-Neuguineas, gelegen am Korallenmeer im Pazifik, bekannt für die außergewöhnliche Vielfalt des Landes.",
+      "en": "Port Moresby is the capital of Papua New Guinea, located on the Coral Sea in the Pacific, known for the country's extraordinary diversity."
+    },
+    "fun_fact": {
+      "de": "Papua-Neuguinea hat mehr Sprachen als jedes andere Land der Welt – über 800! Das entspricht 12% aller Sprachen der Erde!",
+      "en": "Papua New Guinea has more languages than any other country in the world – over 800! That's 12% of all languages on Earth!"
+    },
+    "emoji": "🇵🇬",
+    "flag_url": null,
+    "qa_context": "Port Moresby, Papua-Neuguinea, Pazifik, Ozeanien, 370.000, Korallenmeer, 800 Sprachen, Regenwald"
+  },
+  {
+    "id": "oslo",
+    "name": {
+      "de": "Oslo",
+      "en": "Oslo"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 59.91,
+    "lng": 10.75,
+    "facts": {
+      "country": "Norwegen",
+      "country_en": "Norway",
+      "continent": "Europa",
+      "population_million": 0.7,
+      "special": [
+        "Fjorde",
+        "Wikinger",
+        "Nobelpreis"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Norwegen",
+        "en": "It is the capital of Norway"
+      },
+      {
+        "de": "Es liegt am Oslofjord",
+        "en": "It is on the Oslofjord"
+      },
+      {
+        "de": "Hier wird der Friedensnobelpreis verliehen",
+        "en": "The Nobel Peace Prize is awarded here"
+      }
+    ],
+    "description": {
+      "de": "Oslo ist die Hauptstadt Norwegens, eine moderne, naturnahe Stadt am Fjord, bekannt für Wikinger-Museen und den Friedensnobelpreis.",
+      "en": "Oslo is the capital of Norway, a modern, nature-close city on the fjord, known for Viking museums and the Nobel Peace Prize."
+    },
+    "fun_fact": {
+      "de": "Der Friedensnobelpreis wird als einziger Nobelpreis in Oslo vergeben – alle anderen Nobelpreise werden in Stockholm vergeben!",
+      "en": "The Nobel Peace Prize is the only Nobel Prize awarded in Oslo – all other Nobel Prizes are awarded in Stockholm!"
+    },
+    "emoji": "🇳🇴",
+    "flag_url": null,
+    "qa_context": "Oslo, Norwegen, Skandinavien, 700.000, Oslofjord, Wikinger, Nobelpreis, Fjorde, Öl"
+  },
+  {
+    "id": "lissabon",
+    "name": {
+      "de": "Lissabon",
+      "en": "Lisbon"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 38.72,
+    "lng": -9.14,
+    "facts": {
+      "country": "Portugal",
+      "country_en": "Portugal",
+      "continent": "Europa",
+      "population_million": 0.55,
+      "special": [
+        "sieben Hügel",
+        "älteste Hauptstadt Westeuropas",
+        "Tram 28"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Portugal",
+        "en": "It is the capital of Portugal"
+      },
+      {
+        "de": "Es ist die älteste Hauptstadt Westeuropas",
+        "en": "It is the oldest capital in Western Europe"
+      },
+      {
+        "de": "Es liegt an der Atlantikküste auf sieben Hügeln",
+        "en": "It is on the Atlantic coast on seven hills"
+      }
+    ],
+    "description": {
+      "de": "Lissabon ist die älteste Hauptstadt Westeuropas, bekannt für Fado-Musik, alte Straßenbahnen, Pastéis de Nata und atemberaubende Aussichten.",
+      "en": "Lisbon is the oldest capital in Western Europe, known for fado music, old trams, pastéis de nata, and breathtaking views."
+    },
+    "fun_fact": {
+      "de": "Die gelben Straßenbahnen von Lissabon fahren seit 1873 – das berühmte Tram 28 verbindet die schönsten Viertel der Stadt!",
+      "en": "Lisbon's yellow trams have been running since 1873 – the famous Tram 28 connects the city's most beautiful neighborhoods!"
+    },
+    "emoji": "🇵🇹",
+    "flag_url": null,
+    "qa_content": null,
+    "qa_context": "Lissabon, Portugal, Westeuropa, 550.000, Atlantik, sieben Hügel, Fado, Tram, älteste Hauptstadt Westeuropas"
+  },
+  {
+    "id": "new_delhi",
+    "name": {
+      "de": "Neu-Delhi",
+      "en": "New Delhi"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": 28.61,
+    "lng": 77.21,
+    "facts": {
+      "country": "Indien",
+      "country_en": "India",
+      "continent": "Asien",
+      "population_million": 11.0,
+      "special": [
+        "Taj Mahal nahe",
+        "Ganges",
+        "bevölkerungsreichstes Land"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Indien",
+        "en": "It is the capital of India"
+      },
+      {
+        "de": "Es liegt im Norden Indiens",
+        "en": "It is in northern India"
+      },
+      {
+        "de": "Der berühmte Rote Fort liegt hier",
+        "en": "The famous Red Fort is here"
+      }
+    ],
+    "description": {
+      "de": "Neu-Delhi ist die Hauptstadt Indiens, des bevölkerungsreichsten Landes der Welt, mit dem beeindruckenden Roten Fort und einer reichen Geschichte.",
+      "en": "New Delhi is the capital of India, the world's most populous country, with the impressive Red Fort and a rich history."
+    },
+    "fun_fact": {
+      "de": "Delhi ist eine der ältesten Städte der Welt – es war schon achtmal Hauptstadt verschiedener Reiche, bevor es die Hauptstadt Indiens wurde!",
+      "en": "Delhi is one of the world's oldest cities – it was the capital of various empires eight times before becoming India's capital!"
+    },
+    "emoji": "🇮🇳",
+    "flag_url": null,
+    "qa_context": "Neu-Delhi, New Delhi, Indien, Südasien, 11 Mio., Roter Fort, Ganges, Taj Mahal nahe, Bollywood"
+  },
+  {
+    "id": "ulan_bator",
+    "name": {
+      "de": "Ulaanbaatar",
+      "en": "Ulaanbaatar"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 47.89,
+    "lng": 106.91,
+    "facts": {
+      "country": "Mongolei",
+      "country_en": "Mongolia",
+      "continent": "Asien",
+      "population_million": 1.6,
+      "special": [
+        "kälteste Hauptstadt",
+        "Dschingis Khan",
+        "Nomaden",
+        "Steppe"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt der Mongolei",
+        "en": "It is the capital of Mongolia"
+      },
+      {
+        "de": "Es ist die kälteste Hauptstadt der Welt",
+        "en": "It is the world's coldest capital city"
+      },
+      {
+        "de": "Dschingis Khan war hier zu Hause",
+        "en": "Genghis Khan was at home here"
+      }
+    ],
+    "description": {
+      "de": "Ulaanbaatar ist die Hauptstadt der Mongolei und die kälteste Hauptstadt der Welt, bekannt für die nomadische Steppentradition und das Erbe von Dschingis Khan.",
+      "en": "Ulaanbaatar is the capital of Mongolia and the world's coldest capital, known for its nomadic steppe tradition and Genghis Khan's legacy."
+    },
+    "fun_fact": {
+      "de": "Ulaanbaatar ist die kälteste Hauptstadt der Welt – im Winter sinken die Temperaturen auf bis zu -40°C!",
+      "en": "Ulaanbaatar is the world's coldest capital – in winter temperatures drop to -40°C!"
+    },
+    "emoji": "🇲🇳",
+    "flag_url": null,
+    "qa_context": "Ulaanbaatar, Mongolei, Zentralasien, 1,6 Mio., kälteste Hauptstadt, Dschingis Khan, Steppe, Nomaden, -40°C"
+  },
+  {
+    "id": "lima",
+    "name": {
+      "de": "Lima",
+      "en": "Lima"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 1,
+    "lat": -12.05,
+    "lng": -77.04,
+    "facts": {
+      "country": "Peru",
+      "country_en": "Peru",
+      "continent": "Amerika",
+      "population_million": 9.7,
+      "special": [
+        "Machu Picchu nahe",
+        "Kulinarik",
+        "Pazifik"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Peru",
+        "en": "It is the capital of Peru"
+      },
+      {
+        "de": "Es liegt am Pazifik in Südamerika",
+        "en": "It is on the Pacific in South America"
+      },
+      {
+        "de": "Machu Picchu und die Inkas sind in diesem Land",
+        "en": "Machu Picchu and the Incas are in this country"
+      }
+    ],
+    "description": {
+      "de": "Lima ist die Hauptstadt Perus am Pazifik, bekannt als gastronomische Hauptstadt Südamerikas und Ausgangspunkt für Machu Picchu.",
+      "en": "Lima is the capital of Peru on the Pacific, known as the gastronomic capital of South America and starting point for Machu Picchu."
+    },
+    "fun_fact": {
+      "de": "Lima gilt als die gastronomische Hauptstadt Südamerikas – das Restaurant 'Central' wurde zum besten Restaurant der Welt gewählt!",
+      "en": "Lima is considered the gastronomic capital of South America – the restaurant 'Central' was voted the best restaurant in the world!"
+    },
+    "emoji": "🇵🇪",
+    "flag_url": null,
+    "qa_context": "Lima, Peru, Südamerika, Pazifik, 9,7 Mio., Machu Picchu, Inkas, Küche, Ceviche"
+  },
+  {
+    "id": "abuja",
+    "name": {
+      "de": "Abuja",
+      "en": "Abuja"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 9.07,
+    "lng": 7.4,
+    "facts": {
+      "country": "Nigeria",
+      "country_en": "Nigeria",
+      "continent": "Afrika",
+      "population_million": 3.6,
+      "special": [
+        "geplante Hauptstadt",
+        "bevölkerungsreichstes Land Afrikas",
+        "Öl"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Nigeria",
+        "en": "It is the capital of Nigeria"
+      },
+      {
+        "de": "Nigeria ist das bevölkerungsreichste Land Afrikas",
+        "en": "Nigeria is the most populous country in Africa"
+      },
+      {
+        "de": "Es ist eine geplante, moderne Hauptstadt",
+        "en": "It is a planned, modern capital city"
+      }
+    ],
+    "description": {
+      "de": "Abuja ist die moderne Hauptstadt Nigerias, des bevölkerungsreichsten Landes Afrikas, eine geplante Stadt seit 1991.",
+      "en": "Abuja is the modern capital of Nigeria, Africa's most populous country, a planned city since 1991."
+    },
+    "fun_fact": {
+      "de": "Nigeria wechselte 1991 die Hauptstadt von Lagos nach Abuja – weil Lagos so riesig und überfüllt geworden war!",
+      "en": "Nigeria moved its capital from Lagos to Abuja in 1991 – because Lagos had become so enormous and overcrowded!"
+    },
+    "emoji": "🇳🇬",
+    "flag_url": null,
+    "qa_context": "Abuja, Nigeria, Westafrika, 3,6 Mio., geplante Stadt, bevölkerungsreichstes Afrikas, Öl, 1991"
+  },
+  {
+    "id": "warschau",
+    "name": {
+      "de": "Warschau",
+      "en": "Warsaw"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 52.23,
+    "lng": 21.01,
+    "facts": {
+      "country": "Polen",
+      "country_en": "Poland",
+      "continent": "Europa",
+      "population_million": 1.8,
+      "special": [
+        "Weichsel",
+        "Wiederaufgebaut",
+        "Chopin"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Polen",
+        "en": "It is the capital of Poland"
+      },
+      {
+        "de": "Es liegt in Mitteleuropa an der Weichsel",
+        "en": "It is in Central Europe on the Vistula River"
+      },
+      {
+        "de": "Die Stadt wurde nach dem Zweiten Weltkrieg komplett wieder aufgebaut",
+        "en": "The city was completely rebuilt after World War II"
+      }
+    ],
+    "description": {
+      "de": "Warschau ist die Hauptstadt Polens und liegt an der Weichsel, bekannt für seine Geschichte, Chopin und die Altstadt, die nach dem Krieg originalgetreu wiederaufgebaut wurde.",
+      "en": "Warsaw is the capital of Poland and lies on the Vistula, known for its history, Chopin, and the old town rebuilt after the war."
+    },
+    "fun_fact": {
+      "de": "Warschaus Altstadt wurde im Zweiten Weltkrieg zu 85% zerstört – sie wurde danach so originalgetreu wieder aufgebaut, dass sie 1980 UNESCO-Welterbe wurde!",
+      "en": "Warsaw's old town was 85% destroyed in World War II – it was rebuilt so faithfully afterwards that it became a UNESCO World Heritage Site in 1980!"
+    },
+    "emoji": "🇵🇱",
+    "flag_url": null,
+    "qa_context": "Warschau, Polen, Mitteleuropa, 1,8 Mio., Weichsel, Chopin, Altstadt, UNESCO, wiederaufgebaut"
+  },
+  {
+    "id": "ankara",
+    "name": {
+      "de": "Ankara",
+      "en": "Ankara"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 2,
+    "lat": 39.93,
+    "lng": 32.86,
+    "facts": {
+      "country": "Türkei",
+      "country_en": "Turkey",
+      "continent": "Asien/Europa",
+      "population_million": 5.6,
+      "special": [
+        "nicht Istanbul",
+        "Atatürk",
+        "Anatolien"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt der Türkei – nicht Istanbul",
+        "en": "It is the capital of Turkey – not Istanbul"
+      },
+      {
+        "de": "Es liegt in der Mitte Anatoliens",
+        "en": "It is in the middle of Anatolia"
+      },
+      {
+        "de": "Atatürk, der Gründer der modernen Türkei, ist hier begraben",
+        "en": "Atatürk, the founder of modern Turkey, is buried here"
+      }
+    ],
+    "description": {
+      "de": "Ankara ist die Hauptstadt der Türkei, eine moderne Stadt mitten in Anatolien, die oft mit Istanbul verwechselt wird – aber Istanbul ist nur die größte Stadt!",
+      "en": "Ankara is the capital of Turkey, a modern city in the middle of Anatolia, often confused with Istanbul – but Istanbul is just the largest city!"
+    },
+    "fun_fact": {
+      "de": "Viele Menschen glauben, Istanbul sei die Hauptstadt der Türkei – aber es ist Ankara! Atatürk wählte Ankara 1923 bewusst als neue Hauptstadt.",
+      "en": "Many people think Istanbul is the capital of Turkey – but it's Ankara! Atatürk deliberately chose Ankara as the new capital in 1923."
+    },
+    "emoji": "🇹🇷",
+    "flag_url": null,
+    "qa_context": "Ankara, Türkei, Anatolien, Asien, 5,6 Mio., nicht Istanbul, Atatürk, Mausoleum, modern"
+  },
+  {
+    "id": "pretoria",
+    "name": {
+      "de": "Pretoria",
+      "en": "Pretoria"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": -25.75,
+    "lng": 28.19,
+    "facts": {
+      "country": "Südafrika",
+      "country_en": "South Africa",
+      "continent": "Afrika",
+      "population_million": 0.74,
+      "special": [
+        "drei Hauptstädte",
+        "Jacaranda-Stadt",
+        "Apartheid-Ende"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist eine der Hauptstädte von Südafrika",
+        "en": "It is one of the capitals of South Africa"
+      },
+      {
+        "de": "Südafrika hat gleich drei verschiedene Hauptstädte",
+        "en": "South Africa has three different capitals"
+      },
+      {
+        "de": "Im Frühling ist es voller lila Jacaranda-Blüten",
+        "en": "In spring it is full of purple jacaranda blossoms"
+      }
+    ],
+    "description": {
+      "de": "Pretoria ist die Verwaltungshauptstadt Südafrikas, bekannt als 'Jacaranda-Stadt' wegen der tausenden lila blühenden Bäume im Frühling.",
+      "en": "Pretoria is the administrative capital of South Africa, known as the 'Jacaranda City' for its thousands of purple-blooming trees in spring."
+    },
+    "fun_fact": {
+      "de": "Südafrika ist das einzige Land der Welt mit drei Hauptstädten: Pretoria (Verwaltung), Kapstadt (Parlament) und Bloemfontein (Justiz)!",
+      "en": "South Africa is the only country in the world with three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial)!"
+    },
+    "emoji": "🇿🇦",
+    "flag_url": null,
+    "qa_context": "Pretoria, Südafrika, Südafrika, 740.000, Jacaranda, drei Hauptstädte, Verwaltung, Apartheid"
+  },
+  {
+    "id": "rabat",
+    "name": {
+      "de": "Rabat",
+      "en": "Rabat"
+    },
+    "category": "hauptstaedte",
+    "difficulty": 3,
+    "lat": 34.02,
+    "lng": -6.84,
+    "facts": {
+      "country": "Marokko",
+      "country_en": "Morocco",
+      "continent": "Afrika",
+      "population_million": 0.58,
+      "special": [
+        "Atlantik",
+        "Königspalast",
+        "Medina"
+      ]
+    },
+    "hints": [
+      {
+        "de": "Es ist die Hauptstadt von Marokko",
+        "en": "It is the capital of Morocco"
+      },
+      {
+        "de": "Es liegt in Nordafrika am Atlantik",
+        "en": "It is in North Africa on the Atlantic"
+      },
+      {
+        "de": "Casablanca ist die bekanntere Stadt, aber das hier ist die Hauptstadt",
+        "en": "Casablanca is the better-known city, but this is the capital"
+      }
+    ],
+    "description": {
+      "de": "Rabat ist die Hauptstadt Marokkos am Atlantik, bekannt für seinen Königspalast, historische Medina und Kasbah – und wird oft mit Casablanca verwechselt.",
+      "en": "Rabat is the capital of Morocco on the Atlantic, known for its royal palace, historic medina, and kasbah – often confused with Casablanca."
+    },
+    "fun_fact": {
+      "de": "Viele denken, Casablanca sei die Hauptstadt Marokkos – aber es ist Rabat! Casablanca ist nur die größte und bekannteste Stadt des Landes.",
+      "en": "Many people think Casablanca is the capital of Morocco – but it's Rabat! Casablanca is just the largest and most famous city in the country."
+    },
+    "emoji": "🇲🇦",
+    "flag_url": null,
+    "qa_context": "Rabat, Marokko, Nordafrika, 580.000, Atlantik, Königspalast, Medina, Kasbah, nicht Casablanca"
   }
 ]

@@ -952,7 +952,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/se.png",
     "emoji": "🇸🇪",
-    "qa_context": "Schweden, Sverige, Hauptstadt Stockholm, 10 Mio. Einwohner, Skandinavien, Nordeuropa, EU, Schwedische Krone (nicht Euro), bekannt für IKEA, ABBA, Volvo, Polarlichter, Midsommar, Fußball (Ibrahimović)"
+    "qa_context": "Schweden, Sverige, Hauptstadt Stockholm, 10 Mio. Einwohner, Skandinavien, Nordeuropa, EU, Schwedische Krone (nicht Euro), bekannt für IKEA, ABBA, Volvo, Polarlichter, Midsommar, Fußball (Ibrahimović)",
+    "lat": 62.0,
+    "lng": 15.0
   },
   {
     "id": "indien",
@@ -1057,7 +1059,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/no.png",
     "emoji": "🇳🇴",
-    "qa_context": "Norwegen, Norge, Hauptstadt Oslo, 5 Mio. Einwohner, Skandinavien, Nordeuropa, kein EU-Mitglied, Norwegische Krone, bekannt für Fjorde, Polarlichter, Lachs, Öl, Wikinger, Trolls"
+    "qa_context": "Norwegen, Norge, Hauptstadt Oslo, 5 Mio. Einwohner, Skandinavien, Nordeuropa, kein EU-Mitglied, Norwegische Krone, bekannt für Fjorde, Polarlichter, Lachs, Öl, Wikinger, Trolls",
+    "lat": 65.0,
+    "lng": 13.0
   },
   {
     "id": "aegypten",
@@ -1159,7 +1163,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/ma.png",
     "emoji": "🇲🇦",
-    "qa_context": "Marokko, Hauptstadt Rabat, 37 Mio. Einwohner, Nordwestafrika, nahe Gibraltar/Spanien, Sprache Arabisch/Berber/Französisch, bekannt für Marrakesch, Sahara, Tajine, Arganöl, Souk-Märkte, Fes"
+    "qa_context": "Marokko, Hauptstadt Rabat, 37 Mio. Einwohner, Nordwestafrika, nahe Gibraltar/Spanien, Sprache Arabisch/Berber/Französisch, bekannt für Marrakesch, Sahara, Tajine, Arganöl, Souk-Märkte, Fes",
+    "lat": 31.8,
+    "lng": -7.1
   },
   {
     "id": "suedafrika",
@@ -1322,7 +1328,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/sa.png",
     "emoji": "🇸🇦",
-    "qa_context": "Saudi-Arabien, Hauptstadt Riad, 36 Mio. Einwohner, Arabische Halbinsel, Naher Osten, Sprache Arabisch, bekannt für Öl (größter Exporteur), Mekka/Medina (heiligste Islamstädte), Wüste, Kaaba"
+    "qa_context": "Saudi-Arabien, Hauptstadt Riad, 36 Mio. Einwohner, Arabische Halbinsel, Naher Osten, Sprache Arabisch, bekannt für Öl (größter Exporteur), Mekka/Medina (heiligste Islamstädte), Wüste, Kaaba",
+    "lat": 23.9,
+    "lng": 45.1
   },
   {
     "id": "neuseeland",
@@ -1368,7 +1376,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/nz.png",
     "emoji": "🇳🇿",
-    "qa_context": "Neuseeland, New Zealand, Hauptstadt Wellington, 5 Mio. Einwohner, Ozeanien, Insel östlich von Australien, Sprache Englisch/Māori, bekannt für Herr der Ringe, All Blacks Rugby, Kiwi-Vogel, Fjordland, Hobbiton"
+    "qa_context": "Neuseeland, New Zealand, Hauptstadt Wellington, 5 Mio. Einwohner, Ozeanien, Insel östlich von Australien, Sprache Englisch/Māori, bekannt für Herr der Ringe, All Blacks Rugby, Kiwi-Vogel, Fjordland, Hobbiton",
+    "lat": -40.9,
+    "lng": 174.9
   },
   {
     "id": "peru",
@@ -1420,7 +1430,9 @@
     },
     "flag_url": "https://flagcdn.com/w320/pe.png",
     "emoji": "🇵🇪",
-    "qa_context": "Peru, Hauptstadt Lima, 33 Mio. Einwohner, Südamerika, Westküste, Sprache Spanisch/Quechua, bekannt für Machu Picchu, Inka-Reich, Nazca-Linien, Anden, Lamas, Kartoffeln-Ursprung, Titicacasee"
+    "qa_context": "Peru, Hauptstadt Lima, 33 Mio. Einwohner, Südamerika, Westküste, Sprache Spanisch/Quechua, bekannt für Machu Picchu, Inka-Reich, Nazca-Linien, Anden, Lamas, Kartoffeln-Ursprung, Titicacasee",
+    "lat": -9.2,
+    "lng": -75.0
   },
   {
     "id": "mongolei",
@@ -1469,6 +1481,2471 @@
     },
     "flag_url": "https://flagcdn.com/w320/mn.png",
     "emoji": "🇲🇳",
-    "qa_context": "Mongolei, Hauptstadt Ulaanbaatar, 3 Mio. Einwohner, Zentralasien, zwischen Russland und China, kein Meereszugang, Sprache Mongolisch, bekannt für Dschingis Khan, Steppen, Nomaden, Jurten (Ger), Gobi-Wüste"
+    "qa_context": "Mongolei, Hauptstadt Ulaanbaatar, 3 Mio. Einwohner, Zentralasien, zwischen Russland und China, kein Meereszugang, Sprache Mongolisch, bekannt für Dschingis Khan, Steppen, Nomaden, Jurten (Ger), Gobi-Wüste",
+    "lat": 46.9,
+    "lng": 103.8
+  },
+  {
+    "id": "belgien",
+    "name": {
+      "de": "Belgien",
+      "en": "Belgium"
+    },
+    "category": "laender",
+    "difficulty": 1,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Brüssel",
+      "population_million": 11,
+      "area_km2": 30528,
+      "language": "Niederländisch, Französisch, Deutsch",
+      "currency": "Euro",
+      "neighbors": [
+        "Deutschland",
+        "Niederlande",
+        "Frankreich",
+        "Luxemburg"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Westeuropa",
+        "en": "It is in Western Europe"
+      },
+      {
+        "de": "Es grenzt an Deutschland und Frankreich",
+        "en": "It borders Germany and France"
+      },
+      {
+        "de": "Es ist bekannt für Schokolade und Waffeln",
+        "en": "It is known for chocolate and waffles"
+      }
+    ],
+    "description": {
+      "de": "Belgien ist ein kleines Land in Westeuropa, bekannt für Schokolade, Waffeln und Pommes frites.",
+      "en": "Belgium is a small country in Western Europe, known for chocolate, waffles, and french fries."
+    },
+    "fun_fact": {
+      "de": "Belgien ist offiziell dreisprachig: Niederländisch, Französisch und Deutsch!",
+      "en": "Belgium is officially trilingual: Dutch, French, and German!"
+    },
+    "flag_url": "https://flagcdn.com/w320/be.png",
+    "emoji": "🇧🇪",
+    "lat": 50.8,
+    "lng": 4.5,
+    "qa_context": "Belgien, Westeuropa, Brüssel, 11 Mio., Euro, Schokolade, Waffeln, dreisprachig, EU-Hauptquartier, NATO"
+  },
+  {
+    "id": "daenemark",
+    "name": {
+      "de": "Dänemark",
+      "en": "Denmark"
+    },
+    "category": "laender",
+    "difficulty": 1,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Kopenhagen",
+      "population_million": 6,
+      "area_km2": 42924,
+      "language": "Dänisch",
+      "currency": "Dänische Krone",
+      "neighbors": [
+        "Deutschland"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Nordeuropa und grenzt nur an Deutschland",
+        "en": "It is in Northern Europe and borders only Germany"
+      },
+      {
+        "de": "Es ist bekannt für LEGO und Wikinger",
+        "en": "It is known for LEGO and Vikings"
+      },
+      {
+        "de": "Seine Hauptstadt beginnt mit K",
+        "en": "Its capital starts with K"
+      }
+    ],
+    "description": {
+      "de": "Dänemark ist ein kleines skandinavisches Land im Norden Europas, bekannt für LEGO, Wikinger und dänisches Gebäck.",
+      "en": "Denmark is a small Scandinavian country in northern Europe, known for LEGO, Vikings and Danish pastries."
+    },
+    "fun_fact": {
+      "de": "LEGO wurde in Dänemark erfunden! Der Name kommt vom dänischen 'leg godt' – gut spielen.",
+      "en": "LEGO was invented in Denmark! The name comes from the Danish 'leg godt' – play well."
+    },
+    "flag_url": "https://flagcdn.com/w320/dk.png",
+    "emoji": "🇩🇰",
+    "lat": 56.0,
+    "lng": 10.0,
+    "qa_context": "Dänemark, Kopenhagen, Skandinavien, Nordeuropa, 6 Mio., Krone, LEGO, Wikinger, Meerjungfrau, Nordsee"
+  },
+  {
+    "id": "finnland",
+    "name": {
+      "de": "Finnland",
+      "en": "Finland"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Helsinki",
+      "population_million": 6,
+      "area_km2": 338145,
+      "language": "Finnisch, Schwedisch",
+      "currency": "Euro",
+      "neighbors": [
+        "Schweden",
+        "Norwegen",
+        "Russland"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Nordeuropa neben Schweden",
+        "en": "It is in Northern Europe next to Sweden"
+      },
+      {
+        "de": "Es hat über 180.000 Seen",
+        "en": "It has over 180,000 lakes"
+      },
+      {
+        "de": "Hier soll der Weihnachtsmann wohnen",
+        "en": "Santa Claus is said to live here"
+      }
+    ],
+    "description": {
+      "de": "Finnland ist ein Land in Nordeuropa, bekannt für seine unzähligen Seen, Wälder und das Nordlicht.",
+      "en": "Finland is a country in Northern Europe, known for its countless lakes, forests, and the Northern Lights."
+    },
+    "fun_fact": {
+      "de": "In Finnland gibt es mehr Saunas als Autos – fast 3 Millionen Saunas für 6 Millionen Menschen!",
+      "en": "Finland has more saunas than cars – almost 3 million saunas for 6 million people!"
+    },
+    "flag_url": "https://flagcdn.com/w320/fi.png",
+    "emoji": "🇫🇮",
+    "lat": 64.0,
+    "lng": 26.0,
+    "qa_context": "Finnland, Helsinki, Nordeuropa, Skandinavien, 6 Mio., Seen, Wälder, Nordlicht, Sauna, Weihnachtsmann, Rentiere"
+  },
+  {
+    "id": "irland",
+    "name": {
+      "de": "Irland",
+      "en": "Ireland"
+    },
+    "category": "laender",
+    "difficulty": 1,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Dublin",
+      "population_million": 5,
+      "area_km2": 70273,
+      "language": "Irisch, Englisch",
+      "currency": "Euro",
+      "neighbors": [],
+      "in_eu": true,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist eine Insel westlich von Großbritannien",
+        "en": "It is an island west of Great Britain"
+      },
+      {
+        "de": "Es ist bekannt für seine grünen Wiesen und Kleeblätter",
+        "en": "It is known for its green meadows and shamrocks"
+      },
+      {
+        "de": "Hier kommt das Guinness-Bier her",
+        "en": "This is where Guinness beer comes from"
+      }
+    ],
+    "description": {
+      "de": "Irland ist eine Insel im Nordatlantik, bekannt für seine grüne Landschaft, freundliche Menschen und lebhafte Musikszene.",
+      "en": "Ireland is an island in the North Atlantic, known for its green landscape, friendly people and vibrant music scene."
+    },
+    "fun_fact": {
+      "de": "Irland wird 'die grüne Insel' genannt, weil es dort so viel regnet, dass das Gras das ganze Jahr grün bleibt!",
+      "en": "Ireland is called 'the Emerald Isle' because it rains so much that the grass stays green all year!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ie.png",
+    "emoji": "🇮🇪",
+    "lat": 53.1,
+    "lng": -8.2,
+    "qa_context": "Irland, Dublin, Insel, Westeuropa, Atlantik, 5 Mio., Euro, Guinness, Kleeblatt, grüne Insel, Schafe, Keltisch"
+  },
+  {
+    "id": "tschechien",
+    "name": {
+      "de": "Tschechien",
+      "en": "Czech Republic"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Prag",
+      "population_million": 11,
+      "area_km2": 78866,
+      "language": "Tschechisch",
+      "currency": "Tschechische Krone",
+      "neighbors": [
+        "Deutschland",
+        "Österreich",
+        "Polen",
+        "Slowakei"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": false
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Mitteleuropa ohne Meereszugang",
+        "en": "It is in Central Europe without sea access"
+      },
+      {
+        "de": "Es grenzt an Deutschland und Österreich",
+        "en": "It borders Germany and Austria"
+      },
+      {
+        "de": "Seine Hauptstadt ist eine der schönsten Europas",
+        "en": "Its capital is one of the most beautiful in Europe"
+      }
+    ],
+    "description": {
+      "de": "Tschechien ist ein Land in Mitteleuropa mit einer reichen Geschichte und der wunderschönen Hauptstadt Prag.",
+      "en": "The Czech Republic is a country in Central Europe with a rich history and the beautiful capital Prague."
+    },
+    "fun_fact": {
+      "de": "Tschechien ist das Land mit dem höchsten Bierkonsum pro Kopf der Welt!",
+      "en": "The Czech Republic has the highest beer consumption per capita in the world!"
+    },
+    "flag_url": "https://flagcdn.com/w320/cz.png",
+    "emoji": "🇨🇿",
+    "lat": 49.8,
+    "lng": 15.5,
+    "qa_context": "Tschechien, Prag, Mitteleuropa, 11 Mio., Krone, Bier, Böhmen, Mähren, ohne Meer, Nachbar Deutschland"
+  },
+  {
+    "id": "ungarn",
+    "name": {
+      "de": "Ungarn",
+      "en": "Hungary"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Budapest",
+      "population_million": 10,
+      "area_km2": 93028,
+      "language": "Ungarisch",
+      "currency": "Forint",
+      "neighbors": [
+        "Österreich",
+        "Slowakei",
+        "Ukraine",
+        "Rumänien",
+        "Serbien",
+        "Kroatien",
+        "Slowenien"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": false
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Mitteleuropa ohne Meereszugang",
+        "en": "It is in Central Europe without sea access"
+      },
+      {
+        "de": "Es grenzt an Österreich",
+        "en": "It borders Austria"
+      },
+      {
+        "de": "Seine Hauptstadt liegt an der Donau",
+        "en": "Its capital lies on the Danube"
+      }
+    ],
+    "description": {
+      "de": "Ungarn ist ein Land in Mitteleuropa, bekannt für Budapest, Paprika, Gulasch und den Balaton-See.",
+      "en": "Hungary is a country in Central Europe, known for Budapest, paprika, goulash, and Lake Balaton."
+    },
+    "fun_fact": {
+      "de": "Der Rubik's Würfel wurde von einem Ungarn erfunden – Ernő Rubik!",
+      "en": "The Rubik's Cube was invented by a Hungarian – Ernő Rubik!"
+    },
+    "flag_url": "https://flagcdn.com/w320/hu.png",
+    "emoji": "🇭🇺",
+    "lat": 47.2,
+    "lng": 19.5,
+    "qa_context": "Ungarn, Budapest, Mitteleuropa, Donau, 10 Mio., Forint, Paprika, Gulasch, Balaton, ohne Meer"
+  },
+  {
+    "id": "rumaenien",
+    "name": {
+      "de": "Rumänien",
+      "en": "Romania"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Bukarest",
+      "population_million": 19,
+      "area_km2": 238397,
+      "language": "Rumänisch",
+      "currency": "Rumänischer Leu",
+      "neighbors": [
+        "Ukraine",
+        "Moldau",
+        "Bulgarien",
+        "Serbien",
+        "Ungarn"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südosteuropa am Schwarzen Meer",
+        "en": "It is in Southeast Europe on the Black Sea"
+      },
+      {
+        "de": "Es ist bekannt für das Schloss Dracula",
+        "en": "It is known for Dracula's castle"
+      },
+      {
+        "de": "Seine Hauptstadt beginnt mit B",
+        "en": "Its capital starts with B"
+      }
+    ],
+    "description": {
+      "de": "Rumänien ist ein Land in Südosteuropa, bekannt für die Karpaten, die Donau und die Dracula-Legende.",
+      "en": "Romania is a country in Southeast Europe, known for the Carpathians, the Danube, and the Dracula legend."
+    },
+    "fun_fact": {
+      "de": "Das Bran-Schloss in Rumänien gilt als Draculas Schloss – obwohl Dracula eine Romanfigur ist!",
+      "en": "Bran Castle in Romania is known as Dracula's Castle – even though Dracula is a fictional character!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ro.png",
+    "emoji": "🇷🇴",
+    "lat": 45.9,
+    "lng": 24.9,
+    "qa_context": "Rumänien, Bukarest, Osteuropa, Karpaten, Donau, Schwarzes Meer, 19 Mio., Dracula, Siebenbürgen"
+  },
+  {
+    "id": "kroatien",
+    "name": {
+      "de": "Kroatien",
+      "en": "Croatia"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Zagreb",
+      "population_million": 4,
+      "area_km2": 56594,
+      "language": "Kroatisch",
+      "currency": "Euro",
+      "neighbors": [
+        "Slowenien",
+        "Ungarn",
+        "Bosnien",
+        "Serbien",
+        "Montenegro"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt an der Adria",
+        "en": "It is on the Adriatic Sea"
+      },
+      {
+        "de": "Es hat viele Inseln und klares blaues Wasser",
+        "en": "It has many islands and clear blue water"
+      },
+      {
+        "de": "Es ist bekannt für die Plitvicer Seen",
+        "en": "It is known for the Plitvice Lakes"
+      }
+    ],
+    "description": {
+      "de": "Kroatien ist ein schönes Land an der Adria mit vielen Inseln, klarem Wasser und historischen Städten.",
+      "en": "Croatia is a beautiful country on the Adriatic Sea with many islands, clear water, and historic cities."
+    },
+    "fun_fact": {
+      "de": "Die Krawatte wurde in Kroatien erfunden! Das Wort 'Krawatte' kommt von 'Kroate'.",
+      "en": "The necktie was invented in Croatia! The word 'cravat' comes from 'Croat'."
+    },
+    "flag_url": "https://flagcdn.com/w320/hr.png",
+    "emoji": "🇭🇷",
+    "lat": 45.1,
+    "lng": 15.2,
+    "qa_context": "Kroatien, Zagreb, Adria, Südeuropa, 4 Mio., Euro, Inseln, Dubrovnik, Plitvicer Seen, Krawatte"
+  },
+  {
+    "id": "ukraine",
+    "name": {
+      "de": "Ukraine",
+      "en": "Ukraine"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Kiew",
+      "population_million": 44,
+      "area_km2": 603550,
+      "language": "Ukrainisch",
+      "currency": "Hrywnja",
+      "neighbors": [
+        "Russland",
+        "Belarus",
+        "Polen",
+        "Slowakei",
+        "Ungarn",
+        "Rumänien",
+        "Moldau"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist das flächenmäßig größte Land Europas (ohne Russland)",
+        "en": "It is the largest country in Europe (excluding Russia)"
+      },
+      {
+        "de": "Es liegt östlich von Polen",
+        "en": "It is east of Poland"
+      },
+      {
+        "de": "Seine Flagge ist blau und gelb",
+        "en": "Its flag is blue and yellow"
+      }
+    ],
+    "description": {
+      "de": "Die Ukraine ist das größte vollständig in Europa liegende Land und bekannt für seine fruchtbaren Böden und die alte Hauptstadt Kiew.",
+      "en": "Ukraine is the largest country entirely within Europe, known for its fertile soil and the ancient capital Kyiv."
+    },
+    "fun_fact": {
+      "de": "Die Ukraine hat die schwarzeste Erde der Welt – die Schwarzerde, die sie zum 'Brotkorb Europas' macht!",
+      "en": "Ukraine has the world's blackest soil – chernozem, making it the 'breadbasket of Europe'!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ua.png",
+    "emoji": "🇺🇦",
+    "lat": 49.0,
+    "lng": 31.2,
+    "qa_context": "Ukraine, Kiew, Osteuropa, größtes Land Europas, 44 Mio., Hrywnja, Schwarzerde, Sonnenblumen, Weizen"
+  },
+  {
+    "id": "island",
+    "name": {
+      "de": "Island",
+      "en": "Iceland"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Reykjavik",
+      "population_million": 0.4,
+      "area_km2": 103000,
+      "language": "Isländisch",
+      "currency": "Isländische Krone",
+      "neighbors": [],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist eine Insel mitten im Atlantik",
+        "en": "It is an island in the middle of the Atlantic"
+      },
+      {
+        "de": "Es hat viele Vulkane und Geysire",
+        "en": "It has many volcanoes and geysers"
+      },
+      {
+        "de": "Man kann hier das Nordlicht sehr gut sehen",
+        "en": "You can see the Northern Lights very well here"
+      }
+    ],
+    "description": {
+      "de": "Island ist eine Insel im Nordatlantik, bekannt für Vulkane, Geysire, heiße Quellen und das spektakuläre Nordlicht.",
+      "en": "Iceland is an island in the North Atlantic, known for volcanoes, geysers, hot springs, and the spectacular Northern Lights."
+    },
+    "fun_fact": {
+      "de": "In Island gibt es keine Mücken – sie können dort wegen des Klimas nicht überleben!",
+      "en": "There are no mosquitoes in Iceland – they cannot survive there due to the climate!"
+    },
+    "flag_url": "https://flagcdn.com/w320/is.png",
+    "emoji": "🇮🇸",
+    "lat": 64.5,
+    "lng": -18.5,
+    "qa_context": "Island, Reykjavik, Atlantik, Insel, Nordeuropa, Vulkane, Geysire, Nordlicht, heiße Quellen, 400.000 Einwohner"
+  },
+  {
+    "id": "luxemburg",
+    "name": {
+      "de": "Luxemburg",
+      "en": "Luxembourg"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Luxemburg",
+      "population_million": 0.7,
+      "area_km2": 2586,
+      "language": "Luxemburgisch, Deutsch, Französisch",
+      "currency": "Euro",
+      "neighbors": [
+        "Deutschland",
+        "Frankreich",
+        "Belgien"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": false
+    },
+    "hints": [
+      {
+        "de": "Es ist eines der kleinsten Länder Europas",
+        "en": "It is one of the smallest countries in Europe"
+      },
+      {
+        "de": "Es liegt zwischen Deutschland, Frankreich und Belgien",
+        "en": "It lies between Germany, France, and Belgium"
+      },
+      {
+        "de": "Es ist eines der reichsten Länder der Welt",
+        "en": "It is one of the richest countries in the world"
+      }
+    ],
+    "description": {
+      "de": "Luxemburg ist ein winziges, aber sehr reiches Land in Westeuropa, bekannt für sein Schloss, Wälder und Banken.",
+      "en": "Luxembourg is a tiny but very rich country in Western Europe, known for its castle, forests, and banks."
+    },
+    "fun_fact": {
+      "de": "Luxemburg hat das höchste Pro-Kopf-Einkommen der Welt und trotzdem nur etwa 700.000 Einwohner!",
+      "en": "Luxembourg has the highest per capita income in the world, yet only about 700,000 inhabitants!"
+    },
+    "flag_url": "https://flagcdn.com/w320/lu.png",
+    "emoji": "🇱🇺",
+    "lat": 49.8,
+    "lng": 6.1,
+    "qa_context": "Luxemburg, Westeuropa, sehr klein, sehr reich, 700.000 Einwohner, Euro, drei Sprachen, Schloss, Banken"
+  },
+  {
+    "id": "litauen",
+    "name": {
+      "de": "Litauen",
+      "en": "Lithuania"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Vilnius",
+      "population_million": 3,
+      "area_km2": 65300,
+      "language": "Litauisch",
+      "currency": "Euro",
+      "neighbors": [
+        "Lettland",
+        "Weißrussland",
+        "Polen",
+        "Russland (Kaliningrad)"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Baltikum an der Ostsee",
+        "en": "It is in the Baltic region on the Baltic Sea"
+      },
+      {
+        "de": "Es grenzt an Polen und Lettland",
+        "en": "It borders Poland and Latvia"
+      },
+      {
+        "de": "Es ist das südlichste der drei Baltischen Staaten",
+        "en": "It is the southernmost of the three Baltic states"
+      }
+    ],
+    "description": {
+      "de": "Litauen ist das größte der drei baltischen Länder und liegt an der Ostsee zwischen Polen und Lettland.",
+      "en": "Lithuania is the largest of the three Baltic countries and is located on the Baltic Sea between Poland and Latvia."
+    },
+    "fun_fact": {
+      "de": "Litauen war im Mittelalter eines der größten Reiche Europas – es erstreckte sich von der Ostsee bis zum Schwarzen Meer!",
+      "en": "Lithuania was one of the largest empires in Europe in the Middle Ages – stretching from the Baltic to the Black Sea!"
+    },
+    "flag_url": "https://flagcdn.com/w320/lt.png",
+    "emoji": "🇱🇹",
+    "lat": 55.9,
+    "lng": 23.9,
+    "qa_context": "Litauen, Vilnius, Baltikum, Ostsee, Nordeuropa, 3 Mio., Euro, baltischer Staat"
+  },
+  {
+    "id": "lettland",
+    "name": {
+      "de": "Lettland",
+      "en": "Latvia"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Riga",
+      "population_million": 2,
+      "area_km2": 64589,
+      "language": "Lettisch",
+      "currency": "Euro",
+      "neighbors": [
+        "Estland",
+        "Litauen",
+        "Russland",
+        "Weißrussland"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Baltikum an der Ostsee",
+        "en": "It is in the Baltic region on the Baltic Sea"
+      },
+      {
+        "de": "Es liegt zwischen Estland und Litauen",
+        "en": "It lies between Estonia and Lithuania"
+      },
+      {
+        "de": "Seine Hauptstadt Riga ist die größte Stadt im Baltikum",
+        "en": "Its capital Riga is the largest city in the Baltics"
+      }
+    ],
+    "description": {
+      "de": "Lettland ist ein baltisches Land in Nordeuropa mit schönen Stränden, Wäldern und der historischen Hauptstadt Riga.",
+      "en": "Latvia is a Baltic country in Northern Europe with beautiful beaches, forests, and the historic capital Riga."
+    },
+    "fun_fact": {
+      "de": "Lettland hat mehr als 12.000 Flüsse und über 3.000 Seen – Wasser gibt es dort im Überfluss!",
+      "en": "Latvia has more than 12,000 rivers and over 3,000 lakes – water is abundant there!"
+    },
+    "flag_url": "https://flagcdn.com/w320/lv.png",
+    "emoji": "🇱🇻",
+    "lat": 56.9,
+    "lng": 24.6,
+    "qa_context": "Lettland, Riga, Baltikum, Ostsee, Nordeuropa, 2 Mio., Euro, baltischer Staat"
+  },
+  {
+    "id": "estland",
+    "name": {
+      "de": "Estland",
+      "en": "Estonia"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Tallinn",
+      "population_million": 1.3,
+      "area_km2": 45228,
+      "language": "Estnisch",
+      "currency": "Euro",
+      "neighbors": [
+        "Lettland",
+        "Russland"
+      ],
+      "in_eu": true,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist das nördlichste der drei baltischen Länder",
+        "en": "It is the northernmost of the three Baltic countries"
+      },
+      {
+        "de": "Es liegt gegenüber von Finnland",
+        "en": "It is directly opposite Finland"
+      },
+      {
+        "de": "Es ist bekannt für seine digitale Gesellschaft und E-Government",
+        "en": "It is known for its digital society and e-government"
+      }
+    ],
+    "description": {
+      "de": "Estland ist das kleinste baltische Land und weltweit führend in digitaler Technologie und E-Government.",
+      "en": "Estonia is the smallest Baltic country and a world leader in digital technology and e-government."
+    },
+    "fun_fact": {
+      "de": "Estland war das erste Land der Welt, das Online-Wahlen eingeführt hat – seit 2005 kann man dort per Internet wählen!",
+      "en": "Estonia was the first country in the world to introduce online voting – since 2005 you can vote via the internet!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ee.png",
+    "emoji": "🇪🇪",
+    "lat": 58.6,
+    "lng": 25.0,
+    "qa_context": "Estland, Tallinn, Baltikum, Ostsee, Nordeuropa, 1,3 Mio., Euro, digital, E-Government, baltischer Staat"
+  },
+  {
+    "id": "albanien",
+    "name": {
+      "de": "Albanien",
+      "en": "Albania"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Europa",
+      "capital": "Tirana",
+      "population_million": 3,
+      "area_km2": 28748,
+      "language": "Albanisch",
+      "currency": "Albanischer Lek",
+      "neighbors": [
+        "Montenegro",
+        "Kosovo",
+        "Nordmazedonien",
+        "Griechenland"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt auf der Balkanhalbinsel",
+        "en": "It is on the Balkan Peninsula"
+      },
+      {
+        "de": "Es liegt neben Griechenland",
+        "en": "It is next to Greece"
+      },
+      {
+        "de": "Es grenzt an die Adria und das Ionische Meer",
+        "en": "It borders the Adriatic and Ionian Seas"
+      }
+    ],
+    "description": {
+      "de": "Albanien ist ein kleines Land auf dem Balkan mit wunderschöner Küste, Bergen und einer reichen Geschichte.",
+      "en": "Albania is a small country on the Balkans with a beautiful coastline, mountains, and a rich history."
+    },
+    "fun_fact": {
+      "de": "In Albanien bedeutet Kopfnicken 'Nein' und Kopfschütteln 'Ja' – genau umgekehrt wie bei uns!",
+      "en": "In Albania, nodding your head means 'No' and shaking your head means 'Yes' – exactly the opposite of us!"
+    },
+    "flag_url": "https://flagcdn.com/w320/al.png",
+    "emoji": "🇦🇱",
+    "lat": 41.1,
+    "lng": 20.2,
+    "qa_context": "Albanien, Tirana, Balkan, Südeuropa, 3 Mio., Adria, Ionisches Meer, Berge, Adler-Flagge"
+  },
+  {
+    "id": "suedkorea",
+    "name": {
+      "de": "Südkorea",
+      "en": "South Korea"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Seoul",
+      "population_million": 52,
+      "area_km2": 100210,
+      "language": "Koreanisch",
+      "currency": "Südkoreanischer Won",
+      "neighbors": [
+        "Nordkorea"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Ostasien auf einer Halbinsel",
+        "en": "It is in East Asia on a peninsula"
+      },
+      {
+        "de": "Es ist bekannt für Samsung, Hyundai und K-Pop",
+        "en": "It is known for Samsung, Hyundai, and K-Pop"
+      },
+      {
+        "de": "Es grenzt im Norden an ein sehr abgeschlossenes Land",
+        "en": "It borders a very isolated country to the north"
+      }
+    ],
+    "description": {
+      "de": "Südkorea ist ein hochentwickeltes Land in Ostasien, bekannt für Technologie, K-Pop, Kimchi und tolle Animations-Serien.",
+      "en": "South Korea is a highly developed country in East Asia, known for technology, K-Pop, kimchi, and great animated series."
+    },
+    "fun_fact": {
+      "de": "In Südkorea ist man bei der Geburt bereits 1 Jahr alt – dort wird das Alter anders gezählt als bei uns!",
+      "en": "In South Korea you are already 1 year old at birth – age is counted differently there than with us!"
+    },
+    "flag_url": "https://flagcdn.com/w320/kr.png",
+    "emoji": "🇰🇷",
+    "lat": 36.5,
+    "lng": 127.8,
+    "qa_context": "Südkorea, Seoul, Ostasien, Halbinsel, 52 Mio., Won, Samsung, Hyundai, K-Pop, Kimchi, BTS"
+  },
+  {
+    "id": "thailand",
+    "name": {
+      "de": "Thailand",
+      "en": "Thailand"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Bangkok",
+      "population_million": 70,
+      "area_km2": 513120,
+      "language": "Thailändisch",
+      "currency": "Thaibaht",
+      "neighbors": [
+        "Myanmar",
+        "Laos",
+        "Kambodscha",
+        "Malaysia"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südostasien",
+        "en": "It is in Southeast Asia"
+      },
+      {
+        "de": "Es ist bekannt für Elefanten und Tempel",
+        "en": "It is known for elephants and temples"
+      },
+      {
+        "de": "Sein König wird sehr verehrt",
+        "en": "Its king is highly revered"
+      }
+    ],
+    "description": {
+      "de": "Thailand ist ein beliebtes Urlaubsland in Südostasien, bekannt für seine Tempel, Elefanten, scharfe Küche und freundliche Menschen.",
+      "en": "Thailand is a popular holiday destination in Southeast Asia, known for its temples, elephants, spicy cuisine and friendly people."
+    },
+    "fun_fact": {
+      "de": "Bangkok hat den längsten offiziellen Stadtnamen der Welt – er hat 169 Zeichen auf Thailändisch!",
+      "en": "Bangkok has the longest official city name in the world – it has 169 characters in Thai!"
+    },
+    "flag_url": "https://flagcdn.com/w320/th.png",
+    "emoji": "🇹🇭",
+    "lat": 15.9,
+    "lng": 100.9,
+    "qa_context": "Thailand, Bangkok, Südostasien, 70 Mio., Baht, Elefanten, Tempel, Strand, Muay Thai, Buddhismus"
+  },
+  {
+    "id": "vietnam",
+    "name": {
+      "de": "Vietnam",
+      "en": "Vietnam"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Hanoi",
+      "population_million": 98,
+      "area_km2": 331212,
+      "language": "Vietnamesisch",
+      "currency": "Vietnamesischer Dong",
+      "neighbors": [
+        "China",
+        "Laos",
+        "Kambodscha"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südostasien am Südchinesischen Meer",
+        "en": "It is in Southeast Asia on the South China Sea"
+      },
+      {
+        "de": "Es ist ein langes, schmales Land",
+        "en": "It is a long, narrow country"
+      },
+      {
+        "de": "Es ist bekannt für Pho-Suppe und Reisterrassen",
+        "en": "It is known for pho soup and rice terraces"
+      }
+    ],
+    "description": {
+      "de": "Vietnam ist ein langes, schmales Land in Südostasien mit beeindruckenden Reisterrassen, Dschungeln und einer reichen Kultur.",
+      "en": "Vietnam is a long, narrow country in Southeast Asia with impressive rice terraces, jungles, and a rich culture."
+    },
+    "fun_fact": {
+      "de": "Vietnam ist der zweitgrößte Kaffeeproduzent der Welt – nach Brasilien!",
+      "en": "Vietnam is the world's second largest coffee producer – after Brazil!"
+    },
+    "flag_url": "https://flagcdn.com/w320/vn.png",
+    "emoji": "🇻🇳",
+    "lat": 14.1,
+    "lng": 108.3,
+    "qa_context": "Vietnam, Hanoi, Ho-Chi-Minh-Stadt, Südostasien, 98 Mio., Dong, Reisterrassen, Pho, Kaffee, Mekong"
+  },
+  {
+    "id": "indonesien",
+    "name": {
+      "de": "Indonesien",
+      "en": "Indonesia"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Jakarta",
+      "population_million": 277,
+      "area_km2": 1904569,
+      "language": "Indonesisch",
+      "currency": "Indonesische Rupiah",
+      "neighbors": [
+        "Papua-Neuguinea",
+        "Timor-Leste",
+        "Malaysia"
+      ],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist das größte Inselland der Welt",
+        "en": "It is the largest island nation in the world"
+      },
+      {
+        "de": "Es hat über 17.000 Inseln",
+        "en": "It has over 17,000 islands"
+      },
+      {
+        "de": "Bali ist eine seiner bekanntesten Inseln",
+        "en": "Bali is one of its most famous islands"
+      }
+    ],
+    "description": {
+      "de": "Indonesien ist das größte Archipel der Welt mit über 17.000 Inseln, tropischen Wäldern und der viertgrößten Bevölkerung der Erde.",
+      "en": "Indonesia is the world's largest archipelago with over 17,000 islands, tropical forests, and the world's fourth largest population."
+    },
+    "fun_fact": {
+      "de": "Auf Indonesien leben mehr Tier- und Pflanzenarten als fast überall sonst auf der Erde – darunter Orang-Utans und Komodo-Warane!",
+      "en": "Indonesia is home to more species of animals and plants than almost anywhere else on Earth – including orangutans and Komodo dragons!"
+    },
+    "flag_url": "https://flagcdn.com/w320/id.png",
+    "emoji": "🇮🇩",
+    "lat": -0.8,
+    "lng": 113.9,
+    "qa_context": "Indonesien, Jakarta, Südostasien, 17.000 Inseln, 277 Mio., Rupiah, Bali, Orang-Utan, Komodo-Waran, Regenwald"
+  },
+  {
+    "id": "malaysia",
+    "name": {
+      "de": "Malaysia",
+      "en": "Malaysia"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Kuala Lumpur",
+      "population_million": 33,
+      "area_km2": 329847,
+      "language": "Malaiisch",
+      "currency": "Malaysischer Ringgit",
+      "neighbors": [
+        "Thailand",
+        "Indonesien",
+        "Brunei"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südostasien",
+        "en": "It is in Southeast Asia"
+      },
+      {
+        "de": "Es ist bekannt für die Petronas Twin Towers",
+        "en": "It is known for the Petronas Twin Towers"
+      },
+      {
+        "de": "Orang-Utans leben in seinen Regenwäldern",
+        "en": "Orangutans live in its rainforests"
+      }
+    ],
+    "description": {
+      "de": "Malaysia ist ein vielfältiges Land in Südostasien mit tropischen Regenwäldern, Orang-Utans und modernen Städten.",
+      "en": "Malaysia is a diverse country in Southeast Asia with tropical rainforests, orangutans, and modern cities."
+    },
+    "fun_fact": {
+      "de": "Die Petronas Twin Towers in Kuala Lumpur waren von 1998 bis 2004 die höchsten Gebäude der Welt!",
+      "en": "The Petronas Twin Towers in Kuala Lumpur were the tallest buildings in the world from 1998 to 2004!"
+    },
+    "flag_url": "https://flagcdn.com/w320/my.png",
+    "emoji": "🇲🇾",
+    "lat": 3.1,
+    "lng": 109.5,
+    "qa_context": "Malaysia, Kuala Lumpur, Südostasien, 33 Mio., Ringgit, Petronas Towers, Orang-Utan, Regenwald, Borneo"
+  },
+  {
+    "id": "philippinen",
+    "name": {
+      "de": "Philippinen",
+      "en": "Philippines"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Manila",
+      "population_million": 115,
+      "area_km2": 300000,
+      "language": "Filipino, Englisch",
+      "currency": "Philippinischer Peso",
+      "neighbors": [],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist ein Inselstaat in Südostasien",
+        "en": "It is an island nation in Southeast Asia"
+      },
+      {
+        "de": "Es hat über 7.000 Inseln",
+        "en": "It has over 7,000 islands"
+      },
+      {
+        "de": "Es liegt östlich von Vietnam",
+        "en": "It is east of Vietnam"
+      }
+    ],
+    "description": {
+      "de": "Die Philippinen sind ein tropisches Inselland in Südostasien mit über 7.000 Inseln, schönen Stränden und freundlichen Menschen.",
+      "en": "The Philippines is a tropical island nation in Southeast Asia with over 7,000 islands, beautiful beaches, and friendly people."
+    },
+    "fun_fact": {
+      "de": "Die Philippinen sind das einzige Land in Asien, in dem Weihnachten am längsten gefeiert wird – von September bis Januar!",
+      "en": "The Philippines is the only country in Asia where Christmas is celebrated the longest – from September to January!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ph.png",
+    "emoji": "🇵🇭",
+    "lat": 12.9,
+    "lng": 122.0,
+    "qa_context": "Philippinen, Manila, Südostasien, Inselstaat, 7.000 Inseln, 115 Mio., Peso, Strand, Palmen, Taifune"
+  },
+  {
+    "id": "pakistan",
+    "name": {
+      "de": "Pakistan",
+      "en": "Pakistan"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Islamabad",
+      "population_million": 230,
+      "area_km2": 881913,
+      "language": "Urdu, Englisch",
+      "currency": "Pakistanische Rupie",
+      "neighbors": [
+        "Indien",
+        "Afghanistan",
+        "Iran",
+        "China"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südasien",
+        "en": "It is in South Asia"
+      },
+      {
+        "de": "Es grenzt an Indien und Afghanistan",
+        "en": "It borders India and Afghanistan"
+      },
+      {
+        "de": "Der K2, der zweithöchste Berg der Welt, liegt hier",
+        "en": "K2, the world's second highest mountain, is located here"
+      }
+    ],
+    "description": {
+      "de": "Pakistan ist ein großes Land in Südasien mit hohen Bergen, fruchtbaren Ebenen und einer langen Geschichte.",
+      "en": "Pakistan is a large country in South Asia with high mountains, fertile plains, and a long history."
+    },
+    "fun_fact": {
+      "de": "Der K2 in Pakistan ist mit 8.611 m der zweithöchste Berg der Welt – und gilt als schwieriger zu besteigen als der Everest!",
+      "en": "K2 in Pakistan at 8,611m is the second highest mountain in the world – and is considered harder to climb than Everest!"
+    },
+    "flag_url": "https://flagcdn.com/w320/pk.png",
+    "emoji": "🇵🇰",
+    "lat": 30.4,
+    "lng": 69.3,
+    "qa_context": "Pakistan, Islamabad, Karatschi, Südasien, 230 Mio., Rupie, K2, Himalaya, Islam, Indus"
+  },
+  {
+    "id": "iran",
+    "name": {
+      "de": "Iran",
+      "en": "Iran"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Teheran",
+      "population_million": 86,
+      "area_km2": 1648195,
+      "language": "Persisch",
+      "currency": "Iranischer Rial",
+      "neighbors": [
+        "Irak",
+        "Türkei",
+        "Armenien",
+        "Aserbaidschan",
+        "Turkmenistan",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Nahen Osten/Mittleren Osten",
+        "en": "It is in the Middle East"
+      },
+      {
+        "de": "Es ist bekannt für Perserteppiche und Safran",
+        "en": "It is known for Persian carpets and saffron"
+      },
+      {
+        "de": "Es ist eines der ältesten Reiche der Welt",
+        "en": "It is one of the world's oldest empires"
+      }
+    ],
+    "description": {
+      "de": "Iran ist ein großes Land im Mittleren Osten mit einer jahrtausendealten Geschichte als Persisches Reich.",
+      "en": "Iran is a large country in the Middle East with a thousands-of-years-old history as the Persian Empire."
+    },
+    "fun_fact": {
+      "de": "Im Iran wurden Schach und Polo erfunden – beides Spiele, die heute in der ganzen Welt gespielt werden!",
+      "en": "Chess and polo were invented in Iran – both games that are played around the world today!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ir.png",
+    "emoji": "🇮🇷",
+    "lat": 32.4,
+    "lng": 53.7,
+    "qa_context": "Iran, Teheran, Mittlerer Osten, 86 Mio., Rial, Perserteppich, Safran, Persisches Reich, Islam, Öl"
+  },
+  {
+    "id": "israel",
+    "name": {
+      "de": "Israel",
+      "en": "Israel"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Jerusalem",
+      "population_million": 9,
+      "area_km2": 20770,
+      "language": "Hebräisch, Arabisch",
+      "currency": "Neuer Israelischer Schekel",
+      "neighbors": [
+        "Libanon",
+        "Syrien",
+        "Jordanien",
+        "Ägypten"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Nahen Osten am Mittelmeer",
+        "en": "It is in the Middle East on the Mediterranean Sea"
+      },
+      {
+        "de": "Es ist ein heiliges Land für drei Weltreligionen",
+        "en": "It is a holy land for three world religions"
+      },
+      {
+        "de": "Das Tote Meer liegt hier – der tiefste Punkt der Erde",
+        "en": "The Dead Sea is here – the lowest point on Earth"
+      }
+    ],
+    "description": {
+      "de": "Israel ist ein kleines Land im Nahen Osten mit einer der längsten Geschichten der Welt und heiligen Stätten für Judentum, Christentum und Islam.",
+      "en": "Israel is a small country in the Middle East with one of the world's longest histories and holy sites for Judaism, Christianity, and Islam."
+    },
+    "fun_fact": {
+      "de": "Das Tote Meer in Israel ist so salzig, dass man darin nicht sinken kann – man schwimmt automatisch oben!",
+      "en": "The Dead Sea in Israel is so salty that you can't sink in it – you automatically float on top!"
+    },
+    "flag_url": "https://flagcdn.com/w320/il.png",
+    "emoji": "🇮🇱",
+    "lat": 31.0,
+    "lng": 34.9,
+    "qa_context": "Israel, Jerusalem, Tel Aviv, Naher Osten, 9 Mio., Schekel, Totes Meer, Judentum, Christentum, Islam, Mittelmeer"
+  },
+  {
+    "id": "kasachstan",
+    "name": {
+      "de": "Kasachstan",
+      "en": "Kazakhstan"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Astana",
+      "population_million": 19,
+      "area_km2": 2724900,
+      "language": "Kasachisch, Russisch",
+      "currency": "Kasachischer Tenge",
+      "neighbors": [
+        "Russland",
+        "China",
+        "Kirgisistan",
+        "Usbekistan",
+        "Turkmenistan"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": false
+    },
+    "hints": [
+      {
+        "de": "Es ist das neuntgrößte Land der Welt",
+        "en": "It is the ninth largest country in the world"
+      },
+      {
+        "de": "Es liegt in Zentralasien zwischen Russland und China",
+        "en": "It is in Central Asia between Russia and China"
+      },
+      {
+        "de": "Es ist das größte Land ohne Meereszugang der Welt",
+        "en": "It is the world's largest landlocked country"
+      }
+    ],
+    "description": {
+      "de": "Kasachstan ist ein riesiges Land in Zentralasien, bekannt für seine endlosen Steppen, Nomaden und die erste Raumfahrtbasis der Welt.",
+      "en": "Kazakhstan is a vast country in Central Asia, known for its endless steppes, nomads, and the world's first space launch facility."
+    },
+    "fun_fact": {
+      "de": "Vom Weltraumbahnhof Baikonur in Kasachstan starteten die ersten Satelliten und Kosmonauten in den Weltraum!",
+      "en": "From the Baikonur Cosmodrome in Kazakhstan, the first satellites and cosmonauts were launched into space!"
+    },
+    "flag_url": "https://flagcdn.com/w320/kz.png",
+    "emoji": "🇰🇿",
+    "lat": 48.0,
+    "lng": 68.0,
+    "qa_context": "Kasachstan, Astana, Zentralasien, größtes Binnenland, 19 Mio., Tenge, Steppe, Baikonur, Nomaden"
+  },
+  {
+    "id": "singapur",
+    "name": {
+      "de": "Singapur",
+      "en": "Singapore"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Singapur",
+      "population_million": 5.8,
+      "area_km2": 728,
+      "language": "Englisch, Mandarin, Malaiisch, Tamil",
+      "currency": "Singapur-Dollar",
+      "neighbors": [
+        "Malaysia"
+      ],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist einer der kleinsten Staaten der Welt",
+        "en": "It is one of the smallest countries in the world"
+      },
+      {
+        "de": "Es ist ein Stadtstaat in Südostasien",
+        "en": "It is a city-state in Southeast Asia"
+      },
+      {
+        "de": "Es ist für seine strenge Sauberkeit und Ordnung bekannt",
+        "en": "It is known for its strict cleanliness and order"
+      }
+    ],
+    "description": {
+      "de": "Singapur ist ein winziger Inselstadtstaat in Südostasien, einer der reichsten und saubersten Orte der Welt.",
+      "en": "Singapore is a tiny island city-state in Southeast Asia, one of the richest and cleanest places in the world."
+    },
+    "fun_fact": {
+      "de": "In Singapur ist das Kauen von Kaugummi verboten und kann mit Geldstrafe belegt werden!",
+      "en": "In Singapore, chewing gum is banned and can result in a fine!"
+    },
+    "flag_url": "https://flagcdn.com/w320/sg.png",
+    "emoji": "🇸🇬",
+    "lat": 1.3,
+    "lng": 103.8,
+    "qa_context": "Singapur, Stadtstaat, Südostasien, 5,8 Mio., Singapur-Dollar, sauber, modern, Kaugummiverbot, Hafen, Finanzzentrum"
+  },
+  {
+    "id": "nordkorea",
+    "name": {
+      "de": "Nordkorea",
+      "en": "North Korea"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Pjöngjang",
+      "population_million": 26,
+      "area_km2": 120538,
+      "language": "Koreanisch",
+      "currency": "Nordkoreanischer Won",
+      "neighbors": [
+        "Südkorea",
+        "China",
+        "Russland"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist eines der abgeschlossensten Länder der Welt",
+        "en": "It is one of the most isolated countries in the world"
+      },
+      {
+        "de": "Es liegt auf der Koreanischen Halbinsel",
+        "en": "It is on the Korean Peninsula"
+      },
+      {
+        "de": "Es grenzt an China und Südkorea",
+        "en": "It borders China and South Korea"
+      }
+    ],
+    "description": {
+      "de": "Nordkorea ist ein sehr abgeschlossenes Land in Ostasien, das von der Außenwelt fast vollständig abgeriegelt ist.",
+      "en": "North Korea is a very isolated country in East Asia, almost completely cut off from the outside world."
+    },
+    "fun_fact": {
+      "de": "In Nordkorea gibt es einen staatlichen Kalender, der das Jahr 1912 (Geburtsjahr des Gründers Kim Il-sung) als Jahr 1 zählt!",
+      "en": "In North Korea there is a state calendar that counts 1912 (the birth year of founder Kim Il-sung) as year 1!"
+    },
+    "flag_url": "https://flagcdn.com/w320/kp.png",
+    "emoji": "🇰🇵",
+    "lat": 40.3,
+    "lng": 127.5,
+    "qa_context": "Nordkorea, Pjöngjang, Ostasien, Koreanische Halbinsel, 26 Mio., Won, sehr abgeschlossen, Diktatur, Atomwaffen"
+  },
+  {
+    "id": "irak",
+    "name": {
+      "de": "Irak",
+      "en": "Iraq"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Asien",
+      "capital": "Bagdad",
+      "population_million": 42,
+      "area_km2": 438317,
+      "language": "Arabisch, Kurdisch",
+      "currency": "Irakischer Dinar",
+      "neighbors": [
+        "Türkei",
+        "Iran",
+        "Kuwait",
+        "Saudi-Arabien",
+        "Jordanien",
+        "Syrien"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Nahen Osten zwischen dem Iran und Syrien",
+        "en": "It is in the Middle East between Iran and Syria"
+      },
+      {
+        "de": "Es ist die Wiege der Zivilisation – hier entstand die erste Schrift",
+        "en": "It is the cradle of civilization – the first writing was created here"
+      },
+      {
+        "de": "Der Tigris und Euphrat fließen durch dieses Land",
+        "en": "The Tigris and Euphrates flow through this country"
+      }
+    ],
+    "description": {
+      "de": "Irak ist ein Land im Nahen Osten zwischen Tigris und Euphrat, einst Herz der mesopotamischen Hochkulturen.",
+      "en": "Iraq is a country in the Middle East between the Tigris and Euphrates, once the heart of Mesopotamian civilizations."
+    },
+    "fun_fact": {
+      "de": "Im alten Mesopotamien, dem heutigen Irak, wurde vor ca. 5.000 Jahren die erste Schrift der Welt erfunden!",
+      "en": "In ancient Mesopotamia, modern-day Iraq, the world's first writing was invented about 5,000 years ago!"
+    },
+    "flag_url": "https://flagcdn.com/w320/iq.png",
+    "emoji": "🇮🇶",
+    "lat": 33.2,
+    "lng": 44.4,
+    "qa_context": "Irak, Bagdad, Naher Osten, Mesopotamien, 42 Mio., Dinar, Tigris, Euphrat, Öl, erste Schrift, Babylon"
+  },
+  {
+    "id": "aethiopien",
+    "name": {
+      "de": "Äthiopien",
+      "en": "Ethiopia"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Addis Abeba",
+      "population_million": 126,
+      "area_km2": 1104300,
+      "language": "Amharisch",
+      "currency": "Äthiopischer Birr",
+      "neighbors": [
+        "Eritrea",
+        "Dschibuti",
+        "Somalia",
+        "Kenia",
+        "Südsudan",
+        "Sudan"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": false
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Ostafrika",
+        "en": "It is in East Africa"
+      },
+      {
+        "de": "Es ist bekannt für exzellenten Kaffee",
+        "en": "It is known for excellent coffee"
+      },
+      {
+        "de": "Es ist eines der ältesten Länder der Welt",
+        "en": "It is one of the oldest countries in the world"
+      }
+    ],
+    "description": {
+      "de": "Äthiopien ist ein altes Land in Ostafrika mit über 3.000 Jahren Geschichte, bekannt als Geburtsort des Kaffees.",
+      "en": "Ethiopia is an ancient country in East Africa with over 3,000 years of history, known as the birthplace of coffee."
+    },
+    "fun_fact": {
+      "de": "Kaffee wurde in Äthiopien entdeckt – eine Legende erzählt, dass ein Ziegenhirte bemerkte, wie seine Ziegen nach dem Essen bestimmter Beeren aufgedreht wurden!",
+      "en": "Coffee was discovered in Ethiopia – legend has it that a goat herder noticed how his goats became energetic after eating certain berries!"
+    },
+    "flag_url": "https://flagcdn.com/w320/et.png",
+    "emoji": "🇪🇹",
+    "lat": 8.6,
+    "lng": 39.6,
+    "qa_context": "Äthiopien, Addis Abeba, Ostafrika, 126 Mio., Birr, Kaffee, altes Land, Hoch-Hochland, kein Meereszugang"
+  },
+  {
+    "id": "kenia",
+    "name": {
+      "de": "Kenia",
+      "en": "Kenya"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Nairobi",
+      "population_million": 55,
+      "area_km2": 582646,
+      "language": "Suaheli, Englisch",
+      "currency": "Kenianischer Schilling",
+      "neighbors": [
+        "Äthiopien",
+        "Somalia",
+        "Tansania",
+        "Uganda",
+        "Südsudan"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Ostafrika am Indischen Ozean",
+        "en": "It is in East Africa on the Indian Ocean"
+      },
+      {
+        "de": "Es ist bekannt für Safari und die Großen Fünf",
+        "en": "It is known for safari and the Big Five"
+      },
+      {
+        "de": "Hier leben Löwen, Elefanten und Giraffen in der Wildnis",
+        "en": "Lions, elephants, and giraffes live wild here"
+      }
+    ],
+    "description": {
+      "de": "Kenia ist ein wunderschönes Land in Ostafrika, bekannt für seine atemberaubenden Safarierlebnisse und wilden Tiere.",
+      "en": "Kenya is a beautiful country in East Africa, known for its breathtaking safari experiences and wild animals."
+    },
+    "fun_fact": {
+      "de": "Die Masai Mara in Kenia ist Schauplatz der größten Tierwanderung der Welt – jedes Jahr wandern über eine Million Gnus!",
+      "en": "The Masai Mara in Kenya is the scene of the world's greatest animal migration – over one million wildebeest migrate every year!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ke.png",
+    "emoji": "🇰🇪",
+    "lat": -0.0,
+    "lng": 37.9,
+    "qa_context": "Kenia, Nairobi, Ostafrika, 55 Mio., Schilling, Safari, Löwen, Elefanten, Massai Mara, Kilimanjaro nahe"
+  },
+  {
+    "id": "tansania",
+    "name": {
+      "de": "Tansania",
+      "en": "Tanzania"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Dodoma",
+      "population_million": 63,
+      "area_km2": 945087,
+      "language": "Suaheli, Englisch",
+      "currency": "Tansanischer Schilling",
+      "neighbors": [
+        "Kenia",
+        "Uganda",
+        "Ruanda",
+        "Burundi",
+        "DR Kongo",
+        "Sambia",
+        "Malawi",
+        "Mosambik"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Ostafrika",
+        "en": "It is in East Africa"
+      },
+      {
+        "de": "Der höchste Berg Afrikas liegt hier",
+        "en": "Africa's highest mountain is here"
+      },
+      {
+        "de": "Die Insel Sansibar gehört zu diesem Land",
+        "en": "The island of Zanzibar belongs to this country"
+      }
+    ],
+    "description": {
+      "de": "Tansania beherbergt den Kilimanjaro, die Serengeti und die Insel Sansibar – ein wahres Naturparadies in Ostafrika.",
+      "en": "Tanzania is home to Kilimanjaro, the Serengeti, and the island of Zanzibar – a true natural paradise in East Africa."
+    },
+    "fun_fact": {
+      "de": "Der Kilimanjaro in Tansania ist mit 5.895 m der höchste Berg Afrikas – und man kann ihn ohne besondere Kletterausrüstung besteigen!",
+      "en": "Kilimanjaro in Tanzania at 5,895m is Africa's highest mountain – and you can climb it without special climbing equipment!"
+    },
+    "flag_url": "https://flagcdn.com/w320/tz.png",
+    "emoji": "🇹🇿",
+    "lat": -6.4,
+    "lng": 34.9,
+    "qa_context": "Tansania, Dodoma, Daressalam, Ostafrika, 63 Mio., Schilling, Kilimanjaro, Serengeti, Sansibar, Gorillas"
+  },
+  {
+    "id": "ghana",
+    "name": {
+      "de": "Ghana",
+      "en": "Ghana"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Accra",
+      "population_million": 32,
+      "area_km2": 238533,
+      "language": "Englisch",
+      "currency": "Ghanaischer Cedi",
+      "neighbors": [
+        "Côte d'Ivoire",
+        "Burkina Faso",
+        "Togo"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Westafrika am Atlantischen Ozean",
+        "en": "It is in West Africa on the Atlantic Ocean"
+      },
+      {
+        "de": "Es ist bekannt für Kakao und Schokolade",
+        "en": "It is known for cocoa and chocolate"
+      },
+      {
+        "de": "Es war das erste schwarzafrikanische Land, das unabhängig wurde",
+        "en": "It was the first sub-Saharan African country to gain independence"
+      }
+    ],
+    "description": {
+      "de": "Ghana ist ein stabiles, demokratisches Land in Westafrika und einer der größten Kakaoproduzenten der Welt.",
+      "en": "Ghana is a stable, democratic country in West Africa and one of the world's largest cocoa producers."
+    },
+    "fun_fact": {
+      "de": "Ghana produziert etwa 20% des weltweit angebauten Kakaos – das ist der wichtigste Rohstoff für Schokolade!",
+      "en": "Ghana produces about 20% of the world's cocoa – the most important raw material for chocolate!"
+    },
+    "flag_url": "https://flagcdn.com/w320/gh.png",
+    "emoji": "🇬🇭",
+    "lat": 7.9,
+    "lng": -1.0,
+    "qa_context": "Ghana, Accra, Westafrika, 32 Mio., Cedi, Kakao, Schokolade, Goldküste, demokratisch"
+  },
+  {
+    "id": "kamerun",
+    "name": {
+      "de": "Kamerun",
+      "en": "Cameroon"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Yaoundé",
+      "population_million": 28,
+      "area_km2": 475442,
+      "language": "Französisch, Englisch",
+      "currency": "CFA-Franc",
+      "neighbors": [
+        "Nigeria",
+        "Tschad",
+        "Zentralafrika",
+        "Äquatorialguinea",
+        "Gabun",
+        "Republik Kongo"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Zentralwestafrika",
+        "en": "It is in Central West Africa"
+      },
+      {
+        "de": "Es ist für seinen starken Fußball bekannt",
+        "en": "It is known for its strong football"
+      },
+      {
+        "de": "Es wird 'Afrika in Miniatur' genannt wegen seiner Vielfalt",
+        "en": "It is called 'Africa in miniature' due to its diversity"
+      }
+    ],
+    "description": {
+      "de": "Kamerun liegt in Zentralwestafrika und gilt wegen seiner Vielfalt an Landschaften und Kulturen als 'Afrika in Miniatur'.",
+      "en": "Cameroon is located in Central West Africa and is called 'Africa in miniature' due to its variety of landscapes and cultures."
+    },
+    "fun_fact": {
+      "de": "Kamerun hat vier sehr unterschiedliche Klimazonen – von der Sahara im Norden bis zum Regenwald im Süden!",
+      "en": "Cameroon has four very different climate zones – from the Sahara in the north to the rainforest in the south!"
+    },
+    "flag_url": "https://flagcdn.com/w320/cm.png",
+    "emoji": "🇨🇲",
+    "lat": 5.7,
+    "lng": 12.4,
+    "qa_context": "Kamerun, Yaoundé, Douala, Zentralafrika, 28 Mio., CFA, Fußball, Regenwald, Sahara, zweisprachig"
+  },
+  {
+    "id": "angola",
+    "name": {
+      "de": "Angola",
+      "en": "Angola"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Luanda",
+      "population_million": 35,
+      "area_km2": 1246700,
+      "language": "Portugiesisch",
+      "currency": "Angolanischer Kwanza",
+      "neighbors": [
+        "Demokratische Republik Kongo",
+        "Sambia",
+        "Namibia"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südwestafrika",
+        "en": "It is in Southwest Africa"
+      },
+      {
+        "de": "Es ist ein ehemaliges portugiesisches Kolonialland",
+        "en": "It is a former Portuguese colony"
+      },
+      {
+        "de": "Es hat viele Erdölvorkommen",
+        "en": "It has significant oil reserves"
+      }
+    ],
+    "description": {
+      "de": "Angola ist ein großes Land in Südwestafrika, reich an Erdöl und Diamanten, mit einer langen Geschichte der portugiesischen Kolonisierung.",
+      "en": "Angola is a large country in Southwest Africa, rich in oil and diamonds, with a long history of Portuguese colonization."
+    },
+    "fun_fact": {
+      "de": "Angola ist einer der größten Diamantenproduzenten Afrikas – in seinen Minen werden jährlich Millionen Karat Diamanten gefördert!",
+      "en": "Angola is one of Africa's largest diamond producers – millions of carats of diamonds are mined there annually!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ao.png",
+    "emoji": "🇦🇴",
+    "lat": -11.2,
+    "lng": 17.9,
+    "qa_context": "Angola, Luanda, Südwestafrika, 35 Mio., Kwanza, Öl, Diamanten, Portugiesisch, ehem. Kolonie"
+  },
+  {
+    "id": "algerien",
+    "name": {
+      "de": "Algerien",
+      "en": "Algeria"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Algier",
+      "population_million": 46,
+      "area_km2": 2381741,
+      "language": "Arabisch, Tamazight",
+      "currency": "Algerischer Dinar",
+      "neighbors": [
+        "Marokko",
+        "Tunesien",
+        "Libyen",
+        "Niger",
+        "Mali",
+        "Mauretanien"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist das größte Land Afrikas",
+        "en": "It is the largest country in Africa"
+      },
+      {
+        "de": "Ein großer Teil des Landes ist Sahara",
+        "en": "A large part of the country is the Sahara"
+      },
+      {
+        "de": "Es liegt in Nordafrika am Mittelmeer",
+        "en": "It is in North Africa on the Mediterranean"
+      }
+    ],
+    "description": {
+      "de": "Algerien ist das größte Land Afrikas und besteht zu großen Teilen aus der Sahara-Wüste.",
+      "en": "Algeria is the largest country in Africa and consists largely of the Sahara Desert."
+    },
+    "fun_fact": {
+      "de": "Algerien ist das größte Land Afrikas und das zehntgrößte der Welt – fast so groß wie ganz Westeuropa zusammen!",
+      "en": "Algeria is the largest country in Africa and the tenth largest in the world – almost as large as all of Western Europe combined!"
+    },
+    "flag_url": "https://flagcdn.com/w320/dz.png",
+    "emoji": "🇩🇿",
+    "lat": 28.0,
+    "lng": 2.6,
+    "qa_context": "Algerien, Algier, Nordafrika, größtes Land Afrikas, 46 Mio., Dinar, Sahara, Mittelmeer, Arabisch"
+  },
+  {
+    "id": "tunesien",
+    "name": {
+      "de": "Tunesien",
+      "en": "Tunisia"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Tunis",
+      "population_million": 12,
+      "area_km2": 163610,
+      "language": "Arabisch",
+      "currency": "Tunesischer Dinar",
+      "neighbors": [
+        "Algerien",
+        "Libyen"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Nordafrika am Mittelmeer",
+        "en": "It is in North Africa on the Mediterranean"
+      },
+      {
+        "de": "Es ist ein beliebtes Urlaubsland für Europäer",
+        "en": "It is a popular holiday destination for Europeans"
+      },
+      {
+        "de": "Hier wurden Teile von Star Wars gedreht",
+        "en": "Parts of Star Wars were filmed here"
+      }
+    ],
+    "description": {
+      "de": "Tunesien ist ein kleines Land in Nordafrika mit schönen Stränden, der Sahara und antiken Ruinen von Karthago.",
+      "en": "Tunisia is a small country in North Africa with beautiful beaches, the Sahara, and ancient ruins of Carthage."
+    },
+    "fun_fact": {
+      "de": "Teile der Star Wars-Filme wurden in der tunesischen Wüste gedreht – die Szenen auf dem Planeten Tatooine!",
+      "en": "Parts of the Star Wars films were filmed in the Tunisian desert – the scenes on the planet Tatooine!"
+    },
+    "flag_url": "https://flagcdn.com/w320/tn.png",
+    "emoji": "🇹🇳",
+    "lat": 33.9,
+    "lng": 9.6,
+    "qa_context": "Tunesien, Tunis, Nordafrika, 12 Mio., Dinar, Sahara, Mittelmeer, Karthago, Star Wars, Tourismus"
+  },
+  {
+    "id": "somalia",
+    "name": {
+      "de": "Somalia",
+      "en": "Somalia"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Mogadischu",
+      "population_million": 18,
+      "area_km2": 637657,
+      "language": "Somalisch, Arabisch",
+      "currency": "Somalischer Schilling",
+      "neighbors": [
+        "Äthiopien",
+        "Kenia",
+        "Dschibuti"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt am Horn von Afrika",
+        "en": "It is on the Horn of Africa"
+      },
+      {
+        "de": "Es hat die längste Küstenlinie Afrikas",
+        "en": "It has the longest coastline in Africa"
+      },
+      {
+        "de": "Es liegt ganz im Osten von Afrika",
+        "en": "It is in the far east of Africa"
+      }
+    ],
+    "description": {
+      "de": "Somalia liegt am Horn von Afrika und hat die längste Küstenlinie des Kontinents, mit einer bewegten Geschichte und Kultur.",
+      "en": "Somalia is located at the Horn of Africa and has the continent's longest coastline, with a turbulent history and culture."
+    },
+    "fun_fact": {
+      "de": "Somalia hat die längste Küstenlinie aller afrikanischen Länder – über 3.300 Kilometer Küste am Indischen Ozean!",
+      "en": "Somalia has the longest coastline of any African country – over 3,300 kilometers of coast on the Indian Ocean!"
+    },
+    "flag_url": "https://flagcdn.com/w320/so.png",
+    "emoji": "🇸🇴",
+    "lat": 5.2,
+    "lng": 46.2,
+    "qa_context": "Somalia, Mogadischu, Horn von Afrika, Ostafrika, 18 Mio., Indischer Ozean, längste Küste Afrikas"
+  },
+  {
+    "id": "madagaskar",
+    "name": {
+      "de": "Madagaskar",
+      "en": "Madagascar"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Afrika",
+      "capital": "Antananarivo",
+      "population_million": 28,
+      "area_km2": 587041,
+      "language": "Madagassisch, Französisch",
+      "currency": "Madagassischer Ariary",
+      "neighbors": [],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist eine große Insel östlich von Afrika",
+        "en": "It is a large island east of Africa"
+      },
+      {
+        "de": "Es ist die viertgrößte Insel der Welt",
+        "en": "It is the fourth largest island in the world"
+      },
+      {
+        "de": "Hier leben Lemuren – sie gibt es nur auf dieser Insel",
+        "en": "Lemurs live here – they only exist on this island"
+      }
+    ],
+    "description": {
+      "de": "Madagaskar ist eine große Insel im Indischen Ozean östlich von Afrika, bekannt für einzigartige Tiere und Pflanzen, die es nirgendwo sonst gibt.",
+      "en": "Madagascar is a large island in the Indian Ocean east of Africa, known for unique animals and plants found nowhere else."
+    },
+    "fun_fact": {
+      "de": "Über 90% aller Tier- und Pflanzenarten Madagaskars gibt es nirgendwo sonst auf der Welt – darunter die niedlichen Lemuren!",
+      "en": "Over 90% of all animal and plant species in Madagascar exist nowhere else in the world – including the cute lemurs!"
+    },
+    "flag_url": "https://flagcdn.com/w320/mg.png",
+    "emoji": "🇲🇬",
+    "lat": -18.8,
+    "lng": 46.9,
+    "qa_context": "Madagaskar, Antananarivo, Insel, Indischer Ozean, Ostafrika, 28 Mio., Lemuren, viertgrößte Insel, einzigartige Fauna"
+  },
+  {
+    "id": "kolumbien",
+    "name": {
+      "de": "Kolumbien",
+      "en": "Colombia"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Bogotá",
+      "population_million": 52,
+      "area_km2": 1141748,
+      "language": "Spanisch",
+      "currency": "Kolumbianischer Peso",
+      "neighbors": [
+        "Venezuela",
+        "Brasilien",
+        "Peru",
+        "Ecuador",
+        "Panama"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Norden Südamerikas",
+        "en": "It is in northern South America"
+      },
+      {
+        "de": "Es grenzt sowohl an den Pazifik als auch an die Karibik",
+        "en": "It borders both the Pacific and the Caribbean"
+      },
+      {
+        "de": "Es ist bekannt für Kaffee und Smaragde",
+        "en": "It is known for coffee and emeralds"
+      }
+    ],
+    "description": {
+      "de": "Kolumbien liegt im Norden Südamerikas und ist das einzige Land Südamerikas, das sowohl an den Pazifik als auch an das Karibische Meer grenzt.",
+      "en": "Colombia is in northern South America and is the only country in South America that borders both the Pacific and the Caribbean Sea."
+    },
+    "fun_fact": {
+      "de": "Kolumbien ist der größte Exporteur von Smaragden der Welt – bis zu 90% aller Smaragde kommen von dort!",
+      "en": "Colombia is the world's largest exporter of emeralds – up to 90% of all emeralds come from there!"
+    },
+    "flag_url": "https://flagcdn.com/w320/co.png",
+    "emoji": "🇨🇴",
+    "lat": 4.1,
+    "lng": -72.5,
+    "qa_context": "Kolumbien, Bogotá, Südamerika, 52 Mio., Peso, Kaffee, Smaragde, Karibik, Pazifik, Anden"
+  },
+  {
+    "id": "venezuela",
+    "name": {
+      "de": "Venezuela",
+      "en": "Venezuela"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Caracas",
+      "population_million": 29,
+      "area_km2": 916445,
+      "language": "Spanisch",
+      "currency": "Venezolanischer Bolívar",
+      "neighbors": [
+        "Kolumbien",
+        "Brasilien",
+        "Guyana"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Nordsüdamerika an der Karibik",
+        "en": "It is in northern South America on the Caribbean"
+      },
+      {
+        "de": "Hier befindet sich der höchste Wasserfall der Welt",
+        "en": "The world's highest waterfall is located here"
+      },
+      {
+        "de": "Es hat die größten bekannten Ölreserven der Welt",
+        "en": "It has the world's largest known oil reserves"
+      }
+    ],
+    "description": {
+      "de": "Venezuela liegt an der Karibikküste Südamerikas und beherbergt den Angel Fall, den höchsten Wasserfall der Welt.",
+      "en": "Venezuela is on the Caribbean coast of South America and is home to Angel Falls, the world's highest waterfall."
+    },
+    "fun_fact": {
+      "de": "Der Salto Ángel in Venezuela ist mit 979 Metern der höchste Wasserfall der Welt – fast dreimal so hoch wie der Eiffelturm!",
+      "en": "Angel Falls in Venezuela at 979 meters is the world's highest waterfall – almost three times taller than the Eiffel Tower!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ve.png",
+    "emoji": "🇻🇪",
+    "lat": 8.0,
+    "lng": -65.0,
+    "qa_context": "Venezuela, Caracas, Südamerika, 29 Mio., Bolívar, Salto Ángel, Ölreserven, Karibik, Anden"
+  },
+  {
+    "id": "chile",
+    "name": {
+      "de": "Chile",
+      "en": "Chile"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Santiago",
+      "population_million": 19,
+      "area_km2": 756102,
+      "language": "Spanisch",
+      "currency": "Chilenischer Peso",
+      "neighbors": [
+        "Peru",
+        "Bolivien",
+        "Argentinien"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist ein extrem langes, schmales Land",
+        "en": "It is an extremely long, narrow country"
+      },
+      {
+        "de": "Es liegt entlang der Westküste Südamerikas",
+        "en": "It lies along the west coast of South America"
+      },
+      {
+        "de": "Hier liegt die trockenste Wüste der Welt",
+        "en": "The world's driest desert is here"
+      }
+    ],
+    "description": {
+      "de": "Chile ist das längste und schmalste Land der Welt, das sich über 4.300 km entlang der Westküste Südamerikas erstreckt.",
+      "en": "Chile is the world's longest and narrowest country, stretching 4,300 km along the west coast of South America."
+    },
+    "fun_fact": {
+      "de": "Die Atacama-Wüste in Chile ist die trockenste Wüste der Welt – in manchen Teilen hat es seit über 400 Jahren nicht geregnet!",
+      "en": "The Atacama Desert in Chile is the driest desert in the world – in some parts it hasn't rained for over 400 years!"
+    },
+    "flag_url": "https://flagcdn.com/w320/cl.png",
+    "emoji": "🇨🇱",
+    "lat": -30.0,
+    "lng": -71.0,
+    "qa_context": "Chile, Santiago, Südamerika, 19 Mio., Peso, Atacama, langstes Land, Anden, Patagonien, Kupfer"
+  },
+  {
+    "id": "argentinien",
+    "name": {
+      "de": "Argentinien",
+      "en": "Argentina"
+    },
+    "category": "laender",
+    "difficulty": 1,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Buenos Aires",
+      "population_million": 46,
+      "area_km2": 2780400,
+      "language": "Spanisch",
+      "currency": "Argentinischer Peso",
+      "neighbors": [
+        "Chile",
+        "Bolivien",
+        "Paraguay",
+        "Brasilien",
+        "Uruguay"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist das zweitgrößte Land Südamerikas",
+        "en": "It is the second largest country in South America"
+      },
+      {
+        "de": "Es ist bekannt für Tango und Steak",
+        "en": "It is known for tango and steak"
+      },
+      {
+        "de": "Lionel Messi und Diego Maradona kommen von hier",
+        "en": "Lionel Messi and Diego Maradona come from here"
+      }
+    ],
+    "description": {
+      "de": "Argentinien ist das zweitgrößte Land Südamerikas, bekannt für Tango, Fußball, Steaks und die atemberaubenden Iguazú-Wasserfälle.",
+      "en": "Argentina is the second largest country in South America, known for tango, football, steaks, and the breathtaking Iguazú Falls."
+    },
+    "fun_fact": {
+      "de": "Argentinien ist Weltmeister im Fußball – das Land hat die WM dreimal gewonnen (1978, 1986, 2022) und Messi und Maradona hervorgebracht!",
+      "en": "Argentina is a football world champion – the country has won the World Cup three times (1978, 1986, 2022) and produced Messi and Maradona!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ar.png",
+    "emoji": "🇦🇷",
+    "lat": -36.0,
+    "lng": -64.0,
+    "qa_context": "Argentinien, Buenos Aires, Südamerika, 46 Mio., Peso, Tango, Fußball, Messi, Maradona, Steak, Patagonien"
+  },
+  {
+    "id": "kuba",
+    "name": {
+      "de": "Kuba",
+      "en": "Cuba"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Havanna",
+      "population_million": 11,
+      "area_km2": 109884,
+      "language": "Spanisch",
+      "currency": "Kubanischer Peso",
+      "neighbors": [],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es ist eine Insel in der Karibik",
+        "en": "It is an island in the Caribbean"
+      },
+      {
+        "de": "Es ist bekannt für Zigarren und Rum",
+        "en": "It is known for cigars and rum"
+      },
+      {
+        "de": "Es ist ein kommunistischer Staat in der Nähe der USA",
+        "en": "It is a communist state near the USA"
+      }
+    ],
+    "description": {
+      "de": "Kuba ist die größte Insel der Karibik, bekannt für seine bunten Oldtimer, Zigarren, Rum, Salsa und schönen Strände.",
+      "en": "Cuba is the largest island in the Caribbean, known for its colorful old cars, cigars, rum, salsa, and beautiful beaches."
+    },
+    "fun_fact": {
+      "de": "In Kuba fahren noch Tausende von Oldtimern aus den 1950ern – weil keine neuen Autos importiert werden durften, blieben die alten am Leben!",
+      "en": "Cuba still has thousands of vintage cars from the 1950s – because no new cars could be imported, the old ones were kept alive!"
+    },
+    "flag_url": "https://flagcdn.com/w320/cu.png",
+    "emoji": "🇨🇺",
+    "lat": 22.0,
+    "lng": -80.0,
+    "qa_context": "Kuba, Havanna, Karibik, Insel, 11 Mio., Zigarren, Rum, Salsa, Oldtimer, kommunistisch, Castro"
+  },
+  {
+    "id": "costa_rica",
+    "name": {
+      "de": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "San José",
+      "population_million": 5,
+      "area_km2": 51100,
+      "language": "Spanisch",
+      "currency": "Costa-ricanischer Colón",
+      "neighbors": [
+        "Nicaragua",
+        "Panama"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Mittelamerika",
+        "en": "It is in Central America"
+      },
+      {
+        "de": "Es hat keine Armee und ist sehr auf Umweltschutz bedacht",
+        "en": "It has no army and is very environmentally conscious"
+      },
+      {
+        "de": "Es ist bekannt für tropischen Regenwald und Faultiere",
+        "en": "It is known for tropical rainforest and sloths"
+      }
+    ],
+    "description": {
+      "de": "Costa Rica ist ein friedliches Land in Mittelamerika ohne Armee, bekannt für seine artenreichen Regenwälder und nachhaltigen Tourismus.",
+      "en": "Costa Rica is a peaceful country in Central America with no army, known for its biodiverse rainforests and sustainable tourism."
+    },
+    "fun_fact": {
+      "de": "Costa Rica betreibt fast 100% seiner Stromversorgung aus erneuerbaren Energien – vor allem Wasser, Wind und Sonne!",
+      "en": "Costa Rica runs almost 100% of its power supply from renewable energy – mainly water, wind, and sun!"
+    },
+    "flag_url": "https://flagcdn.com/w320/cr.png",
+    "emoji": "🇨🇷",
+    "lat": 9.7,
+    "lng": -83.8,
+    "qa_context": "Costa Rica, San José, Mittelamerika, 5 Mio., Colón, Regenwald, Faultiere, keine Armee, erneuerbare Energie"
+  },
+  {
+    "id": "bolivien",
+    "name": {
+      "de": "Bolivien",
+      "en": "Bolivia"
+    },
+    "category": "laender",
+    "difficulty": 2,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Sucre (Regierungssitz: La Paz)",
+      "population_million": 12,
+      "area_km2": 1098581,
+      "language": "Spanisch, Quechua, Aymara",
+      "currency": "Bolivianischer Boliviano",
+      "neighbors": [
+        "Peru",
+        "Brasilien",
+        "Paraguay",
+        "Argentinien",
+        "Chile"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": false
+    },
+    "hints": [
+      {
+        "de": "Es liegt in Südamerika ohne Meereszugang",
+        "en": "It is in South America without sea access"
+      },
+      {
+        "de": "Hier liegt der höchste schiffbare See der Welt",
+        "en": "The world's highest navigable lake is here"
+      },
+      {
+        "de": "Es hat die höchste Hauptstadt der Welt",
+        "en": "It has the world's highest capital city"
+      }
+    ],
+    "description": {
+      "de": "Bolivien ist ein bergiges Land in Südamerika mit dem Titicacasee, der riesigen Salzwüste Salar de Uyuni und der höchstgelegenen Großstadt der Welt.",
+      "en": "Bolivia is a mountainous country in South America with Lake Titicaca, the vast salt flat Salar de Uyuni, and the world's highest major city."
+    },
+    "fun_fact": {
+      "de": "Der Salar de Uyuni in Bolivien ist die größte Salzwüste der Welt – nach Regen wird sie ein riesiger Spiegel, der den Himmel perfekt spiegelt!",
+      "en": "The Salar de Uyuni in Bolivia is the world's largest salt flat – after rain it becomes a giant mirror reflecting the sky perfectly!"
+    },
+    "flag_url": "https://flagcdn.com/w320/bo.png",
+    "emoji": "🇧🇴",
+    "lat": -16.3,
+    "lng": -64.7,
+    "qa_context": "Bolivien, La Paz, Sucre, Südamerika, 12 Mio., Boliviano, Titicacasee, Salar de Uyuni, Anden, kein Meereszugang"
+  },
+  {
+    "id": "ecuador",
+    "name": {
+      "de": "Ecuador",
+      "en": "Ecuador"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Amerika",
+      "capital": "Quito",
+      "population_million": 18,
+      "area_km2": 283561,
+      "language": "Spanisch",
+      "currency": "US-Dollar",
+      "neighbors": [
+        "Kolumbien",
+        "Peru"
+      ],
+      "in_eu": false,
+      "is_island": false,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt direkt am Äquator – daher sein Name",
+        "en": "It lies directly on the equator – hence its name"
+      },
+      {
+        "de": "Die Galápagos-Inseln gehören zu diesem Land",
+        "en": "The Galápagos Islands belong to this country"
+      },
+      {
+        "de": "Es liegt im Norden Südamerikas am Pazifik",
+        "en": "It is in northern South America on the Pacific"
+      }
+    ],
+    "description": {
+      "de": "Ecuador liegt am Äquator in Südamerika und ist berühmt für die Galápagos-Inseln mit ihren einzigartigen Tieren.",
+      "en": "Ecuador lies on the equator in South America and is famous for the Galápagos Islands with their unique animals."
+    },
+    "fun_fact": {
+      "de": "Die Galápagos-Inseln haben Darwin zu seiner Evolutionstheorie inspiriert – die Riesenschildkröten und Darwinfinken dort sind weltweit bekannt!",
+      "en": "The Galápagos Islands inspired Darwin's theory of evolution – the giant tortoises and Darwin's finches there are world-famous!"
+    },
+    "flag_url": "https://flagcdn.com/w320/ec.png",
+    "emoji": "🇪🇨",
+    "lat": -1.8,
+    "lng": -78.2,
+    "qa_context": "Ecuador, Quito, Südamerika, 18 Mio., US-Dollar, Äquator, Galápagos, Darwinfinken, Riesenschildkröten, Anden"
+  },
+  {
+    "id": "papua_neuguinea",
+    "name": {
+      "de": "Papua-Neuguinea",
+      "en": "Papua New Guinea"
+    },
+    "category": "laender",
+    "difficulty": 3,
+    "facts": {
+      "continent": "Ozeanien",
+      "capital": "Port Moresby",
+      "population_million": 10,
+      "area_km2": 462840,
+      "language": "Tok Pisin, Englisch, Hiri Motu",
+      "currency": "Papua-Neuguinea-Kina",
+      "neighbors": [
+        "Indonesien"
+      ],
+      "in_eu": false,
+      "is_island": true,
+      "has_sea_access": true
+    },
+    "hints": [
+      {
+        "de": "Es liegt im Südpazifik nördlich von Australien",
+        "en": "It is in the South Pacific north of Australia"
+      },
+      {
+        "de": "Es ist bekannt für seine außergewöhnliche Tierwelt mit Paradiesvögeln",
+        "en": "It is known for its extraordinary wildlife with birds of paradise"
+      },
+      {
+        "de": "Es ist eines der sprachenreichsten Länder der Welt",
+        "en": "It is one of the most linguistically diverse countries in the world"
+      }
+    ],
+    "description": {
+      "de": "Papua-Neuguinea ist ein tropisches Inselland im Südpazifik, bekannt für seine außergewöhnliche Biodiversität und über 800 Sprachen.",
+      "en": "Papua New Guinea is a tropical island country in the South Pacific, known for its extraordinary biodiversity and over 800 languages."
+    },
+    "fun_fact": {
+      "de": "In Papua-Neuguinea werden über 800 verschiedene Sprachen gesprochen – mehr als in jedem anderen Land der Welt!",
+      "en": "Over 800 different languages are spoken in Papua New Guinea – more than any other country in the world!"
+    },
+    "flag_url": "https://flagcdn.com/w320/pg.png",
+    "emoji": "🇵🇬",
+    "lat": -6.3,
+    "lng": 143.9,
+    "qa_context": "Papua-Neuguinea, Port Moresby, Pazifik, Ozeanien, 10 Mio., Kina, Paradiesvögel, 800 Sprachen, Regenwald"
   }
 ]
